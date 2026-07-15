@@ -1,0 +1,627 @@
+product_id	category_id	category_name	category_slug	parent_category_id
+5940	15	Sin categorizar	sin-categorizar	0
+5996	15	Sin categorizar	sin-categorizar	0
+6034	15	Sin categorizar	sin-categorizar	0
+6037	15	Sin categorizar	sin-categorizar	0
+6041	15	Sin categorizar	sin-categorizar	0
+6045	15	Sin categorizar	sin-categorizar	0
+6047	15	Sin categorizar	sin-categorizar	0
+6082	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6088	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6101	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6113	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6115	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6154	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6156	73	Gimnasios exteriores premium	gimnasios-al-aire-libre-forte	66
+6181	73	Gimnasios exteriores premium	gimnasios-al-aire-libre-forte	66
+6185	73	Gimnasios exteriores premium	gimnasios-al-aire-libre-forte	66
+6187	73	Gimnasios exteriores premium	gimnasios-al-aire-libre-forte	66
+6190	73	Gimnasios exteriores premium	gimnasios-al-aire-libre-forte	66
+6192	73	Gimnasios exteriores premium	gimnasios-al-aire-libre-forte	66
+6194	73	Gimnasios exteriores premium	gimnasios-al-aire-libre-forte	66
+6197	73	Gimnasios exteriores premium	gimnasios-al-aire-libre-forte	66
+6199	73	Gimnasios exteriores premium	gimnasios-al-aire-libre-forte	66
+6201	73	Gimnasios exteriores premium	gimnasios-al-aire-libre-forte	66
+6203	73	Gimnasios exteriores premium	gimnasios-al-aire-libre-forte	66
+6205	74	Botes	botes-de-basura	77
+6207	74	Botes	botes-de-basura	77
+6210	74	Botes	botes-de-basura	77
+6218	74	Botes	botes-de-basura	77
+6220	76	Aparatos de Calistenia	calistenia	66
+6230	74	Botes	botes-de-basura	77
+6233	76	Aparatos de Calistenia	calistenia	66
+6236	74	Botes	botes-de-basura	77
+6243	74	Botes	botes-de-basura	77
+6247	74	Botes	botes-de-basura	77
+6251	74	Botes	botes-de-basura	77
+6254	76	Aparatos de Calistenia	calistenia	66
+6255	74	Botes	botes-de-basura	77
+6256	74	Botes	botes-de-basura	77
+6260	74	Botes	botes-de-basura	77
+6264	74	Botes	botes-de-basura	77
+6267	74	Botes	botes-de-basura	77
+6271	74	Botes	botes-de-basura	77
+6278	74	Botes	botes-de-basura	77
+6283	75	Bancas	bancas	77
+6285	76	Aparatos de Calistenia	calistenia	66
+6288	75	Bancas	bancas	77
+6293	75	Bancas	bancas	77
+6299	75	Bancas	bancas	77
+6312	75	Bancas	bancas	77
+6318	75	Bancas	bancas	77
+6324	75	Bancas	bancas	77
+6330	75	Bancas	bancas	77
+6335	75	Bancas	bancas	77
+6341	131	Mobiliario inclusivo	mobiliario-inclusivo	77
+6345	76	Aparatos de Calistenia	calistenia	66
+6346	75	Bancas	bancas	77
+6350	75	Bancas	bancas	77
+6353	76	Aparatos de Calistenia	calistenia	66
+6354	75	Bancas	bancas	77
+6360	75	Bancas	bancas	77
+6361	76	Aparatos de Calistenia	calistenia	66
+6364	76	Aparatos de Calistenia	calistenia	66
+6370	75	Bancas	bancas	77
+6370	79	Mesas	mesas	77
+6374	75	Bancas	bancas	77
+6389	75	Bancas	bancas	77
+6390	75	Bancas	bancas	77
+6392	78	Circuitos de ejercicio	circuitos-deportivos-para-entrenamiento	66
+6400	75	Bancas	bancas	77
+6401	78	Circuitos de ejercicio	circuitos-deportivos-para-entrenamiento	66
+6405	78	Circuitos de ejercicio	circuitos-deportivos-para-entrenamiento	66
+6411	78	Circuitos de ejercicio	circuitos-deportivos-para-entrenamiento	66
+6414	75	Bancas	bancas	77
+6416	78	Circuitos de ejercicio	circuitos-deportivos-para-entrenamiento	66
+6423	78	Circuitos de ejercicio	circuitos-deportivos-para-entrenamiento	66
+6425	78	Circuitos de ejercicio	circuitos-deportivos-para-entrenamiento	66
+6426	75	Bancas	bancas	77
+6429	79	Mesas	mesas	77
+6431	79	Mesas	mesas	77
+6433	79	Mesas	mesas	77
+6435	79	Mesas	mesas	77
+6436	79	Mesas	mesas	77
+6438	79	Mesas	mesas	77
+6441	131	Mobiliario inclusivo	mobiliario-inclusivo	77
+6443	79	Mesas	mesas	77
+6445	80	Aparcabicicletas	aparcabicicletas	77
+6448	80	Aparcabicicletas	aparcabicicletas	77
+6465	81	Gimnasios con pesas	gimnasios-con-pesas	66
+6467	80	Aparcabicicletas	aparcabicicletas	77
+6470	81	Gimnasios con pesas	gimnasios-con-pesas	66
+6472	80	Aparcabicicletas	aparcabicicletas	77
+6474	80	Aparcabicicletas	aparcabicicletas	77
+6482	82	Señaléticas	senaleticas	77
+6484	82	Señaléticas	senaleticas	77
+6486	82	Señaléticas	senaleticas	77
+6488	82	Señaléticas	senaleticas	77
+6490	82	Señaléticas	senaleticas	77
+6494	84	Juegos Inclusivos	juegos-inclusivos	70
+6506	89	Macetas	macetas	77
+6507	89	Macetas	macetas	77
+6509	89	Macetas	macetas	77
+6513	90	Mobiliario de acero inoxidable	mobiliario-de-acero-inoxidable	77
+6520	74	Botes	botes-de-basura	77
+6520	90	Mobiliario de acero inoxidable	mobiliario-de-acero-inoxidable	77
+6526	91	Mobiliario de concreto	mobiliario-de-concreto	77
+6528	91	Mobiliario de concreto	mobiliario-de-concreto	77
+6531	92	Bolardos	bolardos	77
+6536	83	Gimnasios Inclusivos	inclusivos-deportivo	66
+6538	92	Bolardos	bolardos	77
+6540	92	Bolardos	bolardos	77
+6543	83	Gimnasios Inclusivos	inclusivos-deportivo	66
+6546	83	Gimnasios Inclusivos	inclusivos-deportivo	66
+6557	83	Gimnasios Inclusivos	inclusivos-deportivo	66
+6561	83	Gimnasios Inclusivos	inclusivos-deportivo	66
+6564	83	Gimnasios Inclusivos	inclusivos-deportivo	66
+6569	95	Parabus	parabuses	77
+6575	95	Parabus	parabuses	77
+6577	97	Fuentes	fuentes	77
+6578	97	Fuentes	fuentes	77
+6579	97	Fuentes	fuentes	77
+6580	96	Gimnasios para adultos mayores	adultos-mayores	66
+6582	97	Fuentes	fuentes	77
+6583	96	Gimnasios para adultos mayores	adultos-mayores	66
+6585	96	Gimnasios para adultos mayores	adultos-mayores	66
+6589	96	Gimnasios para adultos mayores	adultos-mayores	66
+6596	97	Fuentes	fuentes	77
+6597	97	Fuentes	fuentes	77
+6598	97	Fuentes	fuentes	77
+6599	97	Fuentes	fuentes	77
+6600	97	Fuentes	fuentes	77
+6601	97	Fuentes	fuentes	77
+6602	97	Fuentes	fuentes	77
+6603	97	Fuentes	fuentes	77
+6604	98	Luminarias	luminarias	77
+6610	98	Luminarias	luminarias	77
+6647	175	Gradas	gradas	66
+6653	101	Canchas Multiusos	canchas-deportivas	66
+6661	175	Gradas	gradas	66
+6664	101	Canchas Multiusos	canchas-deportivas	66
+6665	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6676	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6683	101	Canchas Multiusos	canchas-deportivas	66
+6686	101	Canchas Multiusos	canchas-deportivas	66
+6689	79	Mesas	mesas	77
+6701	104	Letras	letras	77
+6703	104	Letras	letras	77
+6704	104	Letras	letras	77
+6705	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6707	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6708	104	Letras	letras	77
+6709	104	Letras	letras	77
+6710	104	Letras	letras	77
+6712	77	Mobiliario Urbano	mobiliario-urbano	0
+6712	103	Techumbres	techumbres	77
+6713	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6715	103	Techumbres	techumbres	77
+6721	75	Bancas	bancas	77
+6723	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6728	101	Canchas Multiusos	canchas-deportivas	66
+6731	106	Circuitos Caninos Agility	circuitos	66
+6733	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6736	106	Circuitos Caninos Agility	circuitos	66
+6738	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6739	106	Circuitos Caninos Agility	circuitos	66
+6741	106	Circuitos Caninos Agility	circuitos	66
+6747	106	Circuitos Caninos Agility	circuitos	66
+6748	106	Circuitos Caninos Agility	circuitos	66
+6750	106	Circuitos Caninos Agility	circuitos	66
+6752	106	Circuitos Caninos Agility	circuitos	66
+6755	106	Circuitos Caninos Agility	circuitos	66
+6757	106	Circuitos Caninos Agility	circuitos	66
+6760	106	Circuitos Caninos Agility	circuitos	66
+6763	106	Circuitos Caninos Agility	circuitos	66
+6764	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6770	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6783	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6785	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6791	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6793	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6795	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6797	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6810	75	Bancas	bancas	77
+6820	79	Mesas	mesas	77
+6836	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6839	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6841	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6843	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6843	319	Juegos infantiles Centroamerica	juegos-infantiles-centroamerica	70
+6846	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6852	107	Juegos Temáticos	juegos-tematicos	70
+6860	107	Juegos Temáticos	juegos-tematicos	70
+6868	107	Juegos Temáticos	juegos-tematicos	70
+6868	319	Juegos infantiles Centroamerica	juegos-infantiles-centroamerica	70
+6872	107	Juegos Temáticos	juegos-tematicos	70
+6874	107	Juegos Temáticos	juegos-tematicos	70
+6874	319	Juegos infantiles Centroamerica	juegos-infantiles-centroamerica	70
+6876	107	Juegos Temáticos	juegos-tematicos	70
+6884	107	Juegos Temáticos	juegos-tematicos	70
+6884	319	Juegos infantiles Centroamerica	juegos-infantiles-centroamerica	70
+6897	108	Juegos de Escalar	sin-plataforma	70
+6899	108	Juegos de Escalar	sin-plataforma	70
+6910	108	Juegos de Escalar	sin-plataforma	70
+6910	109	Juegos Trepaderos	trepaderos	70
+6916	109	Juegos Trepaderos	trepaderos	70
+6918	109	Juegos Trepaderos	trepaderos	70
+6920	109	Juegos Trepaderos	trepaderos	70
+6928	109	Juegos Trepaderos	trepaderos	70
+6930	109	Juegos Trepaderos	trepaderos	70
+6934	109	Juegos Trepaderos	trepaderos	70
+6942	109	Juegos Trepaderos	trepaderos	70
+6944	109	Juegos Trepaderos	trepaderos	70
+6962	110	Juegos para Jardín	juegos-para-jardin	70
+6964	110	Juegos para Jardín	juegos-para-jardin	70
+6972	111	Montables	montables	70
+6985	111	Montables	montables	70
+6992	111	Montables	montables	70
+6994	111	Montables	montables	70
+6997	111	Montables	montables	70
+7000	111	Montables	montables	70
+7003	111	Montables	montables	70
+7009	114	Resbaladillas	resbaladillas	70
+7012	114	Resbaladillas	resbaladillas	70
+7014	114	Resbaladillas	resbaladillas	70
+7017	114	Resbaladillas	resbaladillas	70
+7039	115	Sube y baja	sube-y-baja	70
+7043	115	Sube y baja	sube-y-baja	70
+7044	129	Lucendi	lucendi	70
+7047	115	Sube y baja	sube-y-baja	70
+7060	115	Sube y baja	sube-y-baja	70
+7065	115	Sube y baja	sube-y-baja	70
+7066	115	Sube y baja	sube-y-baja	70
+7077	116	Pasamanos	pasamanos	70
+7081	116	Pasamanos	pasamanos	70
+7086	116	Pasamanos	pasamanos	70
+7089	116	Pasamanos	pasamanos	70
+7091	84	Juegos Inclusivos	juegos-inclusivos	70
+7100	84	Juegos Inclusivos	juegos-inclusivos	70
+7103	84	Juegos Inclusivos	juegos-inclusivos	70
+7120	84	Juegos Inclusivos	juegos-inclusivos	70
+7120	319	Juegos infantiles Centroamerica	juegos-infantiles-centroamerica	70
+7122	84	Juegos Inclusivos	juegos-inclusivos	70
+7124	84	Juegos Inclusivos	juegos-inclusivos	70
+7126	84	Juegos Inclusivos	juegos-inclusivos	70
+7126	319	Juegos infantiles Centroamerica	juegos-infantiles-centroamerica	70
+7137	119	Juegos infantiles acuáticos	acuaticos	70
+7145	119	Juegos infantiles acuáticos	acuaticos	70
+7150	119	Juegos infantiles acuáticos	acuaticos	70
+7153	119	Juegos infantiles acuáticos	acuaticos	70
+7156	119	Juegos infantiles acuáticos	acuaticos	70
+7167	119	Juegos infantiles acuáticos	acuaticos	70
+7169	119	Juegos infantiles acuáticos	acuaticos	70
+7171	119	Juegos infantiles acuáticos	acuaticos	70
+7173	119	Juegos infantiles acuáticos	acuaticos	70
+7177	119	Juegos infantiles acuáticos	acuaticos	70
+7224	121	Pasto sintético	pasto-sintetico	122
+7228	121	Pasto sintético	pasto-sintetico	122
+7230	121	Pasto sintético	pasto-sintetico	122
+7232	121	Pasto sintético	pasto-sintetico	122
+7233	121	Pasto sintético	pasto-sintetico	122
+7235	121	Pasto sintético	pasto-sintetico	122
+7243	74	Botes	botes-de-basura	77
+7254	124	Piso de Loseta de Caucho	piso-de-loseta-de-caucho	122
+7255	124	Piso de Loseta de Caucho	piso-de-loseta-de-caucho	122
+7260	124	Piso de Loseta de Caucho	piso-de-loseta-de-caucho	122
+7261	124	Piso de Loseta de Caucho	piso-de-loseta-de-caucho	122
+7262	75	Bancas	bancas	77
+7263	124	Piso de Loseta de Caucho	piso-de-loseta-de-caucho	122
+7265	75	Bancas	bancas	77
+7266	124	Piso de Loseta de Caucho	piso-de-loseta-de-caucho	122
+7269	124	Piso de Loseta de Caucho	piso-de-loseta-de-caucho	122
+7272	124	Piso de Loseta de Caucho	piso-de-loseta-de-caucho	122
+7273	124	Piso de Loseta de Caucho	piso-de-loseta-de-caucho	122
+7275	125	Jumbo Rubber	jumbo-rubber	122
+7277	125	Jumbo Rubber	jumbo-rubber	122
+7278	80	Aparcabicicletas	aparcabicicletas	77
+7279	125	Jumbo Rubber	jumbo-rubber	122
+7281	125	Jumbo Rubber	jumbo-rubber	122
+7286	126	Piso Tipo Tartán	piso-tipo-tartan	122
+7292	75	Bancas	bancas	77
+7303	119	Juegos infantiles acuáticos	acuaticos	70
+7307	127	Piso Acuático	piso-acuatico	122
+7383	128	Esculturas Recreativas Lúdicas	esculturas-ludicas	70
+7395	128	Esculturas Recreativas Lúdicas	esculturas-ludicas	70
+7405	128	Esculturas Recreativas Lúdicas	esculturas-ludicas	70
+7407	128	Esculturas Recreativas Lúdicas	esculturas-ludicas	70
+7411	129	Lucendi	lucendi	70
+7416	126	Piso Tipo Tartán	piso-tipo-tartan	122
+7425	129	Lucendi	lucendi	70
+7427	129	Lucendi	lucendi	70
+7430	129	Lucendi	lucendi	70
+7442	130	Mobiliario Lucendi	mobiliario-lucendi	77
+7443	129	Lucendi	lucendi	70
+7443	130	Mobiliario Lucendi	mobiliario-lucendi	77
+7445	130	Mobiliario Lucendi	mobiliario-lucendi	77
+7446	130	Mobiliario Lucendi	mobiliario-lucendi	77
+7450	107	Juegos Temáticos	juegos-tematicos	70
+7458	72	Juegos Modulares de Exterior	modulos-recreativos	70
+7458	108	Juegos de Escalar	sin-plataforma	70
+7458	319	Juegos infantiles Centroamerica	juegos-infantiles-centroamerica	70
+7463	109	Juegos Trepaderos	trepaderos	70
+7464	109	Juegos Trepaderos	trepaderos	70
+7466	114	Resbaladillas	resbaladillas	70
+7467	84	Juegos Inclusivos	juegos-inclusivos	70
+7479	75	Bancas	bancas	77
+7480	75	Bancas	bancas	77
+7491	75	Bancas	bancas	77
+7491	79	Mesas	mesas	77
+7496	82	Señaléticas	senaleticas	77
+7505	95	Parabus	parabuses	77
+7513	106	Circuitos Caninos Agility	circuitos	66
+7749	107	Juegos Temáticos	juegos-tematicos	70
+7751	108	Juegos de Escalar	sin-plataforma	70
+7780	133	Columpios	columpios	70
+7781	133	Columpios	columpios	70
+7783	133	Columpios	columpios	70
+7789	133	Columpios	columpios	70
+7791	133	Columpios	columpios	70
+7794	110	Juegos para Jardín	juegos-para-jardin	70
+7819	111	Montables	montables	70
+7824	84	Juegos Inclusivos	juegos-inclusivos	70
+7828	84	Juegos Inclusivos	juegos-inclusivos	70
+7831	84	Juegos Inclusivos	juegos-inclusivos	70
+7834	129	Lucendi	lucendi	70
+8007	101	Canchas Multiusos	canchas-deportivas	66
+8009	175	Gradas	gradas	66
+8012	106	Circuitos Caninos Agility	circuitos	66
+8314	75	Bancas	bancas	77
+8316	75	Bancas	bancas	77
+8328	131	Mobiliario inclusivo	mobiliario-inclusivo	77
+8336	75	Bancas	bancas	77
+8345	79	Mesas	mesas	77
+8350	80	Aparcabicicletas	aparcabicicletas	77
+8359	75	Bancas	bancas	77
+8359	90	Mobiliario de acero inoxidable	mobiliario-de-acero-inoxidable	77
+8361	74	Botes	botes-de-basura	77
+8361	90	Mobiliario de acero inoxidable	mobiliario-de-acero-inoxidable	77
+8363	90	Mobiliario de acero inoxidable	mobiliario-de-acero-inoxidable	77
+8363	92	Bolardos	bolardos	77
+8364	90	Mobiliario de acero inoxidable	mobiliario-de-acero-inoxidable	77
+8364	92	Bolardos	bolardos	77
+8367	92	Bolardos	bolardos	77
+8370	95	Parabus	parabuses	77
+19063	133	Columpios	columpios	70
+19111	91	Mobiliario de concreto	mobiliario-de-concreto	77
+21148	72	Juegos Modulares de Exterior	modulos-recreativos	70
+22130	76	Aparatos de Calistenia	calistenia	66
+22188	175	Gradas	gradas	66
+22209	106	Circuitos Caninos Agility	circuitos	66
+22313	180	Mega Estructuras	mega-estructuras	70
+22313	319	Juegos infantiles Centroamerica	juegos-infantiles-centroamerica	70
+22315	180	Mega Estructuras	mega-estructuras	70
+22315	319	Juegos infantiles Centroamerica	juegos-infantiles-centroamerica	70
+22323	110	Juegos para Jardín	juegos-para-jardin	70
+22329	84	Juegos Inclusivos	juegos-inclusivos	70
+22330	84	Juegos Inclusivos	juegos-inclusivos	70
+22330	319	Juegos infantiles Centroamerica	juegos-infantiles-centroamerica	70
+22332	181	Juegos Infantiles de Madera	juegos-infantiles-madera	70
+22334	181	Juegos Infantiles de Madera	juegos-infantiles-madera	70
+22335	181	Juegos Infantiles de Madera	juegos-infantiles-madera	70
+22344	74	Botes	botes-de-basura	77
+22346	74	Botes	botes-de-basura	77
+22348	74	Botes	botes-de-basura	77
+22359	75	Bancas	bancas	77
+22365	75	Bancas	bancas	77
+22370	75	Bancas	bancas	77
+22386	75	Bancas	bancas	77
+22393	79	Mesas	mesas	77
+22396	82	Señaléticas	senaleticas	77
+22401	82	Señaléticas	senaleticas	77
+22403	82	Señaléticas	senaleticas	77
+22405	82	Señaléticas	senaleticas	77
+22413	182	Parklets	parklets	77
+22415	182	Parklets	parklets	77
+22417	182	Parklets	parklets	77
+22419	91	Mobiliario de concreto	mobiliario-de-concreto	77
+22421	91	Mobiliario de concreto	mobiliario-de-concreto	77
+22422	91	Mobiliario de concreto	mobiliario-de-concreto	77
+22424	91	Mobiliario de concreto	mobiliario-de-concreto	77
+22429	92	Bolardos	bolardos	77
+22431	92	Bolardos	bolardos	77
+22667	133	Columpios	columpios	70
+22712	184	Piso plástico modular	piso-plastico-modular	122
+22725	184	Piso plástico modular	piso-plastico-modular	122
+22727	184	Piso plástico modular	piso-plastico-modular	122
+22729	184	Piso plástico modular	piso-plastico-modular	122
+22731	184	Piso plástico modular	piso-plastico-modular	122
+22733	184	Piso plástico modular	piso-plastico-modular	122
+22735	184	Piso plástico modular	piso-plastico-modular	122
+22737	184	Piso plástico modular	piso-plastico-modular	122
+22739	184	Piso plástico modular	piso-plastico-modular	122
+22897	181	Juegos Infantiles de Madera	juegos-infantiles-madera	70
+23738	181	Juegos Infantiles de Madera	juegos-infantiles-madera	70
+24629	74	Botes	botes-de-basura	77
+24631	74	Botes	botes-de-basura	77
+24818	72	Juegos Modulares de Exterior	modulos-recreativos	70
+24818	138	Productos Nuevos	productos-nuevos	0
+24820	72	Juegos Modulares de Exterior	modulos-recreativos	70
+24820	138	Productos Nuevos	productos-nuevos	0
+24822	72	Juegos Modulares de Exterior	modulos-recreativos	70
+24822	138	Productos Nuevos	productos-nuevos	0
+24851	72	Juegos Modulares de Exterior	modulos-recreativos	70
+24851	138	Productos Nuevos	productos-nuevos	0
+24856	72	Juegos Modulares de Exterior	modulos-recreativos	70
+24856	138	Productos Nuevos	productos-nuevos	0
+24871	115	Sube y baja	sube-y-baja	70
+24871	138	Productos Nuevos	productos-nuevos	0
+24871	181	Juegos Infantiles de Madera	juegos-infantiles-madera	70
+24883	138	Productos Nuevos	productos-nuevos	0
+24883	206	Gimnasios exteriores medium	gimnasios-exteriores-medium	66
+24885	138	Productos Nuevos	productos-nuevos	0
+24885	206	Gimnasios exteriores medium	gimnasios-exteriores-medium	66
+24887	138	Productos Nuevos	productos-nuevos	0
+24887	206	Gimnasios exteriores medium	gimnasios-exteriores-medium	66
+24889	138	Productos Nuevos	productos-nuevos	0
+24889	206	Gimnasios exteriores medium	gimnasios-exteriores-medium	66
+24891	138	Productos Nuevos	productos-nuevos	0
+24891	206	Gimnasios exteriores medium	gimnasios-exteriores-medium	66
+24893	138	Productos Nuevos	productos-nuevos	0
+24893	206	Gimnasios exteriores medium	gimnasios-exteriores-medium	66
+24895	138	Productos Nuevos	productos-nuevos	0
+24895	206	Gimnasios exteriores medium	gimnasios-exteriores-medium	66
+24897	138	Productos Nuevos	productos-nuevos	0
+24897	206	Gimnasios exteriores medium	gimnasios-exteriores-medium	66
+24899	138	Productos Nuevos	productos-nuevos	0
+24899	206	Gimnasios exteriores medium	gimnasios-exteriores-medium	66
+24901	138	Productos Nuevos	productos-nuevos	0
+24901	206	Gimnasios exteriores medium	gimnasios-exteriores-medium	66
+25233	138	Productos Nuevos	productos-nuevos	0
+25233	181	Juegos Infantiles de Madera	juegos-infantiles-madera	70
+25243	130	Mobiliario Lucendi	mobiliario-lucendi	77
+28342	72	Juegos Modulares de Exterior	modulos-recreativos	70
+28365	107	Juegos Temáticos	juegos-tematicos	70
+28369	107	Juegos Temáticos	juegos-tematicos	70
+28389	15	Sin categorizar	sin-categorizar	0
+28398	315	Retos bajos	retos-bajos-juegos-infantiles	70
+28399	15	Sin categorizar	sin-categorizar	0
+28409	111	Montables	montables	70
+28410	111	Montables	montables	70
+28412	181	Juegos Infantiles de Madera	juegos-infantiles-madera	70
+28647	15	Sin categorizar	sin-categorizar	0
+28651	78	Circuitos de ejercicio	circuitos-deportivos-para-entrenamiento	66
+28654	78	Circuitos de ejercicio	circuitos-deportivos-para-entrenamiento	66
+28664	76	Aparatos de Calistenia	calistenia	66
+28674	76	Aparatos de Calistenia	calistenia	66
+28676	76	Aparatos de Calistenia	calistenia	66
+28678	106	Circuitos Caninos Agility	circuitos	66
+29276	317	Skateparks y Pumtracks	skateparks-y-pumtracks	66
+29280	317	Skateparks y Pumtracks	skateparks-y-pumtracks	66
+29281	317	Skateparks y Pumtracks	skateparks-y-pumtracks	66
+29284	317	Skateparks y Pumtracks	skateparks-y-pumtracks	66
+29373	91	Mobiliario de concreto	mobiliario-de-concreto	77
+29376	15	Sin categorizar	sin-categorizar	0
+29377	91	Mobiliario de concreto	mobiliario-de-concreto	77
+29380	91	Mobiliario de concreto	mobiliario-de-concreto	77
+29383	91	Mobiliario de concreto	mobiliario-de-concreto	77
+29757	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+29757	76	Aparatos de Calistenia	calistenia	66
+30487	70	Juegos infantiles	juegos-infantiles	0
+30487	321	Kompan	kompan	70
+30490	70	Juegos infantiles	juegos-infantiles	0
+30490	321	Kompan	kompan	70
+30492	70	Juegos infantiles	juegos-infantiles	0
+30492	321	Kompan	kompan	70
+30494	70	Juegos infantiles	juegos-infantiles	0
+30494	321	Kompan	kompan	70
+30496	70	Juegos infantiles	juegos-infantiles	0
+30496	321	Kompan	kompan	70
+30498	70	Juegos infantiles	juegos-infantiles	0
+30498	321	Kompan	kompan	70
+30500	70	Juegos infantiles	juegos-infantiles	0
+30500	321	Kompan	kompan	70
+30502	70	Juegos infantiles	juegos-infantiles	0
+30502	321	Kompan	kompan	70
+30504	70	Juegos infantiles	juegos-infantiles	0
+30504	321	Kompan	kompan	70
+30506	70	Juegos infantiles	juegos-infantiles	0
+30506	321	Kompan	kompan	70
+30508	70	Juegos infantiles	juegos-infantiles	0
+30508	321	Kompan	kompan	70
+30510	70	Juegos infantiles	juegos-infantiles	0
+30510	321	Kompan	kompan	70
+30513	70	Juegos infantiles	juegos-infantiles	0
+30513	321	Kompan	kompan	70
+30515	70	Juegos infantiles	juegos-infantiles	0
+30515	321	Kompan	kompan	70
+30517	70	Juegos infantiles	juegos-infantiles	0
+30517	321	Kompan	kompan	70
+30519	70	Juegos infantiles	juegos-infantiles	0
+30519	321	Kompan	kompan	70
+30521	70	Juegos infantiles	juegos-infantiles	0
+30521	321	Kompan	kompan	70
+30523	70	Juegos infantiles	juegos-infantiles	0
+30523	321	Kompan	kompan	70
+30525	70	Juegos infantiles	juegos-infantiles	0
+30525	321	Kompan	kompan	70
+30527	70	Juegos infantiles	juegos-infantiles	0
+30527	321	Kompan	kompan	70
+30529	70	Juegos infantiles	juegos-infantiles	0
+30529	321	Kompan	kompan	70
+30532	70	Juegos infantiles	juegos-infantiles	0
+30532	321	Kompan	kompan	70
+30534	70	Juegos infantiles	juegos-infantiles	0
+30534	321	Kompan	kompan	70
+30536	70	Juegos infantiles	juegos-infantiles	0
+30536	321	Kompan	kompan	70
+30539	70	Juegos infantiles	juegos-infantiles	0
+30539	321	Kompan	kompan	70
+30541	70	Juegos infantiles	juegos-infantiles	0
+30541	321	Kompan	kompan	70
+30543	70	Juegos infantiles	juegos-infantiles	0
+30543	321	Kompan	kompan	70
+30545	320	Deportivo	deportivo	0
+30545	322	Kompan	kompan-deportivo	320
+30547	320	Deportivo	deportivo	0
+30547	322	Kompan	kompan-deportivo	320
+30550	320	Deportivo	deportivo	0
+30550	322	Kompan	kompan-deportivo	320
+30552	320	Deportivo	deportivo	0
+30552	322	Kompan	kompan-deportivo	320
+30554	320	Deportivo	deportivo	0
+30554	322	Kompan	kompan-deportivo	320
+30556	320	Deportivo	deportivo	0
+30556	322	Kompan	kompan-deportivo	320
+30558	320	Deportivo	deportivo	0
+30558	322	Kompan	kompan-deportivo	320
+30560	320	Deportivo	deportivo	0
+30560	322	Kompan	kompan-deportivo	320
+30562	320	Deportivo	deportivo	0
+30562	322	Kompan	kompan-deportivo	320
+30564	320	Deportivo	deportivo	0
+30564	322	Kompan	kompan-deportivo	320
+30731	180	Mega Estructuras	mega-estructuras	70
+30734	180	Mega Estructuras	mega-estructuras	70
+31943	77	Mobiliario Urbano	mobiliario-urbano	0
+31946	77	Mobiliario Urbano	mobiliario-urbano	0
+31948	15	Sin categorizar	sin-categorizar	0
+31951	72	Juegos Modulares de Exterior	modulos-recreativos	70
+31953	72	Juegos Modulares de Exterior	modulos-recreativos	70
+31956	72	Juegos Modulares de Exterior	modulos-recreativos	70
+31958	72	Juegos Modulares de Exterior	modulos-recreativos	70
+31960	316	Juegos modulares para interiores	juegos-modulares-para-interiores-juegos-infantiles	70
+32083	70	Juegos infantiles	juegos-infantiles	0
+32083	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32088	111	Montables	montables	70
+32089	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32090	76	Aparatos de Calistenia	calistenia	66
+32097	111	Montables	montables	70
+32099	111	Montables	montables	70
+32101	79	Mesas	mesas	77
+32103	79	Mesas	mesas	77
+32105	79	Mesas	mesas	77
+32107	79	Mesas	mesas	77
+32109	80	Aparcabicicletas	aparcabicicletas	77
+32111	95	Parabus	parabuses	77
+32113	98	Luminarias	luminarias	77
+32115	98	Luminarias	luminarias	77
+32117	98	Luminarias	luminarias	77
+32119	315	Retos bajos	retos-bajos-juegos-infantiles	70
+32121	181	Juegos Infantiles de Madera	juegos-infantiles-madera	70
+32123	119	Juegos infantiles acuáticos	acuaticos	70
+32125	119	Juegos infantiles acuáticos	acuaticos	70
+32127	82	Señaléticas	senaleticas	77
+32127	345	Reductores de velocidad	reductores-de-velocidad	77
+32129	82	Señaléticas	senaleticas	77
+32129	345	Reductores de velocidad	reductores-de-velocidad	77
+32131	82	Señaléticas	senaleticas	77
+32131	345	Reductores de velocidad	reductores-de-velocidad	77
+32133	82	Señaléticas	senaleticas	77
+32133	345	Reductores de velocidad	reductores-de-velocidad	77
+32204	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32209	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32210	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32212	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32216	320	Deportivo	deportivo	0
+32224	320	Deportivo	deportivo	0
+32225	320	Deportivo	deportivo	0
+32226	320	Deportivo	deportivo	0
+32263	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32263	344	Ejercitadores Okstar	ejercitadores-okstar	66
+32264	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32264	344	Ejercitadores Okstar	ejercitadores-okstar	66
+32265	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32265	344	Ejercitadores Okstar	ejercitadores-okstar	66
+32266	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32266	344	Ejercitadores Okstar	ejercitadores-okstar	66
+32267	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32267	344	Ejercitadores Okstar	ejercitadores-okstar	66
+32268	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32268	344	Ejercitadores Okstar	ejercitadores-okstar	66
+32269	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32269	344	Ejercitadores Okstar	ejercitadores-okstar	66
+32270	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32270	344	Ejercitadores Okstar	ejercitadores-okstar	66
+32271	343	Paneles Educativos	paneles-educativos	70
+32272	343	Paneles Educativos	paneles-educativos	70
+32273	343	Paneles Educativos	paneles-educativos	70
+32274	343	Paneles Educativos	paneles-educativos	70
+32275	343	Paneles Educativos	paneles-educativos	70
+32276	343	Paneles Educativos	paneles-educativos	70
+32277	343	Paneles Educativos	paneles-educativos	70
+32278	343	Paneles Educativos	paneles-educativos	70
+32279	343	Paneles Educativos	paneles-educativos	70
+32280	343	Paneles Educativos	paneles-educativos	70
+32296	75	Bancas	bancas	77
+32297	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32302	75	Bancas	bancas	77
+32303	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32304	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32305	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32318	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32319	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32319	76	Aparatos de Calistenia	calistenia	66
+32320	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32321	84	Juegos Inclusivos	juegos-inclusivos	70
+32322	84	Juegos Inclusivos	juegos-inclusivos	70
+32323	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32324	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32325	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32326	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32327	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32328	107	Juegos Temáticos	juegos-tematicos	70
+32329	107	Juegos Temáticos	juegos-tematicos	70
+32334	80	Aparcabicicletas	aparcabicicletas	77
+32337	76	Aparatos de Calistenia	calistenia	66
+32338	83	Gimnasios Inclusivos	inclusivos-deportivo	66
+32423	76	Aparatos de Calistenia	calistenia	66
