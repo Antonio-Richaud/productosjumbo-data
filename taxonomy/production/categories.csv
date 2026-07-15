@@ -1,0 +1,75 @@
+term_id,name,slug,parent,count
+15,"Sin categorizar",sin-categorizar,0,2
+66,"Gimnasios al aire libre",gimnasios-al-aire-libre,0,104
+70,"Juegos infantiles",juegos-infantiles,0,181
+72,"Juegos Modulares de Exterior",modulos-recreativos,70,31
+73,"Gimnasios exteriores premium",gimnasios-al-aire-libre-forte,66,11
+74,Botes,botes-de-basura,77,24
+75,Bancas,bancas,77,36
+76,"Aparatos de Calistenia",calistenia,66,16
+77,"Mobiliario Urbano",mobiliario-urbano,0,158
+78,"Circuitos de ejercicio",circuitos-deportivos-para-entrenamiento,66,9
+79,Mesas,mesas,77,16
+80,Aparcabicicletas,aparcabicicletas,77,8
+81,"Gimnasios con pesas",gimnasios-con-pesas,66,2
+82,Señaléticas,senaleticas,77,14
+83,"Gimnasios Inclusivos",inclusivos-deportivo,66,7
+84,"Juegos Inclusivos",juegos-inclusivos,70,14
+89,Macetas,macetas,77,3
+90,"Mobiliario de acero inoxidable",mobiliario-de-acero-inoxidable,77,5
+91,"Mobiliario de concreto",mobiliario-de-concreto,77,11
+92,Bolardos,bolardos,77,8
+93,"Señalizadores viales",senalizadores-viales,77,0
+94,Alcorques,alcorques,77,0
+95,Parabus,parabuses,77,5
+96,"Gimnasios para adultos mayores",adultos-mayores,66,4
+97,Fuentes,fuentes,77,11
+98,Luminarias,luminarias,77,5
+101,"Canchas Multiusos",canchas-deportivas,66,6
+103,Techumbres,techumbres,77,2
+104,Letras,letras,77,6
+106,"Circuitos Caninos Agility",circuitos,66,16
+107,"Juegos Temáticos",juegos-tematicos,70,12
+108,"Juegos de Escalar",sin-plataforma,70,4
+109,"Juegos Trepaderos",trepaderos,70,11
+110,"Juegos para Jardín",juegos-para-jardin,70,4
+111,Montables,montables,70,13
+112,Ludotecas,ludoteca,113,0
+113,"Diseño y ambientación",ambientacion-y-diseno,0,0
+114,Resbaladillas,resbaladillas,70,5
+115,"Sube y baja",sube-y-baja,70,7
+116,Pasamanos,pasamanos,70,4
+119,"Juegos infantiles acuáticos",acuaticos,70,13
+120,Playa,playa,113,0
+121,"Pasto sintético",pasto-sintetico,122,6
+122,Superficies,superficies,0,30
+124,"Piso de Loseta de Caucho",piso-de-loseta-de-caucho,122,9
+125,"Jumbo Rubber",jumbo-rubber,122,4
+126,"Piso Tipo Tartán",piso-tipo-tartan,122,2
+127,"Piso Acuático",piso-acuatico,122,0
+128,"Esculturas Recreativas Lúdicas",esculturas-ludicas,70,4
+129,Lucendi,lucendi,70,4
+130,"Mobiliario Lucendi",mobiliario-lucendi,77,3
+131,"Mobiliario inclusivo",mobiliario-inclusivo,77,3
+132,"Biblioteca Mobil",biblioteca-mobil,77,0
+133,Columpios,columpios,70,7
+138,"Productos Nuevos",productos-nuevos,0,17
+175,Gradas,gradas,66,4
+180,"Mega Estructuras",mega-estructuras,70,4
+181,"Juegos Infantiles de Madera",juegos-infantiles-madera,70,7
+182,Parklets,parklets,77,3
+184,"Piso plástico modular",piso-plastico-modular,122,9
+206,"Gimnasios exteriores medium",gimnasios-exteriores-medium,66,10
+315,"Retos bajos",retos-bajos-juegos-infantiles,70,2
+316,"Juegos modulares para interiores",juegos-modulares-para-interiores-juegos-infantiles,70,1
+317,"Skateparks y Pumtracks",skateparks-y-pumtracks,66,4
+319,"Juegos infantiles Centroamerica",juegos-infantiles-centroamerica,70,8
+320,Deportivo,deportivo,0,14
+321,Kompan,kompan,70,27
+322,Kompan,kompan-deportivo,320,10
+338,"Gimnasios exteriores basicos",gimnasios-exteriores-basicos,320,0
+339,"Gimnasios inclusivos",gimnasios-inclusivos,320,0
+340,Edutainment,edutainment,70,0
+343,"Paneles Educativos",paneles-educativos,70,10
+344,"Ejercitadores Okstar",ejercitadores-okstar,66,8
+345,"Reductores de velocidad",reductores-de-velocidad,77,4

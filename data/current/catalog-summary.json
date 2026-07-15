@@ -1,0 +1,14 @@
+{
+  "snapshot_date": "2026-07-15",
+  "source_environment": "production",
+  "source_url": "https://www.productosjumbo.com",
+  "products_total": 540,
+  "products_published": 484,
+  "products_draft": 21,
+  "products_private": 35,
+  "products_pending": 0,
+  "categories_total": 74,
+  "root_categories_total": 8,
+  "product_category_relations": 626,
+  "products_without_category": 5
+}
