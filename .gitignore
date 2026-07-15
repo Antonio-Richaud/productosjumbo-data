@@ -1,0 +1,60 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+wp-config.php
+*.key
+*.pem
+
+# Respaldos privados
+backups/
+private/
+secrets/
+
+# Bases de datos completas
+*.sql
+*.sql.gz
+*.dump
+*.dump.gz
+
+# Archivos temporales
+tmp/
+temp/
+cache/
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Dependencias y entornos locales
+node_modules/
+vendor/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Archivos comprimidos temporales
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Reportes locales no versionados
+reports/private/
+exports/private/
+
+# IMPORTANTE:
+# No ignorar imágenes, PDFs, CSV, JSON o documentos técnicos del catálogo.
+# Esos archivos sí forman parte del objetivo de este repositorio.
