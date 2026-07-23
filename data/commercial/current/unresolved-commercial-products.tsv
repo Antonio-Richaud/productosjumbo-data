@@ -1,0 +1,3 @@
+source_sku	source_model	commercial_sector	decision	reason
+BAN-00-15-00	BANCA TUBULAR	Mesas y bancas	missing_from_woocommerce	No product, metadata or media evidence was found in production
+SVC-NEG	HOME TOP - IT	Residenciales y fraccionamientos	requires_commercial_validation	No exact evidence was found; TOP-IT is only a partial textual similarity

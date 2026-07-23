@@ -11,6 +11,7 @@ product_id	category_id	category_name	category_slug	parent_category_id
 6101	72	Juegos Modulares de Exterior	modulos-recreativos	70
 6113	72	Juegos Modulares de Exterior	modulos-recreativos	70
 6115	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6122	72	Juegos Modulares de Exterior	modulos-recreativos	70
 6154	72	Juegos Modulares de Exterior	modulos-recreativos	70
 6156	73	Gimnasios exteriores premium	gimnasios-al-aire-libre-forte	66
 6181	73	Gimnasios exteriores premium	gimnasios-al-aire-libre-forte	66
@@ -33,10 +34,12 @@ product_id	category_id	category_name	category_slug	parent_category_id
 6236	74	Botes	botes-de-basura	77
 6243	74	Botes	botes-de-basura	77
 6247	74	Botes	botes-de-basura	77
+6249	76	Aparatos de Calistenia	calistenia	66
 6251	74	Botes	botes-de-basura	77
 6254	76	Aparatos de Calistenia	calistenia	66
 6255	74	Botes	botes-de-basura	77
 6256	74	Botes	botes-de-basura	77
+6259	76	Aparatos de Calistenia	calistenia	66
 6260	74	Botes	botes-de-basura	77
 6264	74	Botes	botes-de-basura	77
 6267	74	Botes	botes-de-basura	77
@@ -47,11 +50,13 @@ product_id	category_id	category_name	category_slug	parent_category_id
 6288	75	Bancas	bancas	77
 6293	75	Bancas	bancas	77
 6299	75	Bancas	bancas	77
+6310	76	Aparatos de Calistenia	calistenia	66
 6312	75	Bancas	bancas	77
 6318	75	Bancas	bancas	77
 6324	75	Bancas	bancas	77
 6330	75	Bancas	bancas	77
 6335	75	Bancas	bancas	77
+6337	76	Aparatos de Calistenia	calistenia	66
 6341	131	Mobiliario inclusivo	mobiliario-inclusivo	77
 6345	76	Aparatos de Calistenia	calistenia	66
 6346	75	Bancas	bancas	77
@@ -139,10 +144,15 @@ product_id	category_id	category_name	category_slug	parent_category_id
 6661	175	Gradas	gradas	66
 6664	101	Canchas Multiusos	canchas-deportivas	66
 6665	72	Juegos Modulares de Exterior	modulos-recreativos	70
+6674	15	Sin categorizar	sin-categorizar	0
 6676	72	Juegos Modulares de Exterior	modulos-recreativos	70
 6683	101	Canchas Multiusos	canchas-deportivas	66
 6686	101	Canchas Multiusos	canchas-deportivas	66
 6689	79	Mesas	mesas	77
+6691	15	Sin categorizar	sin-categorizar	0
+6693	15	Sin categorizar	sin-categorizar	0
+6697	15	Sin categorizar	sin-categorizar	0
+6699	15	Sin categorizar	sin-categorizar	0
 6701	104	Letras	letras	77
 6703	104	Letras	letras	77
 6704	104	Letras	letras	77
@@ -190,6 +200,8 @@ product_id	category_id	category_name	category_slug	parent_category_id
 6846	72	Juegos Modulares de Exterior	modulos-recreativos	70
 6852	107	Juegos Temáticos	juegos-tematicos	70
 6860	107	Juegos Temáticos	juegos-tematicos	70
+6868	107	Juegos Temáticos	juegos-tematicos	70
+6868	319	Juegos infantiles Centroamerica	juegos-infantiles-centroamerica	70
 6872	107	Juegos Temáticos	juegos-tematicos	70
 6874	107	Juegos Temáticos	juegos-tematicos	70
 6874	319	Juegos infantiles Centroamerica	juegos-infantiles-centroamerica	70
@@ -538,91 +550,78 @@ product_id	category_id	category_name	category_slug	parent_category_id
 31956	72	Juegos Modulares de Exterior	modulos-recreativos	70
 31958	72	Juegos Modulares de Exterior	modulos-recreativos	70
 31960	316	Juegos modulares para interiores	juegos-modulares-para-interiores-juegos-infantiles	70
-32083	70	Juegos infantiles	juegos-infantiles	0
-32083	72	Juegos Modulares de Exterior	modulos-recreativos	70
-32088	111	Montables	montables	70
-32089	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
-32090	76	Aparatos de Calistenia	calistenia	66
-32097	111	Montables	montables	70
-32099	111	Montables	montables	70
-32101	79	Mesas	mesas	77
-32103	79	Mesas	mesas	77
-32105	79	Mesas	mesas	77
-32107	79	Mesas	mesas	77
-32109	80	Aparcabicicletas	aparcabicicletas	77
-32111	95	Parabus	parabuses	77
-32113	98	Luminarias	luminarias	77
-32115	98	Luminarias	luminarias	77
-32117	98	Luminarias	luminarias	77
-32119	315	Retos bajos	retos-bajos-juegos-infantiles	70
-32121	181	Juegos Infantiles de Madera	juegos-infantiles-madera	70
-32123	119	Juegos infantiles acuáticos	acuaticos	70
-32125	119	Juegos infantiles acuáticos	acuaticos	70
-32127	82	Señaléticas	senaleticas	77
-32127	345	Reductores de velocidad	reductores-de-velocidad	77
-32129	82	Señaléticas	senaleticas	77
-32129	345	Reductores de velocidad	reductores-de-velocidad	77
-32131	82	Señaléticas	senaleticas	77
-32131	345	Reductores de velocidad	reductores-de-velocidad	77
-32133	82	Señaléticas	senaleticas	77
-32133	345	Reductores de velocidad	reductores-de-velocidad	77
+32116	111	Montables	montables	70
+32118	111	Montables	montables	70
+32120	79	Mesas	mesas	77
+32122	79	Mesas	mesas	77
+32124	79	Mesas	mesas	77
+32126	79	Mesas	mesas	77
+32128	80	Aparcabicicletas	aparcabicicletas	77
+32130	95	Parabus	parabuses	77
+32132	98	Luminarias	luminarias	77
+32134	98	Luminarias	luminarias	77
+32136	98	Luminarias	luminarias	77
+32138	315	Retos bajos	retos-bajos-juegos-infantiles	70
+32140	181	Juegos Infantiles de Madera	juegos-infantiles-madera	70
+32142	119	Juegos infantiles acuáticos	acuaticos	70
+32144	119	Juegos infantiles acuáticos	acuaticos	70
+32146	82	Señaléticas	senaleticas	77
+32146	355	Reductores de velocidad	reductores-de-velocidad	77
+32148	82	Señaléticas	senaleticas	77
+32148	355	Reductores de velocidad	reductores-de-velocidad	77
+32150	82	Señaléticas	senaleticas	77
+32150	355	Reductores de velocidad	reductores-de-velocidad	77
+32152	82	Señaléticas	senaleticas	77
+32152	355	Reductores de velocidad	reductores-de-velocidad	77
+32188	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32189	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32190	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32191	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32192	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32193	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32194	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32195	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32196	72	Juegos Modulares de Exterior	modulos-recreativos	70
+32197	107	Juegos Temáticos	juegos-tematicos	70
+32198	107	Juegos Temáticos	juegos-tematicos	70
+32199	84	Juegos Inclusivos	juegos-inclusivos	70
+32200	84	Juegos Inclusivos	juegos-inclusivos	70
+32201	75	Bancas	bancas	77
+32202	75	Bancas	bancas	77
+32203	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
 32204	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32205	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32206	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32207	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32207	353	Ejercitadores Okstar	ejercitadores-okstar	66
+32208	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32208	353	Ejercitadores Okstar	ejercitadores-okstar	66
 32209	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32209	353	Ejercitadores Okstar	ejercitadores-okstar	66
 32210	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32210	353	Ejercitadores Okstar	ejercitadores-okstar	66
+32211	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32211	353	Ejercitadores Okstar	ejercitadores-okstar	66
 32212	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
-32216	320	Deportivo	deportivo	0
-32224	320	Deportivo	deportivo	0
-32225	320	Deportivo	deportivo	0
-32226	320	Deportivo	deportivo	0
-32263	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
-32263	344	Ejercitadores Okstar	ejercitadores-okstar	66
-32264	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
-32264	344	Ejercitadores Okstar	ejercitadores-okstar	66
-32265	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
-32265	344	Ejercitadores Okstar	ejercitadores-okstar	66
-32266	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
-32266	344	Ejercitadores Okstar	ejercitadores-okstar	66
-32267	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
-32267	344	Ejercitadores Okstar	ejercitadores-okstar	66
-32268	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
-32268	344	Ejercitadores Okstar	ejercitadores-okstar	66
-32269	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
-32269	344	Ejercitadores Okstar	ejercitadores-okstar	66
-32270	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
-32270	344	Ejercitadores Okstar	ejercitadores-okstar	66
-32271	343	Paneles Educativos	paneles-educativos	70
-32272	343	Paneles Educativos	paneles-educativos	70
-32273	343	Paneles Educativos	paneles-educativos	70
-32274	343	Paneles Educativos	paneles-educativos	70
-32275	343	Paneles Educativos	paneles-educativos	70
-32276	343	Paneles Educativos	paneles-educativos	70
-32277	343	Paneles Educativos	paneles-educativos	70
-32278	343	Paneles Educativos	paneles-educativos	70
-32279	343	Paneles Educativos	paneles-educativos	70
-32280	343	Paneles Educativos	paneles-educativos	70
-32296	75	Bancas	bancas	77
-32297	72	Juegos Modulares de Exterior	modulos-recreativos	70
-32302	75	Bancas	bancas	77
-32303	72	Juegos Modulares de Exterior	modulos-recreativos	70
-32304	72	Juegos Modulares de Exterior	modulos-recreativos	70
-32305	72	Juegos Modulares de Exterior	modulos-recreativos	70
-32318	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
-32319	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
-32319	76	Aparatos de Calistenia	calistenia	66
-32320	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
-32321	84	Juegos Inclusivos	juegos-inclusivos	70
-32322	84	Juegos Inclusivos	juegos-inclusivos	70
-32323	72	Juegos Modulares de Exterior	modulos-recreativos	70
-32324	72	Juegos Modulares de Exterior	modulos-recreativos	70
-32325	72	Juegos Modulares de Exterior	modulos-recreativos	70
-32326	72	Juegos Modulares de Exterior	modulos-recreativos	70
-32327	72	Juegos Modulares de Exterior	modulos-recreativos	70
-32328	107	Juegos Temáticos	juegos-tematicos	70
-32329	107	Juegos Temáticos	juegos-tematicos	70
-32334	80	Aparcabicicletas	aparcabicicletas	77
-32337	76	Aparatos de Calistenia	calistenia	66
-32338	83	Gimnasios Inclusivos	inclusivos-deportivo	66
-32423	76	Aparatos de Calistenia	calistenia	66
-32713	108	Juegos de Escalar	sin-plataforma	70
-32728	15	Sin categorizar	sin-categorizar	0
-32733	15	Sin categorizar	sin-categorizar	0
+32212	353	Ejercitadores Okstar	ejercitadores-okstar	66
+32213	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32214	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32214	353	Ejercitadores Okstar	ejercitadores-okstar	66
+32215	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32216	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32217	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32218	66	Gimnasios al aire libre	gimnasios-al-aire-libre	0
+32218	353	Ejercitadores Okstar	ejercitadores-okstar	66
+32219	354	Paneles Educativos	paneles-educativos	70
+32220	354	Paneles Educativos	paneles-educativos	70
+32221	354	Paneles Educativos	paneles-educativos	70
+32222	354	Paneles Educativos	paneles-educativos	70
+32223	354	Paneles Educativos	paneles-educativos	70
+32224	354	Paneles Educativos	paneles-educativos	70
+32225	354	Paneles Educativos	paneles-educativos	70
+32226	354	Paneles Educativos	paneles-educativos	70
+32227	354	Paneles Educativos	paneles-educativos	70
+32228	354	Paneles Educativos	paneles-educativos	70
+32230	80	Aparcabicicletas	aparcabicicletas	77
+32231	76	Aparatos de Calistenia	calistenia	66
+32232	83	Gimnasios Inclusivos	inclusivos-deportivo	66

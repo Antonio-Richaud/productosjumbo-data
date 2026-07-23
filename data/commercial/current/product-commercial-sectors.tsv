@@ -1,0 +1,344 @@
+canonical_sku	canonical_product_id	canonical_name	commercial_sector
+APA-00-01-00	6467	APARCABICICLETA ONE CURVO	Centro Comercial, Restaurantes y Hoteles
+APA-00-03-00	6472	APARCABICICLETA ONE SEMIONDULADO	Centro Comercial, Restaurantes y Hoteles
+APA-00-04-00	8350	APARCABICICLETAS ONE MARCO	Centro Comercial, Restaurantes y Hoteles
+APA-00-05-00	6445	APARCABICICLETA ONE RECTANGULAR	Centro Comercial, Restaurantes y Hoteles
+APA-00-06-00	6448	APARCABICICLETA SIX ONDULADO	Residenciales y fraccionamientos
+APA-00-07-00	6474	APARCABICICLETA THREE TRIANGULAR	Residenciales y fraccionamientos
+APA-00-10-00	32334	APARCABICICLETAS ANGULAR	Residenciales y fraccionamientos
+APA-00-13-00	32109	APARCABICICLETAS RUDY	Residenciales y fraccionamientos
+BAN-00-01-00	6318	BANCA LOA LAMINA	Mesas y bancas
+BAN-00-02-00	6389	BANCA VELETA	Mesas y bancas
+BAN-00-04-00	6810	BANCA CON PERFILES	Mesas y bancas
+BAN-00-05-00	6350	BANCA PISSIS	Mesas y bancas
+BAN-00-07-00	6346	BANCA ALPES	Mesas y bancas
+BAN-00-09-00	6283	BANCA HIMALAYA	Mesas y bancas
+BAN-00-10-00	22365	BANCA CIRCULAR CON ASIENTO	Mesas y bancas
+BAN-CR-01-00	6414	BANCA VINSONS	Mesas y bancas
+BAN-CR-02-00	6426	BANCA DEVI	Mesas y bancas
+BAN-CR-04-00	7292	BANCA VINSONS KLEIN	Mesas y bancas
+BAN-CR-05-00	22386	BANCA VINSONS B	Mesas y bancas
+BAN-IN-01-00	6341	BANCA LOGAN INCLUSIVA	Mesas y bancas
+BAN-IN-02-00	8328	BANCA LOGAN INCLUSIVA PVC	Mesas y bancas
+BAN-LP-03-00	6335	BANCA PALERMO	Mesas y bancas
+BAN-LP-04-00	6330	BANCA AKIER	Mesas y bancas
+BAN-LP-06-00	6312	BANCA CIRCULAR	Mesas y bancas
+BAN-LP-07-00	6288	BANCA EVEREST	Mesas y bancas
+BAN-MA-01-00	22359	BANCA CIRCULAR JUNKO	Mesas y bancas
+BAN-MS-03-01	6400	BANCA TINDAYA SIN RESPALDO	Mesas y bancas
+BAN-PL-02-00	7479	BANCA ONON	Mesas y bancas
+BAN-PM-01-00	32296	BANCA FUJI A	Mesas y bancas
+BAN-PM-01-01	32302	BANCA FUJI B	Mesas y bancas
+BAN-PM-04-00	6299	BANCA TÁCANA	Mesas y bancas
+BAN-PM-05-00	6360	BANCA PARA BOLERO	Mesas y bancas
+BAN-PM-07-00	6354	BANCA BARCENA	Mesas y bancas
+BAN-PM-10-00	6721	BANCA CENTRO HISTORICO CON PLASTIMADERA	Mesas y bancas
+BAN-PP-01-00	6293	BANCA PMP PLASTIMADERA	Mesas y bancas
+BAN-PP-03-00	6374	BANCA PUMORI PLASTIMADERA	Mesas y bancas
+BAN-PP-04-00	8316	BANCA KIRO	Mesas y bancas
+BAN-PP-05-00	7480	BANCA IKA	Mesas y bancas
+BAN-PP-08-00	6324	BANCA LOA PLASTIMADERA	Mesas y bancas
+BAN-PP-09-00	6390	BANCA MIKENO	Mesas y bancas
+BAN-PV-01-00	8336	BANCA PUMORI PVC	Mesas y bancas
+BAN-PV-02-00	8314	BANCA PMP PVC	Mesas y bancas
+BOT-00-01-00	6207	BOTE CENTRO HISTORICO	Botes de basura
+BOT-00-01-01	24631	BOTE CENTRO HISTORICO DOBLE	Botes de basura
+BOT-00-02-00	6236	BOTE KUMA	Botes de basura
+BOT-00-03-00	6218	BOTE MOSCOVA	Botes de basura
+BOT-00-04-00	22348	BOTE TRIANGULAR	Botes de basura
+BOT-00-05-00	6267	BOTE CUADRADO	Botes de basura
+BOT-IX-01-00	8361	BOTE GANGES	Botes de basura
+BOT-IX-02-00	6520	BOTE GRIJALVA DOBLE CON TAPA	Botes de basura
+BOT-LP-01-00	6260	BOTE PARANA	Botes de basura
+BOT-LP-01-01	24629	BOTE PARANA DOBLE	Botes de basura
+BOT-LP-02-00	6230	BOTE OKA	Botes de basura
+BOT-LP-02-02	22346	BOTE OKA PERFORADA	Botes de basura
+BOT-LP-03-00	6210	BOTE GRIJALVA	Botes de basura
+BOT-LP-03-01	6243	BOTE GRIJALVA DOBLE	Botes de basura
+BOT-LP-04-00	6251	BOTE RIN	Botes de basura
+BOT-LP-04-01	6255	BOTE RIN DOBLE	Botes de basura
+BOT-LP-04-02	6256	BOTE RIN TRIPLE	Botes de basura
+BOT-LP-05-00	6247	BOTE ZAIRE	Botes de basura
+BOT-LP-05-01	6264	BOTE MISISIPI	Botes de basura
+BOT-LP-07-00	6205	BOTE TOKYO	Botes de basura
+BOT-PL-01-00	6278	BOTE ONON	Botes de basura
+BOT-PM-01-00	6271	BOTE CIRCULAR	Botes de basura
+BOT-PM-02-00	22344	BOTE OKA PLASTIMADERA	Botes de basura
+CAN-00-02-00	6760	SLALOM CANINO	Áreas caninas
+CAN-00-03-00	28678	Grua Canina	Áreas caninas
+CAN-PL-01-00	6736	TUNEL CANINO	Áreas caninas
+CAN-PL-02-00	6748	AROS CANINO	Áreas caninas
+CAN-PL-03-00	22209	SALTO ARO CANINO	Áreas caninas
+CAN-PL-05-00	6752	SALTO DOBLE CANINO	Áreas caninas
+CAN-PL-06-00	6741	VALLAS CANINO	Áreas caninas
+CAN-PL-07-00	6731	BANCA DE HUESO CANINO	Áreas caninas
+CAN-PL-08-00	6757	GRADAS CANINO	Áreas caninas
+CAN-PL-09-00	7513	MINI RAMPA CANINO	Áreas caninas
+CAN-PL-10-00	6747	BALANCIN CANINO	Áreas caninas
+CAN-PL-11-00	6755	MESA CANINA	Áreas caninas
+CAN-PL-12-00	6739	RAMPA CANINA	Áreas caninas
+CAN-PL-15-00	6750	BEBEDERO CANINO	Áreas caninas
+CAN-PM-01-00	6763	PASARELA CANINO	Áreas caninas
+CAN-PP-01-00	8012	POSTE DE BOLSAS CON BASURERO CANINO	Áreas caninas
+CIR-00-02-00	6361	CIRCUITO CALISTENIA BASICO	Gimnasios de calistenia
+CIR-00-03-00	6364	CIRCUITO CALISTENIA COMPLETO	Gimnasios de calistenia
+CIR-00-04-00	6392	CIRCUITO CROSS-FIT	Gimnasios de calistenia
+CIR-00-06-00	6401	CIRCUITO PARA DEPORTES	Gimnasios de calistenia
+CIR-00-07-00	6405	CIRCUITO DE EJERCICIOS BASIC	Gimnasios de calistenia
+CIR-00-08-00	6411	CIRCUITO DE EJERCICIOS COMPLETO	Gimnasios de calistenia
+CIR-00-09-00	6416	CIRCUITO DE EJERCICIOS	Gimnasios de calistenia
+CIR-00-10-00	6423	CIRCUITO HEXÁGONO DE EJERCICIO	Gimnasios de calistenia
+CIR-00-11-00	6425	CIRCUITO NINJA	Gimnasios de calistenia
+CIR-00-14-00	29757	GIMNASIO CALISTENIA C	Gimnasios de calistenia
+CMT-118B	6526	Banca Tikal	Mesas y bancas
+CMT-120P	19111	BANCA COMPLETA	Mesas y bancas
+CMT-218B	6528	Banco Angkor	Mesas y bancas
+CMT-220P	22424	MACETA REDONDA	Centro Comercial, Restaurantes y Hoteles
+CMT-320P	22421	MACETA TRAPECIO	Centro Comercial, Restaurantes y Hoteles
+CMT-420P	22422	MACETA ALTA	Centro Comercial, Restaurantes y Hoteles
+CMT-520P	22419	JARDINERA BAJA	Centro Comercial, Restaurantes y Hoteles
+COL-00-01-00	22370	2 COLUMPIOS ARIA	Mesas y bancas
+COL-AB-01-00	7780	COLUMPIO PP EN A CON 2 ASIENTOS DE BANDA	Juegos de exterior
+COL-AB-02-00	19063	COLUMPIO PP EN A 3 ASIENTOS DE BANDA	Juegos de exterior
+COL-AB-03-00	7783	COLUMPIO PP EN U CON 3 ASIENTOS DE BANDA	Juegos de exterior
+COL-AB-04-00	22667	COLUMPIO PP EN A CON 4 ASIENTOS DE BANDA	Juegos de exterior
+COL-AB-06-00	7791	COLUMPIO KRONE	Centro Comercial, Restaurantes y Hoteles
+COL-AB-10-00	6962	COLUMPIO RESIDENCIAL 2 CANASTILLAS	Residenciales y fraccionamientos
+COL-AS-01-00	7781	COLUMPIO PP EN A CON 2 ASIENTOS DE SEGURIDAD	Residenciales y fraccionamientos
+COL-BS-01-00	7789	COLUMPIO CANGURO	Residenciales y fraccionamientos
+COL-IN-03-00	6494	COLUMPIO CON CAMASTRO DE PLASTIPANEL	Juegos inclusivos
+COL-MA-01-00	28412	COLUMPIO DE MADERA	Escuelas y colegios
+CON-CR-01-00	22323	CONJUNTO DE MEDIA LUNA	Residenciales y fraccionamientos
+CON-CR-02-00	7794	COLUMPIO MULTIJUEGO	Residenciales y fraccionamientos
+CON-CR-04-00	6964	CONJUNTO RESIDENCIAL, COLUMPIOS Y BAJADA COMPUESTO PLASTICO REFORZADO 2.40M	Residenciales y fraccionamientos
+CPL-124	29373	BANCA GRAPA	Mesas y bancas
+CPL-224	29377	BANCA CUBO	Mesas y bancas
+CPL-324	29380	BANCA LINGOTE	Mesas y bancas
+CPL-424	29383	MESA DE AJEDREZ DE CONCRETO	Mesas y bancas
+DEP-00-06-00	6653	TABLERO DE BÁSQUETBOL	Zonas deportivas
+DEP-00-07-00	8007	PORTERIA CON TABLERO DE BÁSQUETBOL	Zonas deportivas
+DEP-00-09-00	6664	PORTERIA FÚTBOL RAPIDO	Zonas deportivas
+DEP-00-10-00	6686	PORTERIA DE FÚTBOL PROFESIONAL	Zonas deportivas
+DEP-00-11-00	6728	RED Y 2 POSTES DE VOLEIBOL	Zonas deportivas
+DEP-00-12-00	6683	CANCHA CIRCULAR DE FUTBOL RAPIDO	Zonas deportivas
+DEP-MO-01-00	22188	2 BANCAS DE ARBITROS CON TECHUMBRE	Zonas deportivas
+DEP-MO-02-00	6647	11 BANCAS DE JUGADORES CON TECHUMBRE	Zonas deportivas
+DEP-MO-03-00	6661	GRADAS TECHADAS 5 ASIENTOS Y 4 DESCANSA PIES	Zonas deportivas
+DEP-MO-04-00	8009	GRADAS 5 ASIENTOS Y 4 DESCANSA PIES	Zonas deportivas
+DEP-MO-05-00	6689	MESA DE AJEDREZ	Zonas deportivas
+EJE-EM-01-00	24883	EJERCITADOR DE PIERNAS MEDIUM	Gimnasios funcionales
+EJE-EM-02-00	24885	EJERCITADOR ABDOMINALES MEDIUM	Gimnasios funcionales
+EJE-EM-03-00	24887	EJERCITADOR ELIPTICA MEDIUM	Gimnasios funcionales
+EJE-EM-04-00	24889	EJERCITADOR CAMINADORA MEDIUM	Gimnasios funcionales
+EJE-EM-05-00	24891	EJERCITADOR POTRO MEDIUM	Gimnasios funcionales
+EJE-EM-06-00	24893	EJERCITADOR BARRAS PARALELAS MEDIUM	Gimnasios funcionales
+EJE-EM-07-00	24895	EJERCITADOR BRAZOS Y MUÑECAS MEDIUM	Gimnasios funcionales
+EJE-EM-08-00	24897	EJERCITADOR MOVIMIENTO DE CINTURA MEDIUM	Gimnasios funcionales
+EJE-EM-09-00	24899	EJERCITADOR SURFER MEDIUM	Gimnasios funcionales
+EJE-EM-10-00	24901	EJERCITADOR DE BRAZO MEDIUM	Gimnasios funcionales
+EJE-EST-02-00	6285	Ejercitador Pasamanos Y 6 Postes	Gimnasios de calistenia
+EJE-EST-05-00	32318	EJERCITADOR AROS CORTO Y 2 POSTES	Gimnasios de calistenia
+EJE-EST-07-00	32337	EJERCITADOR BARRAS PARALELAS Y 2 POSTES	Gimnasios de calistenia
+EJE-EST-09-00	32319	EJERCITADOR BARRAS DOMINADAS Y DOS POSTES	Gimnasios de calistenia
+EJE-EST-10-00	32320	EJERCITADOR BARRAS DE ESTIRAMIENTO	Gimnasios de calistenia
+EJE-FO-01-00	6203	EJERCITADOR ABDOMINALES FORTE	Gimnasios funcionales
+EJE-FO-02-00	6201	EJERCITADOR BARRAS PARALELAS FORTE	Gimnasios funcionales
+EJE-FO-03-00	6194	EJERCITADOR MOVIMIENTO DE CINTURA FORTE	Gimnasios funcionales
+EJE-FO-04-00	6197	EJERCITADOR BRAZOS Y MUÑECAS FORTE	Gimnasios funcionales
+EJE-FO-05-00	6181	EJERCITADOR SURFER FORTE	Gimnasios funcionales
+EJE-FO-06-00	6199	EJERCITADOR POTRO FORTE	Gimnasios funcionales
+EJE-FO-07-00	6192	EJERCITADOR CAMINADORA FORTE	Gimnasios funcionales
+EJE-FO-08-00	6190	EJERCITADOR ELIPTICA FORTE	Gimnasios funcionales
+EJE-FO-09-00	6185	EJERCITADOR DE PIERNAS FORTE	Gimnasios funcionales
+EJE-FO-10-00	6156	EJERCITADOR BRAZOS FORTE	Gimnasios funcionales
+EJE-FO-11-00	6187	EJERCITADOR PECHO FORTE	Gimnasios funcionales
+EJE-ID-03-00	6220	EJERCITADOR BARRAS PARALELAS CURVAS	Gimnasios de calistenia
+EJE-ID-05-01	28674	EJERCITADOR BANCO ABDOMINAL HORIZONTAL	Gimnasios de calistenia
+EJE-ID-06-00	28676	Ejercitador Banco Abdominal Inclinado	Gimnasios de calistenia
+EJE-ID-07-00	6233	EJERCITADOR BARRAS	Gimnasios de calistenia
+EJE-ID-11-00	6254	EJERCITADOR AROS LARGO Y 2 POSTES	Gimnasios de calistenia
+EJE-ID-23-00	22130	EJERCITADOR PARED SUECA Y 2 POSTES	Gimnasios de calistenia
+EJE-ID-32-00	6353	EJERCITADOR JUMP BOX	Gimnasios de calistenia
+EJE-ID-49-00	28651	GIMNASIO GRANDE DE BARRAS AL AIRE LIBRE	Gimnasios de calistenia
+EJE-ID-50-00	28654	Gimnasio mediano de barras al aire libre	Gimnasios de calistenia
+EJE-ID-52-00	28664	PARED MILITAR	Gimnasios de calistenia
+EJE-IN-01-00	32338	EJERCITADOR DOMINADAS BARRAS DOBLE INCLUSIVO	Gimnasios funcionales
+EJE-IN-02-00	6536	EJERCITADOR MUÑECAS DOBLE INCLUSIVO	Gimnasios funcionales
+EJE-IN-03-00	6543	EJERCITADOR BRAZOS Y PIERNAS DOBLE INCLUSIVO	Gimnasios funcionales
+EJE-IN-04-00	6546	EJERCITADOR COMBINADO DE BRAZOS Y MUÑECAS INCLUSIVO	Gimnasios funcionales
+EJE-IN-07-00	6557	EJERCITADOR DOMINADAS EN BARRA FORTE INCLUSIVO	Gimnasios funcionales
+EJE-IN-08-00	6561	EJERCITADOR BRAZOS Y MUÑECAS FORTE INCLUSIVO	Gimnasios funcionales
+EJE-IN-09-00	6564	EJERCITADOR BRAZOS, MUÑECAS Y HOMBROS INCLUSIVO	Gimnasios funcionales
+EJE-PE-01-00	6465	EJERCITADOR BARRA DE PESAS	Gimnasios funcionales
+EJE-PE-02-00	6470	EJERCITADOR PECHO Y ESPALDA CON PESAS	Gimnasios funcionales
+EL-118-4C	7383	INFINITO	Centro Comercial, Restaurantes y Hoteles
+EL-1519-4C	7405	MILLER	Centro Comercial, Restaurantes y Hoteles
+EL-1619-4C	7407	SIRIUS	Centro Comercial, Restaurantes y Hoteles
+EL-619-4C	7395	TRAPIST	Centro Comercial, Restaurantes y Hoteles
+EOS-00-04-00	24851	Juego Iggy	Centro Comercial, Restaurantes y Hoteles
+EOS-00-05-00	24856	Juego Yety	Residenciales y fraccionamientos
+EOS-CR-01-00	32728	Juego BARCELONA (EOS-CR-01-00)	Juegos de exterior
+EOS-IN-01-00	7124	Juego MILWUAKEE INCLUSIVO	Juegos inclusivos
+EOS-IN-02-00	7120	Juego URBANO INCLUSIVO	Juegos inclusivos
+EOS-IN-03-00	22330	Juego CASTILLO INCLUSIVO	Juegos inclusivos
+EOS-IN-04-01	32321	Juego INDIANA INCLUSIVO	Juegos inclusivos
+EOS-MA-01-00	25233	Juego MADERA A	Escuelas y colegios
+EOS-PR-01-02	6082	Juego Verona (EOS-PR-01-02)	Escuelas y colegios
+EOS-PR-10-00	6676	Juego Paris (EOS-PR-10-01)	Juegos de exterior
+EOS-PR-15-03	6836	Juego Arkansas (EOS-PR-15-03)	Juegos de exterior
+EOS-PR-28-00	6795	Juego BALTIMORE	Centro Comercial, Restaurantes y Hoteles
+EOS-PR-29-00	6793	Juego BALTIMORE BASIC	Residenciales y fraccionamientos
+EOS-PR-34-20	28342	Ensueño	Residenciales y fraccionamientos
+EVA-00-02-00	6897	Juego ARACNIDUS	Juegos de exterior
+EVA-PL-01-00	6910	Juego GENERATION	Juegos de exterior
+EVA-PR-01-20	7751	Juego ATRACTION	Centro Comercial, Restaurantes y Hoteles
+GIR-00-01-00	6972	GIRATORIO ORBIT S	Juegos de exterior
+GIR-PL-03-00	32097	GIRATORIO ODÍN	Centro Comercial, Restaurantes y Hoteles
+GIR-PL-04-00	32099	GIRATORIO SAGA	Centro Comercial, Restaurantes y Hoteles
+INT-00-03-00	7828	TUBO DIDACTICO GRANDE	Escuelas y colegios
+INT-PL-02-00	7100	PANEL INTERACTIVO MUÑECOS	Escuelas y colegios
+INT-PL-03-00	7103	PANEL INTERACTIVO LABERINTO	Escuelas y colegios
+INT-PL-04-00	7091	PANELES INTERACTIVOS	Centro Comercial, Restaurantes y Hoteles
+INT-PL-05-00	7824	MURO SENSORIAL	Escuelas y colegios
+INT-PL-06-00	7467	LABERINTO SENSORIAL	Escuelas y colegios
+IRE-00-01-00	6994	MONTABLE BASICO	Escuelas y colegios
+IRE-PL-01-00	6992	MONTABLE ABEJA	Escuelas y colegios
+IRE-PL-02-00	7003	MONTABLE CAMION	Escuelas y colegios
+IRE-PL-03-00	6997	MONTABLE MOTO	Escuelas y colegios
+IRE-PL-04-00	7819	MONTABLE CABALLITO	Escuelas y colegios
+IRE-PL-05-00	6985	MONTABLE GLOBFLEX	Escuelas y colegios
+IRE-PL-08-00	7000	MONTABLE DELFIN	Escuelas y colegios
+IRE-PL-10-00	28410	MONTABLE DINO	Escuelas y colegios
+IRE-PL-11-00	28409	MONTABLE NESSY	Escuelas y colegios
+JAI-219	32123	CAÑON DE AGUA	Zonas acuáticas
+JAI-319	32125	CUBETAS DE VOLTEO	Zonas acuáticas
+JAI-419	7167	ARCO SPRAY	Zonas acuáticas
+JAI-519	7169	Bolardo Spray	Zonas acuáticas
+JAI-619	7171	SPRAY S	Zonas acuáticas
+JAI-719	7303	PULPO SPRAY	Zonas acuáticas
+JAI-819	7173	PALMERA LLUVIA	Zonas acuáticas
+JAI-919	7177	SOMBRILLA LLUVIA	Zonas acuáticas
+JAM-119	7137	AQUA JUM1	Zonas acuáticas
+JAM-219	7145	AQUA JUM2	Zonas acuáticas
+JAM-319	7150	AQUA JUM3	Zonas acuáticas
+JAM-419	7153	AQUA JUM4	Zonas acuáticas
+JAM-519	7156	AQUA JUM5	Zonas acuáticas
+LEPDM-AMA	32127	TOP-IT-TOPE DE CONTENSION	Residenciales y fraccionamientos
+LEPDM-HEM	32133	TARDO CABECERO HEMBRA	Residenciales y fraccionamientos
+LEPDM-MAC	32131	TARDO CABECERO MACHO	Residenciales y fraccionamientos
+LETDM-AMA	32129	TARDO MODULAR	Residenciales y fraccionamientos
+MDA-PL-01-00	30731	Juego Freya	Juegos de exterior
+MDA-PL-02-00	30734	Juego Magni	Juegos de exterior
+MEC-CR-01-00	6797	Juego BOSTON	Escuelas y colegios
+MEC-CR-02-00	32304	Juego ESPAÑA	Juegos de exterior
+MEC-CR-03-00	21148	Juego CHARLOTTE	Escuelas y colegios
+MEC-CR-05-00	6113	Juego SIENA	Juegos de exterior
+MEC-CR-07-00	32328	Juego IMPERIO	Juegos de exterior
+MEC-CR-08-00	32322	Juego MAINE INCLUSIVO	Juegos inclusivos
+MEL-CR-01-00	24818	Juego Córdoba	Residenciales y fraccionamientos
+MEL-CR-03-00	24822	Juego VALLADOLID	Residenciales y fraccionamientos
+MER-PR-02-00	6705	Juego MASSACHUSETTS	Escuelas y colegios
+MER-PR-03-00	32323	Juego CALIFORNIA	Juegos de exterior
+MER-PR-05-00	32303	Juego BRITANIA	Juegos de exterior
+MER-PR-06-00	6785	Juego RUSSEL	Escuelas y colegios
+MER-PR-07-00	6783	Juego WINSTON	Juegos de exterior
+MER-PR-08-00	32325	Juego RANDOLPH	Escuelas y colegios
+MES-IN-01-00	6441	MESA DE PICNIC INCLUSIVA	Mesas y bancas
+MES-LP-01-01	7491	MESA MERCATO DOPPIO	Mesas y bancas
+MES-LP-02-00	6435	MESA KENYA	Mesas y bancas
+MES-LP-02-01	6436	MESA KENYA CON SOMBRILLA	Mesas y bancas
+MES-LP-03-00	6433	MESA NUPTSE	Mesas y bancas
+MES-LP-04-00	22393	4 MESAS PICNIC CON PERGOLA	Mesas y bancas
+MES-LP-04-01	32107	MESA MOEBIUS CON COLUMPIOS EN PLASTIMADERA	Mesas y bancas
+MES-LP-05-00	6370	MESA RODAS CON TECHO CIRCULAR	Mesas y bancas
+MES-LP-06-00	6443	MESA PICNIC JAYA	Mesas y bancas
+MES-LP-07-00	32105	MESA PICNIC TRIX	Mesas y bancas
+MES-MA-01-00	32101	MESA CIRCULAR PARA ARBOL	Mesas y bancas
+MES-PM-01-00	6431	MESA DE PICNIC PLASTIMADERA	Mesas y bancas
+MES-PM-02-00	6438	MESA KENYA PLASTIMADERA	Mesas y bancas
+MES-PM-03-00	32103	MESAPICNIC CHESTER	Mesas y bancas
+MES-PP-01-00	22417	MESA CUBI	Mesas y bancas
+MES-PP-02-00	22415	MESA PICNIC 3/3	Mesas y bancas
+MES-PP-03-00	6429	MESA DE PICNIC	Mesas y bancas
+MES-PV-01-00	8345	MESA DE PICNIC PVC	Mesas y bancas
+MEV-CR-01-00	32305	Juego IBIZA	Residenciales y fraccionamientos
+MEV-CR-02-00	32327	Juego PARMA	Residenciales y fraccionamientos
+MEV-CR-03-00	6738	Juego GRADY	Escuelas y colegios
+MMA-117	6506	Maceta Asimetrica Chica	Centro Comercial, Restaurantes y Hoteles
+MMA-118	6509	Maceta Geométrica Megagrande	Centro Comercial, Restaurantes y Hoteles
+MMA-217	6507	Maceta Geometrica Grande	Centro Comercial, Restaurantes y Hoteles
+MMB-120	22332	Juego BARCO WOOD	Residenciales y fraccionamientos
+MMR-122	22335	Juego RETOS BAJOS	Escuelas y colegios
+MMW-122	22334	Juego WOOD	Residenciales y fraccionamientos
+OKOK-H01	32264	EJERCITADO REMADORA OK	Gimnasios funcionales
+OKOK-N01	32089	EJERCITADOR CINTURA Y ESCALERAS OK	Gimnasios funcionales
+OKOK-Z08A	32266	EJERCITADOR BICICLETA OK	Gimnasios funcionales
+OKST-C01X	32209	EJERCITADOR SURFER OK DOBLE	Gimnasios funcionales
+OKST-F01X	32267	EJERCITADOR ABDOMINALES OK DOBLE	Gimnasios funcionales
+OKST-J02X	32204	EJERCITADOR POTRO	Gimnasios funcionales
+OKST-M04X	32263	EJERCITADOR CAMINADORA OK	Gimnasios funcionales
+OKST-S03X	32270	EJERCITADOR BARRAS PARALELAS OK DOBLE	Gimnasios funcionales
+OKST-T08X	32265	EJERCITADOR ELIPTICA OK	Gimnasios funcionales
+OKST-Z01X	32269	EJERCITADOR DE PIERNAS OK DOBLE	Gimnasios funcionales
+OKST-Z03X	32212	EJERCITADOR DE PECHO OK DOBLE	Gimnasios funcionales
+OKST-Z04X	32210	EJERCITADOR BRAZOS OK DOBLE	Gimnasios funcionales
+OKST-Z05X	32268	EJERCITADOR MOVIMIENTO DE CINTURA TRIPLE	Gimnasios funcionales
+PAS-00-01-00	7081	PASAMANOS IDA Y VUELTA	Juegos de exterior
+PAS-00-02-00	7086	PASAMANOS ONDULADO 2 x 3 MTS.	Escuelas y colegios
+PAS-00-03-00	7089	PASAMANOS RECTO 2 X 3 MTS.	Residenciales y fraccionamientos
+PAS-PL-01-00	28399	Pasapies	Escuelas y colegios
+REH-00-02-00	6580	RAMPA PARA REHABILITACION	Gimnasios funcionales
+REH-00-03-00	6583	ESCALERA PARA REHABILITACION	Gimnasios funcionales
+REH-00-07-00	6589	CONJUNTO DE REHABILITACIÓN B	Gimnasios funcionales
+REH-00-08-00	6585	CONJUNTO DE REHABILITACIÓN A	Gimnasios funcionales
+RES-00-01-00	7012	RESBALADILLA LAM DE 2.40MT	Escuelas y colegios
+RES-00-02-00	7014	RESBALADILLA LAMINA DE 3MT	Juegos de exterior
+RES-PL-04-00	7009	RESBALADILLA RACER	Residenciales y fraccionamientos
+RES-PP-01-00	7017	RESBALADILLA OLAS DE PLASTICO	Residenciales y fraccionamientos
+RES-PP-01-01	7466	RESBALADILLA TRIPLE OLAS DE PLASTICO	Escuelas y colegios
+SEÑ-00-03-00	6486	SEÑALETICA BASTON	Centro Comercial, Restaurantes y Hoteles
+SEÑ-00-04-00	6484	SEÑALETICA CUBICA	Centro Comercial, Restaurantes y Hoteles
+SEÑ-00-05-00	6488	Señalética Bandera (ESI-312)	Centro Comercial, Restaurantes y Hoteles
+SEÑ-00-06-00	6490	SEÑALETICA VERTICAL	Centro Comercial, Restaurantes y Hoteles
+SEÑ-00-10-00	7496	SEÑALETICA DIRECCIÓN	Centro Comercial, Restaurantes y Hoteles
+SEÑ-00-13-00	6482	SEÑALETICA ARBOL	Residenciales y fraccionamientos
+SEÑ-00-14-00	22396	MESA MAPA	Residenciales y fraccionamientos
+SEÑ-00-15-00	22403	SEÑALETICA TOTEM	Residenciales y fraccionamientos
+SEÑ-PL-01-00	22405	SEÑALETICA PLASTIPANEL 50 X 25 CM	Residenciales y fraccionamientos
+SEÑ-PT-02-00	22401	TOTEM CON LUZ	Residenciales y fraccionamientos
+SUB-00-01-00	7047	SUBE Y BAJA SENCILLO	Escuelas y colegios
+SUB-00-01-01	7039	SUBE Y BAJA DOBLE	Residenciales y fraccionamientos
+SUB-00-01-02	7043	SUBE Y BAJA TRIPLE	Juegos de exterior
+SUB-00-02-01	7060	SUBE Y BAJA PULPO	Juegos de exterior
+SUB-00-02-02	7066	SUBE Y BAJA PULPO TRIPLE	Juegos de exterior
+SUB-IN-02-00	22329	SUBE Y BAJA PARA SILLA DE RUEDAS	Juegos inclusivos
+SUB-MA-01-00	24871	SUBE Y BAJA DE MADERA NATURAL	Escuelas y colegios
+SUB-PL-01-00	7065	SUBE Y BAJA BALLENA	Escuelas y colegios
+TDF-00-01-00	32733	Juego VIZCAYA (TDF-00-01-00)	Juegos de exterior
+TEM-IX-02-00	22313	Juego HEXAGON	Juegos de exterior
+TEM-IX-03-00	22315	Juego ATALAYA	Juegos de exterior
+TEM-PL-01-20	6884	Juego Nave Titán	Juegos de exterior
+TEM-PL-02-20	6872	Juego NAVE ORION	Juegos de exterior
+TEM-PL-03-00	6860	Juego Cohete Espacial	Escuelas y colegios
+TEM-PL-07-00	7450	Juego MONSTRIKS	Centro Comercial, Restaurantes y Hoteles
+TEM-PL-09-20	6852	Juego ROBOTO	Escuelas y colegios
+TEM-PL-15-20	28365	Juego temático jirafa	Juegos de exterior
+TEM-PL-16-20	28369	Juego temático Zebra	Juegos de exterior
+TEM-PM-01-00	7831	TIPPIE	Centro Comercial, Restaurantes y Hoteles
+TEM-PR-03-20	6874	Juego BARCO	Juegos de exterior
+TEM-PR-04-20	6876	Juego NAVIO	Juegos de exterior
+TEM-PR-07-20	32329	Juego TREN	Centro Comercial, Restaurantes y Hoteles
+TEM-PR-09-00	7458	Juego HORMIGUERO	Escuelas y colegios
+TER-PP-01-00	22413	TERRAZA	Mesas y bancas
+TIR-00-01-00	32119	TIROLESA	Juegos de exterior
+TRE-00-02-00	6928	TREPADERO TRIPLEX	Residenciales y fraccionamientos
+TRE-00-03-00	6930	TREPADERO MEDIA ESFERA	Residenciales y fraccionamientos
+TRE-CU-03-01	6916	TREPADERO PIRAMIDE CHICA	Juegos de exterior
+TRE-CU-05-00	6918	TREPADERO TRIKON	Juegos de exterior
+TRE-CU-07-00	7463	TREPADERO VITEX	Escuelas y colegios
+TRE-CU-09-00	7464	TREPADERO SALIX	Juegos de exterior
+TRE-CU-12-00	28398	CUBO DE RETOS BAJOS	Residenciales y fraccionamientos
+TRE-PL-01-00	6920	TREPADERO GEODESICO	Escuelas y colegios
+TRE-TM-02-00	6934	TREPADERO DINOSAURIO	Juegos de exterior
+TRE-TM-03-00	6942	TREPADERO BALLENA	Escuelas y colegios
+TRE-TM-05-00	6944	TREPADERO TORTUGA	Escuelas y colegios

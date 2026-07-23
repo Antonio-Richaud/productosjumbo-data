@@ -1,0 +1,14 @@
+{
+    "snapshot_date": "2026-07-22",
+    "source_environment": "staging",
+    "source_url": "https://staging.productosjumbo.com",
+    "products_total": 537,
+    "products_published": 479,
+    "products_draft": 23,
+    "products_private": 35,
+    "products_pending": 0,
+    "categories_total": 86,
+    "root_categories_total": 20,
+    "product_category_relations": 626,
+    "products_without_category": 0
+}

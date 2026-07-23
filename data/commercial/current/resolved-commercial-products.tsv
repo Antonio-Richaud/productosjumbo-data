@@ -1,0 +1,344 @@
+source_sku	source_model	commercial_sector	resolution_type	canonical_sku	canonical_product_id	canonical_status	canonical_name	confidence	evidence
+EL-118-4C	INFINITO	Centro Comercial, Restaurantes y Hoteles	direct_sku	EL-118-4C	7383	publish	INFINITO	exact_sku	production_sku
+EL-619-4C	TRAPIST	Centro Comercial, Restaurantes y Hoteles	direct_sku	EL-619-4C	7395	publish	TRAPIST	exact_sku	production_sku
+EL-1619-4C	SIRIUS	Centro Comercial, Restaurantes y Hoteles	direct_sku	EL-1619-4C	7407	publish	SIRIUS	exact_sku	production_sku
+EL-1519-4C	MILLER	Centro Comercial, Restaurantes y Hoteles	direct_sku	EL-1519-4C	7405	publish	MILLER	exact_sku	production_sku
+EOS-PR-01-02	VERONA	Escuelas y colegios	direct_sku	EOS-PR-01-02	6082	publish	Juego Verona (EOS-PR-01-02)	exact_sku	production_sku
+IOS-PR-01-04	MODULO IBIZA	Residenciales y fraccionamientos	sku_alias	MEV-CR-01-00	32305	publish	Juego IBIZA	confirmed_by_media	active_images_contain_source_sku
+EOS-PR-05-00	MODULO SIENA	Juegos de exterior	sku_alias	MEC-CR-05-00	6113	publish	Juego SIENA	high	unique_normalized_name_match
+TDF-00-01-00	MODULO VIZCAYA	Juegos de exterior	direct_sku	TDF-00-01-00	32733	publish	Juego VIZCAYA (TDF-00-01-00)	exact_sku	production_sku
+TDF-00-02-02	MODULO VALLADOLID	Residenciales y fraccionamientos	sku_alias	MEL-CR-03-00	24822	publish	Juego VALLADOLID	confirmed_by_media	active_images_contain_source_sku
+TDF-00-03-01	MODULO CORDOBA	Residenciales y fraccionamientos	sku_alias	MEL-CR-01-00	24818	publish	Juego Córdoba	high	unique_normalized_name_match
+EOS-PR-08-02	MODULO CALIFORNIA	Juegos de exterior	sku_alias	MER-PR-03-00	32323	publish	Juego CALIFORNIA	confirmed_by_media	active_images_contain_source_sku
+EOS-PR-09-00	MODULO MASSACHUSETTS	Escuelas y colegios	sku_alias	MER-PR-02-00	6705	publish	Juego MASSACHUSETTS	high	unique_normalized_name_match
+EOS-PR-10-01	MODULO PARIS	Juegos de exterior	sku_alias	EOS-PR-10-00	6676	publish	Juego Paris (EOS-PR-10-01)	confirmed_by_product_title	published_product_title_contains_source_sku
+EOS-PR-15-03	MODULO ARKANSAS	Juegos de exterior	direct_sku	EOS-PR-15-03	6836	publish	Juego Arkansas (EOS-PR-15-03)	exact_sku	production_sku
+EOS-PR-11-02	MODULO RANDOLPH	Escuelas y colegios	sku_alias	MER-PR-08-00	32325	publish	Juego RANDOLPH	confirmed_by_media	active_images_contain_source_sku
+EOS-PR-18-03	MODULO GRADY	Escuelas y colegios	sku_alias	MEV-CR-03-00	6738	publish	Juego GRADY	high	unique_normalized_name_match
+EOS-PR-19-02	MODULO PARMA	Residenciales y fraccionamientos	sku_alias	MEV-CR-02-00	32327	publish	Juego PARMA	confirmed_by_media	active_images_contain_source_sku
+EOS-CR-01-00	MODULO BARCELONA	Juegos de exterior	direct_sku	EOS-CR-01-00	32728	publish	Juego BARCELONA (EOS-CR-01-00)	exact_sku	production_sku
+EOS-PR-24-00	MODULO RUSSEL	Escuelas y colegios	sku_alias	MER-PR-06-00	6785	publish	Juego RUSSEL	high	unique_normalized_name_match
+EOS-PR-25-03	MODULO WINSTON	Juegos de exterior	sku_alias	MER-PR-07-00	6783	publish	Juego WINSTON	high	unique_normalized_name_match
+EOS-PR-26-00	MODULO CHARLOTTE	Escuelas y colegios	sku_alias	MEC-CR-03-00	21148	publish	Juego CHARLOTTE	high	unique_normalized_name_match
+EOS-PR-29-00	MODULO BALTIMORE BASIC	Residenciales y fraccionamientos	direct_sku	EOS-PR-29-00	6793	publish	Juego BALTIMORE BASIC	exact_sku	production_sku
+EOS-PR-28-00	MODULO BALTIMORE	Centro Comercial, Restaurantes y Hoteles	direct_sku	EOS-PR-28-00	6795	publish	Juego BALTIMORE	exact_sku	production_sku
+EOS-CR-02-03	MODULO BRITANIA	Juegos de exterior	sku_alias	MER-PR-05-00	32303	publish	Juego BRITANIA	confirmed_by_media	active_images_contain_source_sku
+EOS-CR-03-03	MODULO ESPAÑA	Juegos de exterior	sku_alias	MEC-CR-02-00	32304	publish	Juego ESPAÑA	confirmed_by_media	active_images_contain_source_sku
+EOS-PR-31-00	MODULO BOSTON	Escuelas y colegios	sku_alias	MEC-CR-01-00	6797	publish	Juego BOSTON	high	unique_normalized_name_match
+EOS-00-04-00	MODULO IGGY	Centro Comercial, Restaurantes y Hoteles	direct_sku	EOS-00-04-00	24851	publish	Juego Iggy	exact_sku	production_sku
+EOS-00-05-00	MODULO YETY	Residenciales y fraccionamientos	direct_sku	EOS-00-05-00	24856	publish	Juego Yety	exact_sku	production_sku
+EOS-PR-34-00	MODULO ENSUEÑO	Residenciales y fraccionamientos	sku_alias	EOS-PR-34-20	28342	publish	Ensueño	high	unique_normalized_name_match
+TEM-PL-02-00	MODULO NAVE ORION	Juegos de exterior	sku_alias	TEM-PL-02-20	6872	publish	Juego NAVE ORION	high	unique_normalized_name_match
+TEM-PL-01-00	MODULO NAVE TITAN	Juegos de exterior	sku_alias	TEM-PL-01-20	6884	publish	Juego Nave Titán	high	unique_normalized_name_match
+TEM-PL-03-00	MODULO COHETE ESPACIAL	Escuelas y colegios	direct_sku	TEM-PL-03-00	6860	publish	Juego Cohete Espacial	exact_sku	production_sku
+TEM-PL-07-00	MODULO MONSTRIKS	Centro Comercial, Restaurantes y Hoteles	direct_sku	TEM-PL-07-00	7450	publish	Juego MONSTRIKS	exact_sku	production_sku
+TEM-PL-09-00	MODULO ROBOTO	Escuelas y colegios	sku_alias	TEM-PL-09-20	6852	publish	Juego ROBOTO	high	unique_normalized_name_match
+TEM-PL-16-00	MODULO TEMATICO ZEBRA	Juegos de exterior	sku_alias	TEM-PL-16-20	28369	publish	Juego temático Zebra	high	unique_normalized_name_match
+TEM-PL-15-00	MODULO TEMATICO JIRAFA	Juegos de exterior	sku_alias	TEM-PL-15-20	28365	publish	Juego temático jirafa	high	unique_normalized_name_match
+TEM-PR-03-00	MODULO BARCO	Juegos de exterior	sku_alias	TEM-PR-03-20	6874	publish	Juego BARCO	high	unique_normalized_name_match
+TEM-PR-04-00	MODULO NAVIO	Juegos de exterior	sku_alias	TEM-PR-04-20	6876	publish	Juego NAVIO	high	unique_normalized_name_match
+TEM-PR-06-05	MODULO IMPERIO	Juegos de exterior	sku_alias	MEC-CR-07-00	32328	publish	Juego IMPERIO	high	unique_normalized_name_match
+TEM-PR-07-01	MODULO TREN	Centro Comercial, Restaurantes y Hoteles	sku_alias	TEM-PR-07-20	32329	publish	Juego TREN	confirmed_by_media	active_images_contain_source_sku
+EVA-PR-01-00	MODULO ATRACTION	Centro Comercial, Restaurantes y Hoteles	sku_alias	EVA-PR-01-20	7751	publish	Juego ATRACTION	high	unique_normalized_name_match
+EVA-00-02-00	MODULO ARACNIDUS	Juegos de exterior	direct_sku	EVA-00-02-00	6897	publish	Juego ARACNIDUS	exact_sku	production_sku
+TEM-PR-09-00	MODULO HORMIGUERO	Escuelas y colegios	direct_sku	TEM-PR-09-00	7458	publish	Juego HORMIGUERO	exact_sku	production_sku
+EVA-PL-01-00	MODULO GENERATION	Juegos de exterior	direct_sku	EVA-PL-01-00	6910	publish	Juego GENERATION	exact_sku	production_sku
+TRE-CU-03-01	TREPADERO PIRAMIDE CHICA	Juegos de exterior	direct_sku	TRE-CU-03-01	6916	publish	TREPADERO PIRAMIDE CHICA	exact_sku	production_sku
+TRE-00-02-00	TREPADERO TRIPLEX	Residenciales y fraccionamientos	direct_sku	TRE-00-02-00	6928	publish	TREPADERO TRIPLEX	exact_sku	production_sku
+TRE-00-03-00	TREPADERO MEDIA ESFERA	Residenciales y fraccionamientos	direct_sku	TRE-00-03-00	6930	publish	TREPADERO MEDIA ESFERA	exact_sku	production_sku
+TRE-TM-03-00	TREPADERO BALLENA	Escuelas y colegios	direct_sku	TRE-TM-03-00	6942	publish	TREPADERO BALLENA	exact_sku	production_sku
+TRE-TM-02-00	TREPADERO DINOSAURIO	Juegos de exterior	direct_sku	TRE-TM-02-00	6934	publish	TREPADERO DINOSAURIO	exact_sku	production_sku
+TRE-TM-05-00	TREPADERO TORTUGA	Escuelas y colegios	direct_sku	TRE-TM-05-00	6944	publish	TREPADERO TORTUGA	exact_sku	production_sku
+TRE-PL-01-00	TREPADERO GEODESICO	Escuelas y colegios	direct_sku	TRE-PL-01-00	6920	publish	TREPADERO GEODESICO	exact_sku	production_sku
+TRE-CU-05-00	TREPADERO TRIKON	Juegos de exterior	direct_sku	TRE-CU-05-00	6918	publish	TREPADERO TRIKON	exact_sku	production_sku
+TRE-CU-07-00	TREPADERO VITEX	Escuelas y colegios	direct_sku	TRE-CU-07-00	7463	publish	TREPADERO VITEX	exact_sku	production_sku
+TRE-CU-09-00	TREPADERO SALIX	Juegos de exterior	direct_sku	TRE-CU-09-00	7464	publish	TREPADERO SALIX	exact_sku	production_sku
+TIR-00-01-00	TIROLESA	Juegos de exterior	direct_sku	TIR-00-01-00	32119	publish	TIROLESA	exact_sku	production_sku
+TRE-CU-12-00	CUBO DE RETOS BAJOS	Residenciales y fraccionamientos	direct_sku	TRE-CU-12-00	28398	publish	CUBO DE RETOS BAJOS	exact_sku	production_sku
+PAS-PL-01-00	PASAPIES	Escuelas y colegios	direct_sku	PAS-PL-01-00	28399	publish	Pasapies	exact_sku	production_sku
+TEM-IX-03-00	MODULO ATALAYA	Juegos de exterior	direct_sku	TEM-IX-03-00	22315	publish	Juego ATALAYA	exact_sku	production_sku
+TEM-IX-02-00	MODULO HEXAGON	Juegos de exterior	direct_sku	TEM-IX-02-00	22313	publish	Juego HEXAGON	exact_sku	production_sku
+MDA-PL-01-00	MÓDULO MAGNI	Juegos de exterior	direct_sku	MDA-PL-01-00	30731	publish	Juego Freya	exact_sku	production_sku
+MDA-PL-02-00	MÓDULO FREYA	Juegos de exterior	direct_sku	MDA-PL-02-00	30734	publish	Juego Magni	exact_sku	production_sku
+COL-AB-01-00	COLUMPIO PP EN A CON 2 ASIENTOS DE BANDA	Juegos de exterior	direct_sku	COL-AB-01-00	7780	publish	COLUMPIO PP EN A CON 2 ASIENTOS DE BANDA	exact_sku	production_sku
+COL-AS-01-00	COLUMPIO PP EN A CON 2 ASIENTOS DE SEGURIDAD	Residenciales y fraccionamientos	direct_sku	COL-AS-01-00	7781	publish	COLUMPIO PP EN A CON 2 ASIENTOS DE SEGURIDAD	exact_sku	production_sku
+COL-AB-02-00	COLUMPIO PP EN A 3 ASIENTOS DE BANDA	Juegos de exterior	direct_sku	COL-AB-02-00	19063	publish	COLUMPIO PP EN A 3 ASIENTOS DE BANDA	exact_sku	production_sku
+COL-AB-04-00	COLUMPIO PP EN A CON 4 ASIENTOS DE BANDA	Juegos de exterior	direct_sku	COL-AB-04-00	22667	publish	COLUMPIO PP EN A CON 4 ASIENTOS DE BANDA	exact_sku	production_sku
+COL-AB-03-00	COLUMPIO PP EN U CON 3 ASIENTOS DE BANDA	Juegos de exterior	direct_sku	COL-AB-03-00	7783	publish	COLUMPIO PP EN U CON 3 ASIENTOS DE BANDA	exact_sku	production_sku
+COL-BS-01-00	COLUMPIO CANGURO	Residenciales y fraccionamientos	direct_sku	COL-BS-01-00	7789	publish	COLUMPIO CANGURO	exact_sku	production_sku
+COL-AB-06-00	COLUMPIO KRONE	Centro Comercial, Restaurantes y Hoteles	direct_sku	COL-AB-06-00	7791	publish	COLUMPIO KRONE	exact_sku	production_sku
+CON-CR-01-00	CONJUNTO DE MEDIA LUNA	Residenciales y fraccionamientos	direct_sku	CON-CR-01-00	22323	publish	CONJUNTO DE MEDIA LUNA	exact_sku	production_sku
+CON-CR-02-00	COLUMPIO MULTIJUEGO	Residenciales y fraccionamientos	direct_sku	CON-CR-02-00	7794	publish	COLUMPIO MULTIJUEGO	exact_sku	production_sku
+CON-CR-04-00	CONJUNTO RESIDENCIAL, COLUMPIOS Y BAJADA COMPUESTO PLASTICO REFORZADO 2.40M	Residenciales y fraccionamientos	direct_sku	CON-CR-04-00	6964	publish	CONJUNTO RESIDENCIAL, COLUMPIOS Y BAJADA COMPUESTO PLASTICO REFORZADO 2.40M	exact_sku	production_sku
+COL-AB-10-00	COLUMPIO RESIDENCIAL 2 CANASTILLAS	Residenciales y fraccionamientos	direct_sku	COL-AB-10-00	6962	publish	COLUMPIO RESIDENCIAL 2 CANASTILLAS	exact_sku	production_sku
+PAS-00-01-00	PASAMANOS IDA Y VUELTA	Juegos de exterior	direct_sku	PAS-00-01-00	7081	publish	PASAMANOS IDA Y VUELTA	exact_sku	production_sku
+PAS-00-02-00	PASAMANOS ONDULADO 2 x 3 MTS.	Escuelas y colegios	direct_sku	PAS-00-02-00	7086	publish	PASAMANOS ONDULADO 2 x 3 MTS.	exact_sku	production_sku
+PAS-00-03-00	PASAMANOS RECTO 2 X 3 MTS.	Residenciales y fraccionamientos	direct_sku	PAS-00-03-00	7089	publish	PASAMANOS RECTO 2 X 3 MTS.	exact_sku	production_sku
+IRE-00-01-00	MONTABLE BASICO	Escuelas y colegios	direct_sku	IRE-00-01-00	6994	publish	MONTABLE BASICO	exact_sku	production_sku
+IRE-PL-01-00	MONTABLE ABEJA	Escuelas y colegios	direct_sku	IRE-PL-01-00	6992	publish	MONTABLE ABEJA	exact_sku	production_sku
+IRE-PL-02-00	MONTABLE CAMION	Escuelas y colegios	direct_sku	IRE-PL-02-00	7003	publish	MONTABLE CAMION	exact_sku	production_sku
+IRE-PL-03-00	MONTABLE MOTO	Escuelas y colegios	direct_sku	IRE-PL-03-00	6997	publish	MONTABLE MOTO	exact_sku	production_sku
+IRE-PL-04-00	MONTABLE CABALLITO	Escuelas y colegios	direct_sku	IRE-PL-04-00	7819	publish	MONTABLE CABALLITO	exact_sku	production_sku
+IRE-PL-05-00	MONTABLE GLOBFLEX	Escuelas y colegios	direct_sku	IRE-PL-05-00	6985	publish	MONTABLE GLOBFLEX	exact_sku	production_sku
+IRE-PL-08-00	MONTABLE DELFIN	Escuelas y colegios	direct_sku	IRE-PL-08-00	7000	publish	MONTABLE DELFIN	exact_sku	production_sku
+IRE-PL-10-00	MONTABLE DINO	Escuelas y colegios	direct_sku	IRE-PL-10-00	28410	publish	MONTABLE DINO	exact_sku	production_sku
+IRE-PL-11-00	MONTABLE NESSY	Escuelas y colegios	direct_sku	IRE-PL-11-00	28409	publish	MONTABLE NESSY	exact_sku	production_sku
+GIR-00-01-00	GIRATORIO ORBIT S	Juegos de exterior	direct_sku	GIR-00-01-00	6972	publish	GIRATORIO ORBIT S	exact_sku	production_sku
+GIR-PL-03-00	GIRATORIO ODÍN	Centro Comercial, Restaurantes y Hoteles	direct_sku	GIR-PL-03-00	32097	publish	GIRATORIO ODÍN	exact_sku	production_sku
+GIR-PL-04-00	GIRATORIO SAGA	Centro Comercial, Restaurantes y Hoteles	direct_sku	GIR-PL-04-00	32099	publish	GIRATORIO SAGA	exact_sku	production_sku
+RES-00-01-00	RESBALADILLA LAM DE 2.40MT	Escuelas y colegios	direct_sku	RES-00-01-00	7012	publish	RESBALADILLA LAM DE 2.40MT	exact_sku	production_sku
+RES-00-02-00	RESBALADILLA LAMINA DE 3MT	Juegos de exterior	direct_sku	RES-00-02-00	7014	publish	RESBALADILLA LAMINA DE 3MT	exact_sku	production_sku
+RES-PP-01-00	RESBALADILLA OLAS DE PLASTICO	Residenciales y fraccionamientos	direct_sku	RES-PP-01-00	7017	publish	RESBALADILLA OLAS DE PLASTICO	exact_sku	production_sku
+RES-PL-04-00	RESBALADILLA RACER	Residenciales y fraccionamientos	direct_sku	RES-PL-04-00	7009	publish	RESBALADILLA RACER	exact_sku	production_sku
+RES-PP-01-01	RESBALADILLA TRIPLE OLAS DE PLASTICO	Escuelas y colegios	direct_sku	RES-PP-01-01	7466	publish	RESBALADILLA TRIPLE OLAS DE PLASTICO	exact_sku	production_sku
+SUB-00-01-00	SUBE Y BAJA SENCILLO	Escuelas y colegios	direct_sku	SUB-00-01-00	7047	publish	SUBE Y BAJA SENCILLO	exact_sku	production_sku
+SUB-00-01-01	SUBE Y BAJA DOBLE	Residenciales y fraccionamientos	direct_sku	SUB-00-01-01	7039	publish	SUBE Y BAJA DOBLE	exact_sku	production_sku
+SUB-00-01-02	SUBE Y BAJA TRIPLE	Juegos de exterior	direct_sku	SUB-00-01-02	7043	publish	SUBE Y BAJA TRIPLE	exact_sku	production_sku
+SUB-00-02-01	SUBE Y BAJA PULPO	Juegos de exterior	direct_sku	SUB-00-02-01	7060	publish	SUBE Y BAJA PULPO	exact_sku	production_sku
+SUB-00-02-02	SUBE Y BAJA PULPO TRIPLE	Juegos de exterior	direct_sku	SUB-00-02-02	7066	publish	SUBE Y BAJA PULPO TRIPLE	exact_sku	production_sku
+SUB-PL-01-00	SUBE Y BAJA BALLENA	Escuelas y colegios	direct_sku	SUB-PL-01-00	7065	publish	SUBE Y BAJA BALLENA	exact_sku	production_sku
+SUB-IN-02-00	SUBE Y BAJA PARA SILLA DE RUEDAS	Juegos inclusivos	direct_sku	SUB-IN-02-00	22329	publish	SUBE Y BAJA PARA SILLA DE RUEDAS	exact_sku	production_sku
+EOS-IN-01-00	MODULO MILWUAKEE INCLUSIVO	Juegos inclusivos	direct_sku	EOS-IN-01-00	7124	publish	Juego MILWUAKEE INCLUSIVO	exact_sku	production_sku
+INT-PL-06-00	LABERINTO SENSORIAL	Escuelas y colegios	direct_sku	INT-PL-06-00	7467	publish	LABERINTO SENSORIAL	exact_sku	production_sku
+TEM-PM-01-00	TIPPIE	Centro Comercial, Restaurantes y Hoteles	direct_sku	TEM-PM-01-00	7831	publish	TIPPIE	exact_sku	production_sku
+INT-00-03-00	TUBO DIDACTICO GRANDE	Escuelas y colegios	direct_sku	INT-00-03-00	7828	publish	TUBO DIDACTICO GRANDE	exact_sku	production_sku
+INT-PL-02-00	PANEL INTERACTIVO MUÑECOS	Escuelas y colegios	direct_sku	INT-PL-02-00	7100	publish	PANEL INTERACTIVO MUÑECOS	exact_sku	production_sku
+INT-PL-03-00	PANEL INTERACTIVO LABERINTO	Escuelas y colegios	direct_sku	INT-PL-03-00	7103	publish	PANEL INTERACTIVO LABERINTO	exact_sku	production_sku
+INT-PL-04-00	PANELES INTERACTIVOS	Centro Comercial, Restaurantes y Hoteles	direct_sku	INT-PL-04-00	7091	publish	PANELES INTERACTIVOS	exact_sku	production_sku
+INT-PL-05-00	MURO SENSORIAL	Escuelas y colegios	direct_sku	INT-PL-05-00	7824	publish	MURO SENSORIAL	exact_sku	production_sku
+COL-IN-03-00	COLUMPIO CON CAMASTRO DE PLASTIPANEL	Juegos inclusivos	direct_sku	COL-IN-03-00	6494	publish	COLUMPIO CON CAMASTRO DE PLASTIPANEL	exact_sku	production_sku
+EOS-IN-02-00	MODULO URBANO INCLUSIVO	Juegos inclusivos	direct_sku	EOS-IN-02-00	7120	publish	Juego URBANO INCLUSIVO	exact_sku	production_sku
+EOS-IN-03-00	MODULO CASTILLO INCLUSIVO	Juegos inclusivos	direct_sku	EOS-IN-03-00	22330	publish	Juego CASTILLO INCLUSIVO	exact_sku	production_sku
+EOS-IN-05-02	MODULO MAINE INCLUSIVO	Juegos inclusivos	sku_alias	MEC-CR-08-00	32322	publish	Juego MAINE INCLUSIVO	confirmed_by_media	active_images_contain_source_sku
+EOS-IN-04-01	MODULO INDIANA INCLUSIVO	Juegos inclusivos	direct_sku	EOS-IN-04-01	32321	publish	Juego INDIANA INCLUSIVO	exact_sku	production_sku
+MMB-120	MODULO BARCO WOOD	Residenciales y fraccionamientos	direct_sku	MMB-120	22332	publish	Juego BARCO WOOD	exact_sku	production_sku
+SUB-MA-01-00	SUBE Y BAJA DE MADERA NATURAL	Escuelas y colegios	direct_sku	SUB-MA-01-00	24871	publish	SUBE Y BAJA DE MADERA NATURAL	exact_sku	production_sku
+MMR-122	MODULO RETOS BAJOS	Escuelas y colegios	direct_sku	MMR-122	22335	publish	Juego RETOS BAJOS	exact_sku	production_sku
+COL-MA-01-00	COLUMPIO DE MADERA	Escuelas y colegios	direct_sku	COL-MA-01-00	28412	publish	COLUMPIO DE MADERA	exact_sku	production_sku
+MMW-122	MODULO WOOD	Residenciales y fraccionamientos	direct_sku	MMW-122	22334	publish	Juego WOOD	exact_sku	production_sku
+EOS-MA-01-00	MODULO MADERA A	Escuelas y colegios	direct_sku	EOS-MA-01-00	25233	publish	Juego MADERA A	exact_sku	production_sku
+BOT-LP-01-00	BOTE PARANA	Botes de basura	direct_sku	BOT-LP-01-00	6260	publish	BOTE PARANA	exact_sku	production_sku
+BOT-LP-01-01	BOTE PARANA DOBLE	Botes de basura	direct_sku	BOT-LP-01-01	24629	publish	BOTE PARANA DOBLE	exact_sku	production_sku
+BOT-LP-02-00	BOTE OKA	Botes de basura	direct_sku	BOT-LP-02-00	6230	publish	BOTE OKA	exact_sku	production_sku
+BOT-LP-02-02	BOTE OKA PERFORADA	Botes de basura	direct_sku	BOT-LP-02-02	22346	publish	BOTE OKA PERFORADA	exact_sku	production_sku
+BOT-LP-03-00	BOTE GRIJALVA	Botes de basura	direct_sku	BOT-LP-03-00	6210	publish	BOTE GRIJALVA	exact_sku	production_sku
+BOT-LP-03-01	BOTE GRIJALVA DOBLE	Botes de basura	direct_sku	BOT-LP-03-01	6243	publish	BOTE GRIJALVA DOBLE	exact_sku	production_sku
+BOT-LP-04-00	BOTE RIN	Botes de basura	direct_sku	BOT-LP-04-00	6251	publish	BOTE RIN	exact_sku	production_sku
+BOT-LP-04-01	BOTE RIN DOBLE	Botes de basura	direct_sku	BOT-LP-04-01	6255	publish	BOTE RIN DOBLE	exact_sku	production_sku
+BOT-LP-04-02	BOTE RIN TRIPLE	Botes de basura	direct_sku	BOT-LP-04-02	6256	publish	BOTE RIN TRIPLE	exact_sku	production_sku
+BOT-LP-05-00	BOTE ZAIRE	Botes de basura	direct_sku	BOT-LP-05-00	6247	publish	BOTE ZAIRE	exact_sku	production_sku
+BOT-LP-07-00	BOTE TOKYO	Botes de basura	direct_sku	BOT-LP-07-00	6205	publish	BOTE TOKYO	exact_sku	production_sku
+BOT-00-01-00	BASURERO CENTRO HISTORICO	Botes de basura	direct_sku	BOT-00-01-00	6207	publish	BOTE CENTRO HISTORICO	exact_sku	production_sku
+BOT-00-01-01	BOTE CENTRO HISTORICO DOBLE	Botes de basura	direct_sku	BOT-00-01-01	24631	publish	BOTE CENTRO HISTORICO DOBLE	exact_sku	production_sku
+BOT-00-02-00	BOTE KUMA	Botes de basura	direct_sku	BOT-00-02-00	6236	publish	BOTE KUMA	exact_sku	production_sku
+BOT-00-03-00	BOTE MOSCOVA	Botes de basura	direct_sku	BOT-00-03-00	6218	publish	BOTE MOSCOVA	exact_sku	production_sku
+BOT-LP-09-00	BOTE MISISIPI	Botes de basura	sku_alias	BOT-LP-05-01	6264	publish	BOTE MISISIPI	high	unique_normalized_name_match
+BOT-PM-02-00	BOTE OKA PLASTIMADERA	Botes de basura	direct_sku	BOT-PM-02-00	22344	publish	BOTE OKA PLASTIMADERA	exact_sku	production_sku
+BOT-00-05-00	BOTE CUADRADO	Botes de basura	direct_sku	BOT-00-05-00	6267	publish	BOTE CUADRADO	exact_sku	production_sku
+BOT-PM-01-00	BOTE CIRCULAR	Botes de basura	direct_sku	BOT-PM-01-00	6271	publish	BOTE CIRCULAR	exact_sku	production_sku
+BOT-PL-01-00		Botes de basura	direct_sku	BOT-PL-01-00	6278	publish	BOTE ONON	exact_sku	production_sku
+BOT-00-04-00	BOTE TRIANGULAR	Botes de basura	direct_sku	BOT-00-04-00	22348	publish	BOTE TRIANGULAR	exact_sku	production_sku
+BAN-00-01-00	BANCA LOA LAMINA	Mesas y bancas	direct_sku	BAN-00-01-00	6318	publish	BANCA LOA LAMINA	exact_sku	production_sku
+BAN-PM-03-00	BANCA LOA PLASTIMADERA	Mesas y bancas	sku_alias	BAN-PP-08-00	6324	publish	BANCA LOA PLASTIMADERA	high	unique_normalized_name_match
+BAN-00-04-00	BANCA CON PERFILES	Mesas y bancas	direct_sku	BAN-00-04-00	6810	publish	BANCA CON PERFILES	exact_sku	production_sku
+BAN-00-07-00	BANCA ALPES	Mesas y bancas	direct_sku	BAN-00-07-00	6346	publish	BANCA ALPES	exact_sku	production_sku
+BAN-00-09-00	BANCA HIMALAYA	Mesas y bancas	direct_sku	BAN-00-09-00	6283	publish	BANCA HIMALAYA	exact_sku	production_sku
+BAN-PM-04-00	BANCA TÁCANA	Mesas y bancas	direct_sku	BAN-PM-04-00	6299	publish	BANCA TÁCANA	exact_sku	production_sku
+BAN-00-05-00	BANCA PISSIS	Mesas y bancas	direct_sku	BAN-00-05-00	6350	publish	BANCA PISSIS	exact_sku	production_sku
+BAN-PP-04-00	BANCA KIRO	Mesas y bancas	direct_sku	BAN-PP-04-00	8316	publish	BANCA KIRO	exact_sku	production_sku
+BAN-PV-02-00	BANCA PMP PVC	Mesas y bancas	direct_sku	BAN-PV-02-00	8314	publish	BANCA PMP PVC	exact_sku	production_sku
+BAN-IN-02-00	BANCA LOGAN INCLUSIVA PVC	Mesas y bancas	direct_sku	BAN-IN-02-00	8328	publish	BANCA LOGAN INCLUSIVA PVC	exact_sku	production_sku
+BAN-PV-01-00	BANCA PUMORI PVC	Mesas y bancas	direct_sku	BAN-PV-01-00	8336	publish	BANCA PUMORI PVC	exact_sku	production_sku
+BAN-LP-06-00	BANCA CIRCULAR	Mesas y bancas	direct_sku	BAN-LP-06-00	6312	publish	BANCA CIRCULAR	exact_sku	production_sku
+BAN-LP-03-00	BANCA PALERMO	Mesas y bancas	direct_sku	BAN-LP-03-00	6335	publish	BANCA PALERMO	exact_sku	production_sku
+BAN-LP-07-00	BANCA EVEREST	Mesas y bancas	direct_sku	BAN-LP-07-00	6288	publish	BANCA EVEREST	exact_sku	production_sku
+BAN-LP-04-00	BANCA AKIER	Mesas y bancas	direct_sku	BAN-LP-04-00	6330	publish	BANCA AKIER	exact_sku	production_sku
+BAN-PL-02-00	BANCA ONON	Mesas y bancas	direct_sku	BAN-PL-02-00	7479	publish	BANCA ONON	exact_sku	production_sku
+BAN-PM-07-00	BANCA BARCENA	Mesas y bancas	direct_sku	BAN-PM-07-00	6354	publish	BANCA BARCENA	exact_sku	production_sku
+BAN-PM-01-00	BANCA FUJI A	Mesas y bancas	direct_sku	BAN-PM-01-00	32296	publish	BANCA FUJI A	exact_sku	production_sku
+BAN-PM-01-01	BANCA FUJI B	Mesas y bancas	direct_sku	BAN-PM-01-01	32302	publish	BANCA FUJI B	exact_sku	production_sku
+BAN-PP-05-00	BANCA IKA	Mesas y bancas	direct_sku	BAN-PP-05-00	7480	publish	BANCA IKA	exact_sku	production_sku
+BAN-IN-01-00	BANCA LOGAN INCLUSIVA	Mesas y bancas	direct_sku	BAN-IN-01-00	6341	publish	BANCA LOGAN INCLUSIVA	exact_sku	production_sku
+BAN-PM-05-00	BANCA PARA BOLERO	Mesas y bancas	direct_sku	BAN-PM-05-00	6360	publish	BANCA PARA BOLERO	exact_sku	production_sku
+BAN-PP-03-00	BANCA PUMORI PLASTIMADERA	Mesas y bancas	direct_sku	BAN-PP-03-00	6374	publish	BANCA PUMORI PLASTIMADERA	exact_sku	production_sku
+BAN-MA-01-00	BANCA CIRCULAR JUNKO	Mesas y bancas	direct_sku	BAN-MA-01-00	22359	publish	BANCA CIRCULAR JUNKO	exact_sku	production_sku
+BAN-PP-01-00	BANCA PMP PLASTIMADERA	Mesas y bancas	direct_sku	BAN-PP-01-00	6293	publish	BANCA PMP PLASTIMADERA	exact_sku	production_sku
+BAN-PP-09-00	BANCA MIKENO	Mesas y bancas	direct_sku	BAN-PP-09-00	6390	publish	BANCA MIKENO	exact_sku	production_sku
+BAN-00-02-00	BANCA VELETA	Mesas y bancas	direct_sku	BAN-00-02-00	6389	publish	BANCA VELETA	exact_sku	production_sku
+BAN-MS-03-01	BANCA TINDAYA SIN RESPALDO	Mesas y bancas	direct_sku	BAN-MS-03-01	6400	publish	BANCA TINDAYA SIN RESPALDO	exact_sku	production_sku
+COL-00-01-00	2 COLUMPIOS ARIA	Mesas y bancas	direct_sku	COL-00-01-00	22370	publish	2 COLUMPIOS ARIA	exact_sku	production_sku
+BAN-PM-10-00	BANCA CENTRO HISTORICO CON PLASTIMADERA	Mesas y bancas	direct_sku	BAN-PM-10-00	6721	publish	BANCA CENTRO HISTORICO CON PLASTIMADERA	exact_sku	production_sku
+BAN-00-10-00	BANCA CIRCULAR CON ASIENTO	Mesas y bancas	direct_sku	BAN-00-10-00	22365	publish	BANCA CIRCULAR CON ASIENTO	exact_sku	production_sku
+BAN-CR-01-00	BANCA VINSONS	Mesas y bancas	direct_sku	BAN-CR-01-00	6414	publish	BANCA VINSONS	exact_sku	production_sku
+BAN-CR-02-00	BANCA DEVI	Mesas y bancas	direct_sku	BAN-CR-02-00	6426	publish	BANCA DEVI	exact_sku	production_sku
+BAN-CR-04-00	BANCA VINSONS KLEIN	Mesas y bancas	direct_sku	BAN-CR-04-00	7292	publish	BANCA VINSONS KLEIN	exact_sku	production_sku
+BAN-CR-05-00	BANCA VINSONS B	Mesas y bancas	direct_sku	BAN-CR-05-00	22386	publish	BANCA VINSONS B	exact_sku	production_sku
+MES-MA-01-00	MESA CIRCULAR PARA ARBOL	Mesas y bancas	direct_sku	MES-MA-01-00	32101	publish	MESA CIRCULAR PARA ARBOL	exact_sku	production_sku
+MES-PM-03-00	MESAPICNIC CHESTER	Mesas y bancas	direct_sku	MES-PM-03-00	32103	publish	MESAPICNIC CHESTER	exact_sku	production_sku
+MES-IN-01-00	MESA DE PICNIC INCLUSIVA	Mesas y bancas	direct_sku	MES-IN-01-00	6441	publish	MESA DE PICNIC INCLUSIVA	exact_sku	production_sku
+MES-PP-03-00	MESA DE PICNIC	Mesas y bancas	direct_sku	MES-PP-03-00	6429	publish	MESA DE PICNIC	exact_sku	production_sku
+MES-PM-01-00	MESA DE PICNIC PLASTIMADERA	Mesas y bancas	direct_sku	MES-PM-01-00	6431	publish	MESA DE PICNIC PLASTIMADERA	exact_sku	production_sku
+MES-PV-01-00	MESA DE PICNIC PVC	Mesas y bancas	direct_sku	MES-PV-01-00	8345	publish	MESA DE PICNIC PVC	exact_sku	production_sku
+MES-LP-01-01	MESA MERCATO DOPPIO	Mesas y bancas	direct_sku	MES-LP-01-01	7491	publish	MESA MERCATO DOPPIO	exact_sku	production_sku
+MES-LP-02-01	MESA KENYA CON SOMBRILLA	Mesas y bancas	direct_sku	MES-LP-02-01	6436	publish	MESA KENYA CON SOMBRILLA	exact_sku	production_sku
+MES-LP-06-00	MESA PICNIC JAYA	Mesas y bancas	direct_sku	MES-LP-06-00	6443	publish	MESA PICNIC JAYA	exact_sku	production_sku
+MES-LP-02-00	MESA KENYA	Mesas y bancas	direct_sku	MES-LP-02-00	6435	publish	MESA KENYA	exact_sku	production_sku
+MES-LP-04-00	4 MESAS PICNIC CON PERGOLA	Mesas y bancas	direct_sku	MES-LP-04-00	22393	publish	4 MESAS PICNIC CON PERGOLA	exact_sku	production_sku
+MES-LP-07-00	MESA PICNIC TRIX	Mesas y bancas	direct_sku	MES-LP-07-00	32105	publish	MESA PICNIC TRIX	exact_sku	production_sku
+MES-PM-02-00	MESA KENYA PLASTIMADERA	Mesas y bancas	direct_sku	MES-PM-02-00	6438	publish	MESA KENYA PLASTIMADERA	exact_sku	production_sku
+MES-LP-03-00	MESA NUPTSE	Mesas y bancas	direct_sku	MES-LP-03-00	6433	publish	MESA NUPTSE	exact_sku	production_sku
+MES-LP-05-00	MESA RODAS CON TECHO CIRCULAR	Mesas y bancas	direct_sku	MES-LP-05-00	6370	publish	MESA RODAS CON TECHO CIRCULAR	exact_sku	production_sku
+MES-LP-04-01	MESA MOEBIUS CON COLUMPIOS EN PLASTIMADERA	Mesas y bancas	direct_sku	MES-LP-04-01	32107	publish	MESA MOEBIUS CON COLUMPIOS EN PLASTIMADERA	exact_sku	production_sku
+APA-00-01-00	APARCABICICLETA ONE CURVO	Centro Comercial, Restaurantes y Hoteles	direct_sku	APA-00-01-00	6467	publish	APARCABICICLETA ONE CURVO	exact_sku	production_sku
+APA-00-05-00	APARCABICICLETA ONE RECTANGULAR	Centro Comercial, Restaurantes y Hoteles	direct_sku	APA-00-05-00	6445	publish	APARCABICICLETA ONE RECTANGULAR	exact_sku	production_sku
+APA-00-03-00	APARCABICICLETA ONE SEMIONDULADO	Centro Comercial, Restaurantes y Hoteles	direct_sku	APA-00-03-00	6472	publish	APARCABICICLETA ONE SEMIONDULADO	exact_sku	production_sku
+APA-00-04-00	APARCABICICLETAS ONE MARCO	Centro Comercial, Restaurantes y Hoteles	direct_sku	APA-00-04-00	8350	publish	APARCABICICLETAS ONE MARCO	exact_sku	production_sku
+APA-00-06-00	APARCABICICLETA SIX ONDULADO	Residenciales y fraccionamientos	direct_sku	APA-00-06-00	6448	publish	APARCABICICLETA SIX ONDULADO	exact_sku	production_sku
+APA-00-07-00	APARCABICICLETA THREE TRIANGULAR	Residenciales y fraccionamientos	direct_sku	APA-00-07-00	6474	publish	APARCABICICLETA THREE TRIANGULAR	exact_sku	production_sku
+APA-00-13-00	APARCABICICLETAS RUDY	Residenciales y fraccionamientos	direct_sku	APA-00-13-00	32109	publish	APARCABICICLETAS RUDY	exact_sku	production_sku
+APA-00-10-00	APARCABICICLETAS ANGULAR	Residenciales y fraccionamientos	direct_sku	APA-00-10-00	32334	publish	APARCABICICLETAS ANGULAR	exact_sku	production_sku
+SEÑ-00-03-00	SEÑALETICA BASTON	Centro Comercial, Restaurantes y Hoteles	direct_sku	SEÑ-00-03-00	6486	publish	SEÑALETICA BASTON	exact_sku	production_sku
+SEÑ-00-04-00	SEÑALETICA CUBICA	Centro Comercial, Restaurantes y Hoteles	direct_sku	SEÑ-00-04-00	6484	publish	SEÑALETICA CUBICA	exact_sku	production_sku
+SEÑ-00-05-00	SEÑALETICA BANDERA	Centro Comercial, Restaurantes y Hoteles	direct_sku	SEÑ-00-05-00	6488	publish	Señalética Bandera (ESI-312)	exact_sku	production_sku
+SEÑ-00-06-00	SEÑALETICA VERTICAL	Centro Comercial, Restaurantes y Hoteles	direct_sku	SEÑ-00-06-00	6490	publish	SEÑALETICA VERTICAL	exact_sku	production_sku
+SEÑ-00-10-00	SEÑALETICA DIRECCIÓN	Centro Comercial, Restaurantes y Hoteles	direct_sku	SEÑ-00-10-00	7496	publish	SEÑALETICA DIRECCIÓN	exact_sku	production_sku
+SEÑ-00-13-00	SEÑALETICA ARBOL	Residenciales y fraccionamientos	direct_sku	SEÑ-00-13-00	6482	publish	SEÑALETICA ARBOL	exact_sku	production_sku
+SEÑ-00-14-00	MESA MAPA	Residenciales y fraccionamientos	direct_sku	SEÑ-00-14-00	22396	publish	MESA MAPA	exact_sku	production_sku
+SEÑ-00-15-00	SEÑALETICA TOTEM	Residenciales y fraccionamientos	direct_sku	SEÑ-00-15-00	22403	publish	SEÑALETICA TOTEM	exact_sku	production_sku
+SEÑ-PT-02-00	TOTEM CON LUZ	Residenciales y fraccionamientos	direct_sku	SEÑ-PT-02-00	22401	publish	TOTEM CON LUZ	exact_sku	production_sku
+SEÑ-PL-01-00	SEÑALETICA PLASTIPANEL 50 X 25 CM	Residenciales y fraccionamientos	direct_sku	SEÑ-PL-01-00	22405	publish	SEÑALETICA PLASTIPANEL 50 X 25 CM	exact_sku	production_sku
+TER-PP-01-00	TERRAZA	Mesas y bancas	direct_sku	TER-PP-01-00	22413	publish	TERRAZA	exact_sku	production_sku
+MES-PP-01-00	MESA CUBI	Mesas y bancas	direct_sku	MES-PP-01-00	22417	publish	MESA CUBI	exact_sku	production_sku
+MES-PP-02-00	MESA PICNIC 3/3	Mesas y bancas	direct_sku	MES-PP-02-00	22415	publish	MESA PICNIC 3/3	exact_sku	production_sku
+MMA-117	MACETA ASIMETRICA CHICA	Centro Comercial, Restaurantes y Hoteles	direct_sku	MMA-117	6506	publish	Maceta Asimetrica Chica	exact_sku	production_sku
+MMA-217	MACETA GEOMETRICA GRANDE	Centro Comercial, Restaurantes y Hoteles	direct_sku	MMA-217	6507	publish	Maceta Geometrica Grande	exact_sku	production_sku
+MMA-118	MACETA GEOMETRICA MEGAGRANDE	Centro Comercial, Restaurantes y Hoteles	direct_sku	MMA-118	6509	publish	Maceta Geométrica Megagrande	exact_sku	production_sku
+BOT-IX-01-00	BOTE GANGES	Botes de basura	direct_sku	BOT-IX-01-00	8361	publish	BOTE GANGES	exact_sku	production_sku
+BOT-IX-02-00	BOTE GRIJALVA DOBLE CON TAPA	Botes de basura	direct_sku	BOT-IX-02-00	6520	publish	BOTE GRIJALVA DOBLE CON TAPA	exact_sku	production_sku
+CMT-520P	JARDINERA BAJA	Centro Comercial, Restaurantes y Hoteles	direct_sku	CMT-520P	22419	publish	JARDINERA BAJA	exact_sku	production_sku
+CMT-320P	MACETA TRAPECIO	Centro Comercial, Restaurantes y Hoteles	direct_sku	CMT-320P	22421	publish	MACETA TRAPECIO	exact_sku	production_sku
+CMT-420P	MACETA ALTA	Centro Comercial, Restaurantes y Hoteles	direct_sku	CMT-420P	22422	publish	MACETA ALTA	exact_sku	production_sku
+CMT-220P	MACETA REDONDA	Centro Comercial, Restaurantes y Hoteles	direct_sku	CMT-220P	22424	publish	MACETA REDONDA	exact_sku	production_sku
+CMT-118B	BANCA TIKAL	Mesas y bancas	direct_sku	CMT-118B	6526	publish	Banca Tikal	exact_sku	production_sku
+CMT-218B	BANCO ANGKOR	Mesas y bancas	direct_sku	CMT-218B	6528	publish	Banco Angkor	exact_sku	production_sku
+CMT-120P	BANCA COMPLETA	Mesas y bancas	direct_sku	CMT-120P	19111	publish	BANCA COMPLETA	exact_sku	production_sku
+CPL-124	BANCA GRAPA	Mesas y bancas	direct_sku	CPL-124	29373	publish	BANCA GRAPA	exact_sku	production_sku
+CPL-224	BANCA CUBO	Mesas y bancas	direct_sku	CPL-224	29377	publish	BANCA CUBO	exact_sku	production_sku
+CPL-324	BANCA LINGOTE	Mesas y bancas	direct_sku	CPL-324	29380	publish	BANCA LINGOTE	exact_sku	production_sku
+CPL-424	MESA DE AJEDREZ DE CONCRETO	Mesas y bancas	direct_sku	CPL-424	29383	publish	MESA DE AJEDREZ DE CONCRETO	exact_sku	production_sku
+LEPDM-AMA	TOP-IT-TOPE DE CONTENSION	Residenciales y fraccionamientos	direct_sku	LEPDM-AMA	32127	publish	TOP-IT-TOPE DE CONTENSION	exact_sku	production_sku
+LETDM-AMA	TARDO MODULAR	Residenciales y fraccionamientos	direct_sku	LETDM-AMA	32129	publish	TARDO MODULAR	exact_sku	production_sku
+LEPDM-MAC	TARDO CABECERO MACHO	Residenciales y fraccionamientos	direct_sku	LEPDM-MAC	32131	publish	TARDO CABECERO MACHO	exact_sku	production_sku
+LEPDM-HEM	TARDO CABECERO HEMBRA	Residenciales y fraccionamientos	direct_sku	LEPDM-HEM	32133	publish	TARDO CABECERO HEMBRA	exact_sku	production_sku
+OKST-J02X	EJERCITADOR POTRO	Gimnasios funcionales	direct_sku	OKST-J02X	32204	publish	EJERCITADOR POTRO	exact_sku	production_sku
+OKST-M04X	EJERCITADOR CAMINADORA OK	Gimnasios funcionales	direct_sku	OKST-M04X	32263	publish	EJERCITADOR CAMINADORA OK	exact_sku	production_sku
+OKOK-H01	EJERCITADO REMADORA OK	Gimnasios funcionales	direct_sku	OKOK-H01	32264	publish	EJERCITADO REMADORA OK	exact_sku	production_sku
+OKST-T08X	EJERCITADOR ELIPTICA OK	Gimnasios funcionales	direct_sku	OKST-T08X	32265	publish	EJERCITADOR ELIPTICA OK	exact_sku	production_sku
+OKOK-Z08A	EJERCITADOR BICICLETA OK	Gimnasios funcionales	direct_sku	OKOK-Z08A	32266	publish	EJERCITADOR BICICLETA OK	exact_sku	production_sku
+OKST-F01X	EJERCITADOR ABDOMINALES OK DOBLE	Gimnasios funcionales	direct_sku	OKST-F01X	32267	publish	EJERCITADOR ABDOMINALES OK DOBLE	exact_sku	production_sku
+OKST-Z05X	EJERCITADOR MOVIMIENTO DE CINTURA TRIPLE	Gimnasios funcionales	direct_sku	OKST-Z05X	32268	publish	EJERCITADOR MOVIMIENTO DE CINTURA TRIPLE	exact_sku	production_sku
+OKST-C01X	EJERCITADOR SURFER OK DOBLE	Gimnasios funcionales	direct_sku	OKST-C01X	32209	publish	EJERCITADOR SURFER OK DOBLE	exact_sku	production_sku
+OKST-Z01X	EJERCITADOR DE PIERNAS OK DOBLE	Gimnasios funcionales	direct_sku	OKST-Z01X	32269	publish	EJERCITADOR DE PIERNAS OK DOBLE	exact_sku	production_sku
+OKST-Z04X	EJERCITADOR BRAZOS OK DOBLE	Gimnasios funcionales	direct_sku	OKST-Z04X	32210	publish	EJERCITADOR BRAZOS OK DOBLE	exact_sku	production_sku
+OKST-Z03X	EJERCITADOR DE PECHO OK DOBLE	Gimnasios funcionales	direct_sku	OKST-Z03X	32212	publish	EJERCITADOR DE PECHO OK DOBLE	exact_sku	production_sku
+OKOK-N01	EJERCITADOR CINTURA Y ESCALERAS OK	Gimnasios funcionales	direct_sku	OKOK-N01	32089	publish	EJERCITADOR CINTURA Y ESCALERAS OK	exact_sku	production_sku
+OKST-S03X	EJERCITADOR BARRAS PARALELAS OK DOBLE	Gimnasios funcionales	direct_sku	OKST-S03X	32270	publish	EJERCITADOR BARRAS PARALELAS OK DOBLE	exact_sku	production_sku
+EJE-EM-01-00	EJERCITADOR DE PIERNAS MEDIUM	Gimnasios funcionales	direct_sku	EJE-EM-01-00	24883	publish	EJERCITADOR DE PIERNAS MEDIUM	exact_sku	production_sku
+EJE-EM-02-00	EJERCITADOR ABDOMINALES MEDIUM	Gimnasios funcionales	direct_sku	EJE-EM-02-00	24885	publish	EJERCITADOR ABDOMINALES MEDIUM	exact_sku	production_sku
+EJE-EM-03-00	EJERCITADOR ELIPTICA MEDIUM	Gimnasios funcionales	direct_sku	EJE-EM-03-00	24887	publish	EJERCITADOR ELIPTICA MEDIUM	exact_sku	production_sku
+EJE-EM-04-00	EJERCITADOR CAMINADORA MEDIUM	Gimnasios funcionales	direct_sku	EJE-EM-04-00	24889	publish	EJERCITADOR CAMINADORA MEDIUM	exact_sku	production_sku
+EJE-EM-05-00	EJERCITADOR POTRO MEDIUM	Gimnasios funcionales	direct_sku	EJE-EM-05-00	24891	publish	EJERCITADOR POTRO MEDIUM	exact_sku	production_sku
+EJE-EM-06-00	EJERCITADOR BARRAS PARALELAS MEDIUM	Gimnasios funcionales	direct_sku	EJE-EM-06-00	24893	publish	EJERCITADOR BARRAS PARALELAS MEDIUM	exact_sku	production_sku
+EJE-EM-07-00	EJERCITADOR BRAZOS Y MUÑECAS MEDIUM	Gimnasios funcionales	direct_sku	EJE-EM-07-00	24895	publish	EJERCITADOR BRAZOS Y MUÑECAS MEDIUM	exact_sku	production_sku
+EJE-EM-08-00	EJERCITADOR MOVIMIENTO DE CINTURA MEDIUM	Gimnasios funcionales	direct_sku	EJE-EM-08-00	24897	publish	EJERCITADOR MOVIMIENTO DE CINTURA MEDIUM	exact_sku	production_sku
+EJE-EM-09-00	EJERCITADOR SURFER MEDIUM	Gimnasios funcionales	direct_sku	EJE-EM-09-00	24899	publish	EJERCITADOR SURFER MEDIUM	exact_sku	production_sku
+EJE-EM-10-00	EJERCITADOR DE BRAZO MEDIUM	Gimnasios funcionales	direct_sku	EJE-EM-10-00	24901	publish	EJERCITADOR DE BRAZO MEDIUM	exact_sku	production_sku
+EJE-FO-01-00	EJERCITADOR ABDOMINALES FORTE	Gimnasios funcionales	direct_sku	EJE-FO-01-00	6203	publish	EJERCITADOR ABDOMINALES FORTE	exact_sku	production_sku
+EJE-FO-02-00	EJERCITADOR BARRAS PARALELAS FORTE	Gimnasios funcionales	direct_sku	EJE-FO-02-00	6201	publish	EJERCITADOR BARRAS PARALELAS FORTE	exact_sku	production_sku
+EJE-FO-03-00	EJERCITADOR MOVIMIENTO DE CINTURA FORTE	Gimnasios funcionales	direct_sku	EJE-FO-03-00	6194	publish	EJERCITADOR MOVIMIENTO DE CINTURA FORTE	exact_sku	production_sku
+EJE-FO-04-00	EJERCITADOR BRAZOS Y MUÑECAS FORTE	Gimnasios funcionales	direct_sku	EJE-FO-04-00	6197	publish	EJERCITADOR BRAZOS Y MUÑECAS FORTE	exact_sku	production_sku
+EJE-FO-05-00	EJERCITADOR SURFER FORTE	Gimnasios funcionales	direct_sku	EJE-FO-05-00	6181	publish	EJERCITADOR SURFER FORTE	exact_sku	production_sku
+EJE-FO-06-00	EJERCITADOR POTRO FORTE	Gimnasios funcionales	direct_sku	EJE-FO-06-00	6199	publish	EJERCITADOR POTRO FORTE	exact_sku	production_sku
+EJE-FO-07-00	EJERCITADOR CAMINADORA FORTE	Gimnasios funcionales	direct_sku	EJE-FO-07-00	6192	publish	EJERCITADOR CAMINADORA FORTE	exact_sku	production_sku
+EJE-FO-08-00	EJERCITADOR ELIPTICA FORTE	Gimnasios funcionales	direct_sku	EJE-FO-08-00	6190	publish	EJERCITADOR ELIPTICA FORTE	exact_sku	production_sku
+EJE-FO-09-00	EJERCITADOR DE PIERNAS FORTE	Gimnasios funcionales	direct_sku	EJE-FO-09-00	6185	publish	EJERCITADOR DE PIERNAS FORTE	exact_sku	production_sku
+EJE-FO-10-00	EJERCITADOR BRAZOS FORTE	Gimnasios funcionales	direct_sku	EJE-FO-10-00	6156	publish	EJERCITADOR BRAZOS FORTE	exact_sku	production_sku
+EJE-FO-11-00	EJERCITADOR PECHO FORTE	Gimnasios funcionales	direct_sku	EJE-FO-11-00	6187	publish	EJERCITADOR PECHO FORTE	exact_sku	production_sku
+EJE-ID-03-00	EJERCITADOR BARRAS PARALELAS CURVAS	Gimnasios de calistenia	direct_sku	EJE-ID-03-00	6220	publish	EJERCITADOR BARRAS PARALELAS CURVAS	exact_sku	production_sku
+EJE-ID-05-01	EJERCITADOR BANCO ABDOMINAL HORIZONTAL	Gimnasios de calistenia	direct_sku	EJE-ID-05-01	28674	publish	EJERCITADOR BANCO ABDOMINAL HORIZONTAL	exact_sku	production_sku
+EJE-EST-06-00	EJERCITADOR BANCO ABDOMINAL INCLINADO	Gimnasios de calistenia	sku_alias	EJE-ID-06-00	28676	publish	Ejercitador Banco Abdominal Inclinado	high	unique_normalized_name_match
+EJE-ID-07-00	EJERCITADOR BARRAS	Gimnasios de calistenia	direct_sku	EJE-ID-07-00	6233	publish	EJERCITADOR BARRAS	exact_sku	production_sku
+EJE-EST-05-00	EJERCITADOR AROS CORTO Y 2 POSTES	Gimnasios de calistenia	direct_sku	EJE-EST-05-00	32318	publish	EJERCITADOR AROS CORTO Y 2 POSTES	exact_sku	production_sku
+EJE-ID-11-00	EJERCITADOR AROS LARGO Y 2 POSTES	Gimnasios de calistenia	direct_sku	EJE-ID-11-00	6254	publish	EJERCITADOR AROS LARGO Y 2 POSTES	exact_sku	production_sku
+EJE-EST-10-00	EJERCITADOR BARRAS DE ESTIRAMIENTO	Gimnasios de calistenia	direct_sku_duplicate_in_production	EJE-EST-10-00	32320,32423	publish | publish	EJERCITADOR BARRAS DE ESTIRAMIENTO | EJERCITADOR BARRAS DE ESTIRAMIENTO	exact_sku	production_sku
+EJE-EST-02-00	EJERCITADOR PASAMANOS Y 6 POSTES	Gimnasios de calistenia	direct_sku	EJE-EST-02-00	6285	publish	Ejercitador Pasamanos Y 6 Postes	exact_sku	production_sku
+EJE-EST-09-00	EJERCITADOR BARRAS DOMINADAS Y DOS POSTES	Gimnasios de calistenia	direct_sku	EJE-EST-09-00	32319	publish	EJERCITADOR BARRAS DOMINADAS Y DOS POSTES	exact_sku	production_sku
+EJE-ID-23-00	EJERCITADOR PARED SUECA Y 2 POSTES	Gimnasios de calistenia	direct_sku	EJE-ID-23-00	22130	publish	EJERCITADOR PARED SUECA Y 2 POSTES	exact_sku	production_sku
+EJE-EST-07-00	EJERCITADOR BARRAS PARALELAS Y 2 POSTES	Gimnasios de calistenia	direct_sku	EJE-EST-07-00	32337	publish	EJERCITADOR BARRAS PARALELAS Y 2 POSTES	exact_sku	production_sku
+EJE-ID-52-00	PARED MILITAR	Gimnasios de calistenia	direct_sku	EJE-ID-52-00	28664	publish	PARED MILITAR	exact_sku	production_sku
+EJE-ID-32-00	EJERCITADOR JUMP BOX	Gimnasios de calistenia	direct_sku	EJE-ID-32-00	6353	publish	EJERCITADOR JUMP BOX	exact_sku	production_sku
+CIR-00-07-00	CIRCUITO DE EJERCICIOS BASIC	Gimnasios de calistenia	direct_sku	CIR-00-07-00	6405	publish	CIRCUITO DE EJERCICIOS BASIC	exact_sku	production_sku
+CIR-00-02-00	CIRCUITO CALISTENIA BASICO	Gimnasios de calistenia	direct_sku	CIR-00-02-00	6361	publish	CIRCUITO CALISTENIA BASICO	exact_sku	production_sku
+CIR-00-03-00	CIRCUITO CALISTENIA COMPLETO	Gimnasios de calistenia	direct_sku	CIR-00-03-00	6364	publish	CIRCUITO CALISTENIA COMPLETO	exact_sku	production_sku
+CIR-00-04-00	CIRCUITO CROSS-FIT	Gimnasios de calistenia	direct_sku	CIR-00-04-00	6392	publish	CIRCUITO CROSS-FIT	exact_sku	production_sku
+CIR-00-06-00	CIRCUITO PARA DEPORTES	Gimnasios de calistenia	direct_sku	CIR-00-06-00	6401	publish	CIRCUITO PARA DEPORTES	exact_sku	production_sku
+CIR-00-09-00	CIRCUITO DE EJERCICIOS	Gimnasios de calistenia	direct_sku	CIR-00-09-00	6416	publish	CIRCUITO DE EJERCICIOS	exact_sku	production_sku
+CIR-00-08-00	CIRCUITO DE EJERCICIOS COMPLETO	Gimnasios de calistenia	direct_sku	CIR-00-08-00	6411	publish	CIRCUITO DE EJERCICIOS COMPLETO	exact_sku	production_sku
+CIR-00-10-00	CIRCUITO HEXÁGONO DE EJERCICIO	Gimnasios de calistenia	direct_sku	CIR-00-10-00	6423	publish	CIRCUITO HEXÁGONO DE EJERCICIO	exact_sku	production_sku
+CIR-00-11-00	CIRCUITO NINJA	Gimnasios de calistenia	direct_sku	CIR-00-11-00	6425	publish	CIRCUITO NINJA	exact_sku	production_sku
+EJE-ID-50-00	GIMNASIO MEDIANO DE BARRAS AL AIRE LIBRE	Gimnasios de calistenia	direct_sku	EJE-ID-50-00	28654	publish	Gimnasio mediano de barras al aire libre	exact_sku	production_sku
+EJE-ID-49-00	GIMNASIO GRANDE DE BARRAS AL AIRE LIBRE	Gimnasios de calistenia	direct_sku	EJE-ID-49-00	28651	publish	GIMNASIO GRANDE DE BARRAS AL AIRE LIBRE	exact_sku	production_sku
+CIR-00-14-00	GIMNASIO CALISTENIA C	Gimnasios de calistenia	direct_sku	CIR-00-14-00	29757	publish	GIMNASIO CALISTENIA C	exact_sku	production_sku
+EJE-PE-02-00	EJERCITADOR PECHO Y ESPALDA CON PESAS	Gimnasios funcionales	direct_sku	EJE-PE-02-00	6470	publish	EJERCITADOR PECHO Y ESPALDA CON PESAS	exact_sku	production_sku
+EJE-PE-01-00	EJERCITADOR BARRA DE PESAS	Gimnasios funcionales	direct_sku	EJE-PE-01-00	6465	publish	EJERCITADOR BARRA DE PESAS	exact_sku	production_sku
+EJE-IN-01-00	EJERCITADOR DOMINADAS BARRAS DOBLE INCLUSIVO	Gimnasios funcionales	direct_sku	EJE-IN-01-00	32338	publish	EJERCITADOR DOMINADAS BARRAS DOBLE INCLUSIVO	exact_sku	production_sku
+EJE-IN-03-00	EJERCITADOR BRAZOS Y PIERNAS DOBLE INCLUSIVO	Gimnasios funcionales	direct_sku	EJE-IN-03-00	6543	publish	EJERCITADOR BRAZOS Y PIERNAS DOBLE INCLUSIVO	exact_sku	production_sku
+EJE-IN-04-00	EJERCITADOR COMBINADO DE BRAZOS Y MUÑECAS INCLUSIVO	Gimnasios funcionales	direct_sku	EJE-IN-04-00	6546	publish	EJERCITADOR COMBINADO DE BRAZOS Y MUÑECAS INCLUSIVO	exact_sku	production_sku
+EJE-IN-02-00	EJERCITADOR MUÑECAS DOBLE INCLUSIVO	Gimnasios funcionales	direct_sku	EJE-IN-02-00	6536	publish	EJERCITADOR MUÑECAS DOBLE INCLUSIVO	exact_sku	production_sku
+EJE-IN-07-00	EJERCITADOR DOMINADAS EN BARRA FORTE INCLUSIVO	Gimnasios funcionales	direct_sku	EJE-IN-07-00	6557	publish	EJERCITADOR DOMINADAS EN BARRA FORTE INCLUSIVO	exact_sku	production_sku
+EJE-IN-08-00	EJERCITADOR BRAZOS Y MUÑECAS FORTE INCLUSIVO	Gimnasios funcionales	direct_sku	EJE-IN-08-00	6561	publish	EJERCITADOR BRAZOS Y MUÑECAS FORTE INCLUSIVO	exact_sku	production_sku
+EJE-IN-09-00	EJERCITADOR BRAZOS, MUÑECAS Y HOMBROS INCLUSIVO	Gimnasios funcionales	direct_sku	EJE-IN-09-00	6564	publish	EJERCITADOR BRAZOS, MUÑECAS Y HOMBROS INCLUSIVO	exact_sku	production_sku
+REH-00-02-00	RAMPA PARA REHABILITACION	Gimnasios funcionales	direct_sku	REH-00-02-00	6580	publish	RAMPA PARA REHABILITACION	exact_sku	production_sku
+REH-00-03-00	ESCALERA PARA REHABILITACION	Gimnasios funcionales	direct_sku	REH-00-03-00	6583	publish	ESCALERA PARA REHABILITACION	exact_sku	production_sku
+REH-00-07-00	CONJUNTO DE REHABILITACIÓN B	Gimnasios funcionales	direct_sku	REH-00-07-00	6589	publish	CONJUNTO DE REHABILITACIÓN B	exact_sku	production_sku
+REH-00-08-00	CONJUNTO DE REHABILITACIÓN A	Gimnasios funcionales	direct_sku	REH-00-08-00	6585	publish	CONJUNTO DE REHABILITACIÓN A	exact_sku	production_sku
+DEP-MO-01-00	2 BANCAS DE ARBITROS CON TECHUMBRE	Zonas deportivas	direct_sku	DEP-MO-01-00	22188	publish	2 BANCAS DE ARBITROS CON TECHUMBRE	exact_sku	production_sku
+DEP-MO-02-00	11 BANCAS DE JUGADORES CON TECHUMBRE	Zonas deportivas	direct_sku	DEP-MO-02-00	6647	publish	11 BANCAS DE JUGADORES CON TECHUMBRE	exact_sku	production_sku
+DEP-MO-04-00	GRADAS 5 ASIENTOS Y 4 DESCANSA PIES	Zonas deportivas	direct_sku	DEP-MO-04-00	8009	publish	GRADAS 5 ASIENTOS Y 4 DESCANSA PIES	exact_sku	production_sku
+DEP-MO-03-00	GRADAS TECHADAS 5 ASIENTOS Y 4 DESCANSA PIES	Zonas deportivas	direct_sku	DEP-MO-03-00	6661	publish	GRADAS TECHADAS 5 ASIENTOS Y 4 DESCANSA PIES	exact_sku	production_sku
+DEP-00-06-00	TABLERO DE BÁSQUETBOL	Zonas deportivas	direct_sku	DEP-00-06-00	6653	publish	TABLERO DE BÁSQUETBOL	exact_sku	production_sku
+DEP-00-07-00	PORTERIA CON TABLERO DE BÁSQUETBOL	Zonas deportivas	direct_sku	DEP-00-07-00	8007	publish	PORTERIA CON TABLERO DE BÁSQUETBOL	exact_sku	production_sku
+DEP-00-11-00	RED Y 2 POSTES DE VOLEIBOL	Zonas deportivas	direct_sku	DEP-00-11-00	6728	publish	RED Y 2 POSTES DE VOLEIBOL	exact_sku	production_sku
+DEP-00-09-00	PORTERIA FÚTBOL RAPIDO	Zonas deportivas	direct_sku	DEP-00-09-00	6664	publish	PORTERIA FÚTBOL RAPIDO	exact_sku	production_sku
+DEP-00-10-00	PORTERIA DE FÚTBOL PROFESIONAL	Zonas deportivas	direct_sku	DEP-00-10-00	6686	publish	PORTERIA DE FÚTBOL PROFESIONAL	exact_sku	production_sku
+DEP-00-12-00	CANCHA CIRCULAR DE FUTBOL RAPIDO	Zonas deportivas	direct_sku	DEP-00-12-00	6683	publish	CANCHA CIRCULAR DE FUTBOL RAPIDO	exact_sku	production_sku
+DEP-MO-05-00	MESA DE AJEDREZ	Zonas deportivas	direct_sku	DEP-MO-05-00	6689	publish	MESA DE AJEDREZ	exact_sku	production_sku
+CAN-PL-01-00	TUNEL CANINO	Áreas caninas	direct_sku	CAN-PL-01-00	6736	publish	TUNEL CANINO	exact_sku	production_sku
+CAN-PL-02-00	AROS CANINO	Áreas caninas	direct_sku	CAN-PL-02-00	6748	publish	AROS CANINO	exact_sku	production_sku
+CAN-PL-03-00	SALTO ARO CANINO	Áreas caninas	direct_sku	CAN-PL-03-00	22209	publish	SALTO ARO CANINO	exact_sku	production_sku
+CAN-PL-12-00	RAMPA CANINA	Áreas caninas	direct_sku	CAN-PL-12-00	6739	publish	RAMPA CANINA	exact_sku	production_sku
+CAN-PL-15-00	BEBEDERO CANINO	Áreas caninas	direct_sku	CAN-PL-15-00	6750	publish	BEBEDERO CANINO	exact_sku	production_sku
+CAN-PL-05-00	SALTO DOBLE CANINO	Áreas caninas	direct_sku	CAN-PL-05-00	6752	publish	SALTO DOBLE CANINO	exact_sku	production_sku
+CAN-PL-06-00	VALLAS CANINO	Áreas caninas	direct_sku	CAN-PL-06-00	6741	publish	VALLAS CANINO	exact_sku	production_sku
+CAN-PL-07-00	BANCA DE HUESO CANINO	Áreas caninas	direct_sku	CAN-PL-07-00	6731	publish	BANCA DE HUESO CANINO	exact_sku	production_sku
+CAN-00-02-00	SLALOM CANINO	Áreas caninas	direct_sku	CAN-00-02-00	6760	publish	SLALOM CANINO	exact_sku	production_sku
+CAN-PM-01-00	PASARELA CANINO	Áreas caninas	direct_sku	CAN-PM-01-00	6763	publish	PASARELA CANINO	exact_sku	production_sku
+CAN-PL-08-00	GRADAS CANINO	Áreas caninas	direct_sku	CAN-PL-08-00	6757	publish	GRADAS CANINO	exact_sku	production_sku
+CAN-PL-09-00	MINI RAMPA CANINO	Áreas caninas	direct_sku	CAN-PL-09-00	7513	publish	MINI RAMPA CANINO	exact_sku	production_sku
+CAN-PL-10-00	BALANCIN CANINO	Áreas caninas	direct_sku	CAN-PL-10-00	6747	publish	BALANCIN CANINO	exact_sku	production_sku
+CAN-00-03-00	GRUA CANINA	Áreas caninas	direct_sku	CAN-00-03-00	28678	publish	Grua Canina	exact_sku	production_sku
+CAN-PL-11-00	MESA CANINA	Áreas caninas	direct_sku	CAN-PL-11-00	6755	publish	MESA CANINA	exact_sku	production_sku
+CAN-PP-01-00	POSTE DE BOLSAS CON BASURERO CANINO	Áreas caninas	direct_sku	CAN-PP-01-00	8012	publish	POSTE DE BOLSAS CON BASURERO CANINO	exact_sku	production_sku
+JAM-119	AQUA JUM1	Zonas acuáticas	direct_sku	JAM-119	7137	publish	AQUA JUM1	exact_sku	production_sku
+JAM-219	AQUA JUM2	Zonas acuáticas	direct_sku	JAM-219	7145	publish	AQUA JUM2	exact_sku	production_sku
+JAM-319	AQUA JUM3	Zonas acuáticas	direct_sku	JAM-319	7150	publish	AQUA JUM3	exact_sku	production_sku
+JAM-2419	AQUA JUM4	Zonas acuáticas	sku_alias	JAM-419	7153	publish	AQUA JUM4	high	unique_normalized_name_match
+JAM-519	AQUA JUM5	Zonas acuáticas	direct_sku	JAM-519	7156	publish	AQUA JUM5	exact_sku	production_sku
+JAI-419	ARCO SPRAY	Zonas acuáticas	direct_sku	JAI-419	7167	publish	ARCO SPRAY	exact_sku	production_sku
+JAI-519	BOLARDO SPRAY	Zonas acuáticas	direct_sku	JAI-519	7169	publish	Bolardo Spray	exact_sku	production_sku
+JAI-619	SPRAY S	Zonas acuáticas	direct_sku	JAI-619	7171	publish	SPRAY S	exact_sku	production_sku
+JAI-819	PALMERA LLUVIA	Zonas acuáticas	direct_sku	JAI-819	7173	publish	PALMERA LLUVIA	exact_sku	production_sku
+JAI-919	SOMBRILLA LLUVIA	Zonas acuáticas	direct_sku	JAI-919	7177	publish	SOMBRILLA LLUVIA	exact_sku	production_sku
+JAI-719	PULPO SPRAY	Zonas acuáticas	direct_sku	JAI-719	7303	publish	PULPO SPRAY	exact_sku	production_sku
+JAI-219	CAÑON DE AGUA	Zonas acuáticas	direct_sku	JAI-219	32123	publish	CAÑON DE AGUA	exact_sku	production_sku
+JAI-319	CUBETA DE VOLTEO	Zonas acuáticas	direct_sku	JAI-319	32125	publish	CUBETAS DE VOLTEO	exact_sku	production_sku

@@ -1,0 +1,35 @@
+excel_row	sku	model	sector	presence_class	repository_present	repository_count	repository_ids	repository_statuses	repository_names	staging_present	staging_count	staging_ids	staging_statuses	staging_names	production_present	production_count	production_ids	production_statuses	production_names
+7	IOS-PR-01-04	MODULO IBIZA	Residenciales y fraccionamientos	excel_only	no	0				no	0				no	0			
+8	EOS-PR-05-00	MODULO SIENA	Juegos de exterior	excel_only	no	0				no	0				no	0			
+10	TDF-00-02-02	MODULO VALLADOLID	Residenciales y fraccionamientos	excel_only	no	0				no	0				no	0			
+11	TDF-00-03-01	MODULO CORDOBA	Residenciales y fraccionamientos	excel_only	no	0				no	0				no	0			
+12	EOS-PR-08-02	MODULO CALIFORNIA	Juegos de exterior	excel_only	no	0				no	0				no	0			
+13	EOS-PR-09-00	MODULO MASSACHUSETTS	Escuelas y colegios	excel_only	no	0				no	0				no	0			
+14	EOS-PR-10-01	MODULO PARIS	Juegos de exterior	excel_only	no	0				no	0				no	0			
+16	EOS-PR-11-02	MODULO RANDOLPH	Escuelas y colegios	excel_only	no	0				no	0				no	0			
+17	EOS-PR-18-03	MODULO GRADY	Escuelas y colegios	excel_only	no	0				no	0				no	0			
+18	EOS-PR-19-02	MODULO PARMA	Residenciales y fraccionamientos	excel_only	no	0				no	0				no	0			
+20	EOS-PR-24-00	MODULO RUSSEL	Escuelas y colegios	excel_only	no	0				no	0				no	0			
+21	EOS-PR-25-03	MODULO WINSTON	Juegos de exterior	excel_only	no	0				no	0				no	0			
+22	EOS-PR-26-00	MODULO CHARLOTTE	Escuelas y colegios	excel_only	no	0				no	0				no	0			
+25	EOS-CR-02-03	MODULO BRITANIA	Juegos de exterior	excel_only	no	0				no	0				no	0			
+26	EOS-CR-03-03	MODULO ESPAÑA	Juegos de exterior	excel_only	no	0				no	0				no	0			
+27	EOS-PR-31-00	MODULO BOSTON	Escuelas y colegios	excel_only	no	0				no	0				no	0			
+30	EOS-PR-34-00	MODULO ENSUEÑO	Residenciales y fraccionamientos	excel_only	no	0				no	0				no	0			
+31	TEM-PL-02-00	MODULO NAVE ORION	Juegos de exterior	excel_only	no	0				no	0				no	0			
+32	TEM-PL-01-00	MODULO NAVE TITAN	Juegos de exterior	excel_only	no	0				no	0				no	0			
+35	TEM-PL-09-00	MODULO ROBOTO	Escuelas y colegios	excel_only	no	0				no	0				no	0			
+36	TEM-PL-16-00	MODULO TEMATICO ZEBRA	Juegos de exterior	excel_only	no	0				no	0				no	0			
+37	TEM-PL-15-00	MODULO TEMATICO JIRAFA	Juegos de exterior	excel_only	no	0				no	0				no	0			
+38	TEM-PR-03-00	MODULO BARCO	Juegos de exterior	excel_only	no	0				no	0				no	0			
+39	TEM-PR-04-00	MODULO NAVIO	Juegos de exterior	excel_only	no	0				no	0				no	0			
+40	TEM-PR-06-05	MODULO IMPERIO	Juegos de exterior	excel_only	no	0				no	0				no	0			
+41	TEM-PR-07-01	MODULO TREN	Centro Comercial, Restaurantes y Hoteles	excel_only	no	0				no	0				no	0			
+42	EVA-PR-01-00	MODULO ATRACTION	Centro Comercial, Restaurantes y Hoteles	excel_only	no	0				no	0				no	0			
+112	EOS-IN-05-02	MODULO MAINE INCLUSIVO	Juegos inclusivos	excel_only	no	0				no	0				no	0			
+135	BOT-LP-09-00	BOTE MISISIPI	Botes de basura	excel_only	no	0				no	0				no	0			
+142	BAN-PM-03-00	BANCA LOA PLASTIMADERA	Mesas y bancas	excel_only	no	0				no	0				no	0			
+144	BAN-00-15-00	BANCA TUBULAR	Mesas y bancas	excel_only	no	0				no	0				no	0			
+230	SVC-NEG	HOME TOP - IT	Residenciales y fraccionamientos	excel_only	no	0				no	0				no	0			
+271	EJE-EST-06-00	EJERCITADOR BANCO ABDOMINAL INCLINADO	Gimnasios de calistenia	excel_only	no	0				no	0				no	0			
+337	JAM-2419	AQUA JUM4	Zonas acuáticas	excel_only	no	0				no	0				no	0			
