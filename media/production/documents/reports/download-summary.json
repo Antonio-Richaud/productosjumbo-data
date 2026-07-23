@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "source_environment": "production",
+  "products_total": 542,
+  "products_with_documents": 248,
+  "documents_downloaded": 355,
+  "document_relations": 358,
+  "missing_document_references": 5,
+  "mime_types": {
+    "application/pdf": 183,
+    "application/zip": 172
+  },
+  "document_types": {
+    "drawing_2d": 22,
+    "drawing_2d_package": 172,
+    "technical_pdf": 40,
+    "technical_sheet": 121
+  },
+  "total_bytes": 164937502,
+  "total_megabytes": 157.3,
+  "duplicate_content_groups": 1,
+  "paths_in_duplicate_groups": 2,
+  "duplicates_deleted": 0,
+  "all_original_paths_preserved": true,
+  "checks": {
+    "all_expected_files_downloaded": true,
+    "no_extra_files": true,
+    "sizes_match_source_inventory": true,
+    "checksums_generated": true,
+    "product_references_valid": true
+  }
+}
