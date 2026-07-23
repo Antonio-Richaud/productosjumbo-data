@@ -2,8 +2,7 @@
 
 ## Objetivo
 
-Extraer y versionar las descripciones y especificaciones asociadas a
-los productos del catálogo de producción.
+Extraer, conservar y normalizar las descripciones y especificaciones asociadas con los productos del catálogo de producción.
 
 La extracción se realizó en modo de solo lectura.
 
@@ -12,83 +11,84 @@ La extracción se realizó en modo de solo lectura.
 - entorno: producción;
 - sitio: https://www.productosjumbo.com/;
 - fecha: 2026-07-23;
+- referencia del catálogo: snapshot 2026-07-22;
 - productos: 542.
 
 ## Campos de origen
 
 - descripción larga: `wp_posts.post_content`;
 - extracto: `wp_posts.post_excerpt`;
-- especificaciones: texto identificado dentro del extracto o dentro
-  de una sección explícita de `post_content`.
+- especificaciones: texto clasificado desde `post_excerpt` o desde secciones explícitas de `post_content`.
 
-Las dimensiones y atributos estructurados de WooCommerce están vacíos
-en los 542 productos analizados.
+Las dimensiones y atributos nativos estructurados de WooCommerce estaban vacíos en los 542 productos analizados.
 
-## Distribución de campos
+## Distribución original de campos
 
 - contenido y extracto: 130;
 - solo contenido: 45;
 - solo extracto: 308;
-- sin contenido ni extracto: 59.
-
-## Resultado
-
-- productos con descripción: 175;
-- productos sin descripción: 367;
-- productos con especificaciones: 446;
-- productos sin especificaciones: 96;
-- especificaciones de confianza alta: 421;
-- especificaciones de confianza media: 25;
-- casos ambiguos: 23;
+- sin contenido ni extracto: 59;
 - productos con shortcodes: 101.
+
+## Resultado final consolidado
+
+La normalización final, correspondiente al esquema `1.1.1`, produjo:
+
+- productos totales: 542;
+- productos con descripción normalizada: 178;
+- productos sin descripción: 364;
+- productos con especificaciones estructuradas: 443;
+- productos sin especificaciones estructuradas: 99;
+- filas de especificaciones: 1,910;
+- productos completos: 139;
+- productos sin descripción: 304 dentro del análisis de completitud;
+- productos sin especificaciones: 39 dentro del análisis de completitud;
+- productos sin ambos tipos de contenido: 60;
+- productos que requieren revisión manual: 32;
+- productos con brechas de contenido: 403;
+- fragmentos sin interpretar: 0;
+- claves de especificación duplicadas detectadas: 2;
+- incidencias conservadas de los datos fuente: 7;
+- productos con campos eléctricos separados: 6.
+
+Los conteos de completitud son categorías mutuamente excluyentes del estado final y no deben sumarse directamente a los conteos generales de presencia de campos.
 
 ## Archivos canónicos
 
     data/current/product-content.tsv
     data/current/product-content-summary.json
+    data/current/product-specifications.tsv
+    data/current/specification-dictionary.tsv
 
-La tabla utiliza `product_id` y `product_sku` para relacionar cada
-registro con el catálogo y con el inventario de imágenes.
+`product-content.tsv` contiene una fila por producto.
+
+`product-specifications.tsv` contiene una fila por propiedad técnica y se enlaza mediante `product_id` y `product_sku`.
 
 ## Snapshot original
 
     data/snapshots/2026-07-23/production/content/
 
-El archivo JSONL conserva el contenido HTML y los shortcodes originales,
-además de versiones normalizadas y hashes SHA-256 por campo.
+El JSONL conserva el HTML, shortcodes, metadatos, versiones normalizadas y hashes SHA-256 de los campos originales.
+
+No debe editarse para corregir o esconder anomalías.
 
 ## Reportes
 
     data/reports/2026-07-23/product-content-summary.json
+    data/reports/2026-07-23/content-standardization-summary.json
     data/reports/2026-07-23/products-without-description.tsv
     data/reports/2026-07-23/products-without-specifications.tsv
     data/reports/2026-07-23/products-without-text.tsv
+    data/reports/2026-07-23/products-with-content-gaps.tsv
+    data/reports/2026-07-23/products-needing-content-review.tsv
     data/reports/2026-07-23/ambiguous-specifications.tsv
     data/reports/2026-07-23/medium-confidence-specifications.tsv
     data/reports/2026-07-23/content-split-specifications.tsv
+    data/reports/2026-07-23/duplicate-specification-keys.tsv
+    data/reports/2026-07-23/source-data-issues.tsv
+    data/reports/2026-07-23/unparsed-specification-fragments.tsv
 
-## Limitaciones
-
-La clasificación de especificaciones no modifica el contenido original.
-Los casos de confianza media y los casos ambiguos deben conservarse
-como pendientes hasta una revisión manual.
-
-No se inventaron descripciones ni especificaciones para productos que
-no cuentan con esos campos en producción.
-
-## Estandarización del contenido
-
-El contenido se organiza mediante dos tablas canónicas:
-
-    data/current/product-content.tsv
-    data/current/product-specifications.tsv
-
-`product-content.tsv` contiene una fila por producto.
-
-`product-specifications.tsv` contiene una fila por propiedad técnica,
-utilizando claves, etiquetas, valores y unidades normalizadas.
-
-Reglas aplicadas:
+## Reglas de normalización
 
 - espacios y puntuación normalizados;
 - encabezados redundantes retirados;
@@ -96,35 +96,15 @@ Reglas aplicadas:
 - dimensiones expresadas con el símbolo `×`;
 - unidades escritas de forma uniforme;
 - singular y plural corregidos;
-- conteo de especificaciones calculado desde la tabla técnica;
 - ausencia de contenido separada de los casos de revisión;
 - información faltante no inventada;
-- contenido original preservado en el snapshot.
+- contenido original preservado;
+- prosa no forzada dentro de especificaciones;
+- inconsistencias de la fuente reportadas sin corregirse automáticamente.
 
-Resultado:
+## Patrones resueltos
 
-- productos: 542;
-- especificaciones individuales: 1831;
-- productos completamente estructurados: 420;
-- productos parcialmente estructurados: 9;
-- productos no estructurados: 17;
-- productos sin especificaciones: 96;
-- productos que requieren revisión manual: 72;
-- productos con brechas de contenido: 403.
-
-Los productos con información faltante se encuentran en:
-
-    data/reports/2026-07-23/products-with-content-gaps.tsv
-
-Los casos que requieren revisar la interpretación se encuentran en:
-
-    data/reports/2026-07-23/products-needing-content-review.tsv
-
-La ausencia de una descripción o especificación no se clasifica por sí
-sola como error de normalización.
-## Normalización final de formatos
-
-Se resolvieron automáticamente los patrones restantes de producción:
+Se resolvieron, entre otros:
 
 - fuentes de piso;
 - pisos PG1;
@@ -135,41 +115,42 @@ Se resolvieron automáticamente los patrones restantes de producción:
 - productos de concreto;
 - encabezados `Medidas`;
 - etiquetas `SKU` dentro de especificaciones;
-- textos que correspondían realmente a una descripción.
+- textos reclasificados correctamente como descripción.
 
-Resultado:
+## Propiedades eléctricas
 
-- productos: 542;
-- productos con especificaciones estructuradas: 443;
-- especificaciones individuales: 1900;
-- fragmentos no interpretados: 0;
-- casos de revisión manual: 32;
-- incidencias detectadas en los datos fuente: 7.
-
-El diccionario canónico se encuentra en:
-
-    data/current/specification-dictionary.tsv
-
-Las posibles inconsistencias de unidades se encuentran en:
-
-    data/reports/2026-07-23/source-data-issues.tsv
-
-No se corrigieron automáticamente valores que podrían representar
-errores en el contenido original.
-
-## Separación de propiedades eléctricas
-
-Se detectaron 6 productos cuyo campo de materiales
-incluía también voltaje o consumo energético.
-
-Estos datos se separaron en las claves canónicas:
+En seis productos, voltaje o consumo estaban mezclados dentro del campo de materiales. Se separaron en:
 
 - `materials`;
 - `voltage`;
 - `power_consumption`.
 
-También se corrigió un efecto de normalización que había sustituido la
-letra `x` dentro de palabras como `extruido` e `inoxidable`.
+También se reparó un efecto de normalización que había sustituido la letra `x` dentro de palabras como `extruido` e `inoxidable`. La corrección se apoyó en `raw_value`, que conserva el valor original.
 
-La corrección se realizó utilizando `raw_value`, que conserva el valor
-original extraído de producción.
+## Casos de revisión manual
+
+Los 32 productos pendientes se explican por:
+
+- múltiples valores posibles de longitud: 1;
+- múltiples valores posibles de área mínima: 1;
+- posible inconsistencia de unidad: 7;
+- contenido técnico sin límite claro: 23.
+
+Estos casos deben revisarse sin alterar el snapshot original.
+
+## Integridad
+
+Se validó que:
+
+- los 542 IDs coinciden con el catálogo;
+- los SKU coinciden con el catálogo;
+- los estados coinciden con el catálogo;
+- existen 542 registros originales y 542 registros normalizados;
+- los valores ausentes no fueron inventados;
+- las unidades y etiquetas utilizan convenciones canónicas.
+
+## Limitaciones
+
+La normalización no confirma que cada valor técnico publicado en WordPress sea correcto desde el punto de vista de ingeniería. Las siete posibles incidencias de fuente permanecen documentadas para revisión.
+
+No se modificó WordPress, WooCommerce, staging ni producción.
