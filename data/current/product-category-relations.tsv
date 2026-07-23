@@ -190,8 +190,6 @@ product_id	category_id	category_name	category_slug	parent_category_id
 6846	72	Juegos Modulares de Exterior	modulos-recreativos	70
 6852	107	Juegos Temáticos	juegos-tematicos	70
 6860	107	Juegos Temáticos	juegos-tematicos	70
-6868	107	Juegos Temáticos	juegos-tematicos	70
-6868	319	Juegos infantiles Centroamerica	juegos-infantiles-centroamerica	70
 6872	107	Juegos Temáticos	juegos-tematicos	70
 6874	107	Juegos Temáticos	juegos-tematicos	70
 6874	319	Juegos infantiles Centroamerica	juegos-infantiles-centroamerica	70
@@ -625,3 +623,6 @@ product_id	category_id	category_name	category_slug	parent_category_id
 32337	76	Aparatos de Calistenia	calistenia	66
 32338	83	Gimnasios Inclusivos	inclusivos-deportivo	66
 32423	76	Aparatos de Calistenia	calistenia	66
+32713	108	Juegos de Escalar	sin-plataforma	70
+32728	15	Sin categorizar	sin-categorizar	0
+32733	15	Sin categorizar	sin-categorizar	0

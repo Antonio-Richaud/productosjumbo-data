@@ -1,8 +1,8 @@
 term_id,name,slug,parent,count
-15,"Sin categorizar",sin-categorizar,0,2
+15,"Sin categorizar",sin-categorizar,0,4
 66,"Gimnasios al aire libre",gimnasios-al-aire-libre,0,104
-70,"Juegos infantiles",juegos-infantiles,0,181
-72,"Juegos Modulares de Exterior",modulos-recreativos,70,31
+70,"Juegos infantiles",juegos-infantiles,0,184
+72,"Juegos Modulares de Exterior",modulos-recreativos,70,34
 73,"Gimnasios exteriores premium",gimnasios-al-aire-libre-forte,66,11
 74,Botes,botes-de-basura,77,24
 75,Bancas,bancas,77,36
@@ -29,8 +29,8 @@ term_id,name,slug,parent,count
 103,Techumbres,techumbres,77,2
 104,Letras,letras,77,6
 106,"Circuitos Caninos Agility",circuitos,66,16
-107,"Juegos Temáticos",juegos-tematicos,70,12
-108,"Juegos de Escalar",sin-plataforma,70,4
+107,"Juegos Temáticos",juegos-tematicos,70,11
+108,"Juegos de Escalar",sin-plataforma,70,5
 109,"Juegos Trepaderos",trepaderos,70,11
 110,"Juegos para Jardín",juegos-para-jardin,70,4
 111,Montables,montables,70,13
@@ -63,7 +63,7 @@ term_id,name,slug,parent,count
 315,"Retos bajos",retos-bajos-juegos-infantiles,70,2
 316,"Juegos modulares para interiores",juegos-modulares-para-interiores-juegos-infantiles,70,1
 317,"Skateparks y Pumtracks",skateparks-y-pumtracks,66,4
-319,"Juegos infantiles Centroamerica",juegos-infantiles-centroamerica,70,8
+319,"Juegos infantiles Centroamerica",juegos-infantiles-centroamerica,70,7
 320,Deportivo,deportivo,0,14
 321,Kompan,kompan,70,27
 322,Kompan,kompan-deportivo,320,10
