@@ -2,45 +2,36 @@
 
 ## Objetivo
 
-Inventariar, descargar, validar y versionar los medios asociados a los productos del catálogo de producción de Productos Jumbo, sin modificar WordPress, WooCommerce ni el contenido servido por el sitio.
+Inventariar, descargar, validar y versionar los medios asociados con los productos del catálogo de producción, sin modificar WordPress, WooCommerce ni el contenido servido por el sitio.
 
 ## Fuente
 
-Entorno revisado:
+- entorno: producción;
+- sitio: https://www.productosjumbo.com;
+- ruta de medios: `/home/dh_yiamy4/productosjumbo.com/wp-content/uploads`;
+- fecha de inventario: 2026-07-23;
+- productos analizados: 542.
 
-    https://www.productosjumbo.com
+## Alcance del inventario general
 
-Ruta de medios en el servidor:
-
-    /home/dh_yiamy4/productosjumbo.com/wp-content/uploads
-
-Fecha de extracción:
-
-    2026-07-23
-
-## Alcance del inventario
-
-Se analizaron 542 productos de WooCommerce y sus relaciones con medios mediante:
+Las relaciones se obtuvieron mediante:
 
 - imagen destacada (`_thumbnail_id`);
 - galería de WooCommerce (`_product_image_gallery`);
 - adjuntos cuyo `post_parent` corresponde al producto;
 - URLs de `wp-content/uploads` dentro del contenido y extracto;
-- metadatos que referencian fichas técnicas y dibujos 2D;
+- metadatos de fichas técnicas y dibujos 2D;
 - variaciones y adjuntos relacionados cuando aplicó.
 
-## Resultado general
+Resultado del inventario original:
 
-- productos analizados: 542;
-- productos con algún medio: 539;
-- productos sin medios: 3;
 - relaciones producto-medio detectadas: 1,913;
 - medios únicos detectados: 1,241;
 - archivos únicos existentes: 1,235;
 - referencias a archivos faltantes: 6;
-- tamaño total de archivos existentes inventariados: 362.03 MB.
+- tamaño total inventariado: 362.03 MB.
 
-Distribución por tipo:
+Distribución:
 
 - 199 AVIF;
 - 329 JPEG;
@@ -50,211 +41,166 @@ Distribución por tipo:
 - 175 ZIP;
 - 1 referencia sin tipo reconocido.
 
-## Imágenes versionadas
+## Fase 1: imágenes versionadas
 
-En esta fase se descargaron únicamente imágenes.
+La primera fase descargó únicamente imágenes y se integró mediante el PR `#2`.
 
 Resultado:
 
-- 880 rutas de imagen;
-- 880 imágenes existentes;
-- 0 imágenes faltantes;
-- 204.73 MB validados;
-- 872 objetos binarios únicos en Git LFS;
-- 8 grupos de contenido duplicado;
-- 16 rutas incluidas en grupos duplicados;
-- 539 productos con imágenes;
-- 960 relaciones únicas producto-imagen;
-- 0 errores de punteros Git LFS.
+- rutas de imagen: 880;
+- imágenes existentes: 880;
+- imágenes faltantes: 0;
+- tamaño validado: 204.73 MB;
+- objetos binarios únicos en Git LFS: 872;
+- grupos de contenido duplicado: 8;
+- rutas en grupos duplicados: 16;
+- productos con imágenes: 539;
+- relaciones únicas producto-imagen: 960;
+- errores de punteros Git LFS: 0.
 
-Las imágenes conservan su ruta relativa original de WordPress bajo:
+Ubicación:
 
     media/production/uploads/
 
-## Almacenamiento con Git LFS
+Inventarios:
 
-Los binarios se administran mediante la regla:
+    media/production/inventory/image-files.txt
+    media/production/inventory/image-media.tsv
+    media/production/inventory/image-product-relations.tsv
+    media/production/inventory/product-image-map.tsv
+    media/production/inventory/product-image-summary.tsv
+    media/production/inventory/image-checksums.tsv
+    media/production/inventory/product-media-relations.tsv
+    media/production/inventory/unique-media.tsv
+
+Reportes:
+
+    media/production/reports/media-summary.json
+    media/production/reports/image-size-analysis.json
+    media/production/reports/download-summary.json
+    media/production/reports/lfs-validation.json
+    media/production/reports/missing-media.tsv
+    media/production/reports/non-image-media.tsv
+    media/production/reports/suspicious-media-rows.tsv
+
+## Fase 2: documentos técnicos versionados
+
+Posteriormente, los PDF y ZIP asociados con productos se clasificaron, descargaron y validaron en una colección independiente. Esta fase se integró mediante el PR `#5`.
+
+Resultado:
+
+- documentos descargados: 355;
+- PDF: 183;
+- ZIP: 172;
+- productos relacionados: 248;
+- relaciones producto-documento: 358;
+- tamaño validado: 157.30 MB;
+- referencias documentales faltantes: 5;
+- grupo de contenido duplicado: 1;
+- rutas dentro del grupo duplicado: 2;
+- duplicados eliminados: 0.
+
+Ubicación:
+
+    media/production/documents/uploads/
+
+Inventarios y reportes:
+
+    media/production/documents/inventory/
+    media/production/documents/manifests/
+    media/production/documents/reports/
+
+Documentación específica:
+
+    docs/product-documents-production-2026-07-23.md
+
+## Diferencia entre inventario y colección documental
+
+El inventario general identificó 185 PDF y 175 ZIP. La colección descargada contiene 183 PDF y 172 ZIP porque cinco referencias documentales no tienen archivo físico en producción:
+
+- un PDF de `REH-00-02-00`;
+- un ZIP de `RES-00-02-00`;
+- un ZIP y un PDF de `REH-00-03-00`;
+- un ZIP de `CIR-00-02-00`.
+
+La sexta referencia faltante del inventario general es una ruta sin extensión asociada con `COL-AB-03-00`; no se clasificó como PDF o ZIP.
+
+## Git LFS
+
+Reglas principales:
 
     media/production/uploads/** filter=lfs diff=lfs merge=lfs -text
+    media/production/documents/uploads/** filter=lfs diff=lfs merge=lfs -text
 
-Después de clonar el repositorio es necesario ejecutar:
+Después de clonar:
 
     git lfs install
     git lfs pull
 
-Git LFS reutiliza el mismo objeto cuando varias rutas contienen exactamente el mismo contenido. Por esa razón existen 880 rutas, pero 872 objetos binarios únicos.
-
-## Inventarios generados
-
-### `image-files.txt`
-
-Lista ordenada de las 880 rutas relativas descargadas.
-
-### `image-media.tsv`
-
-Registro único por imagen, incluyendo MIME, ruta, existencia y tamaño.
-
-### `image-product-relations.tsv`
-
-Relaciones originales detectadas entre productos y archivos de imagen.
-
-### `product-image-map.tsv`
-
-Mapa normalizado producto-imagen con:
-
-- ID de producto;
-- SKU;
-- nombre;
-- estado;
-- ruta relativa;
-- ruta dentro del repositorio;
-- MIME;
-- IDs de adjunto;
-- funciones o roles de la imagen.
-
-### `product-image-summary.tsv`
-
-Resumen por producto con cantidad de imágenes únicas y conteos por función.
-
-### `image-checksums.tsv`
-
-Hash SHA-256, tamaño y MIME de cada archivo descargado.
-
-### `product-media-relations.tsv`
-
-Inventario completo de relaciones, incluyendo imágenes, PDF, ZIP y referencias no descargadas.
-
-### `unique-media.tsv`
-
-Inventario consolidado de los 1,241 medios únicos detectados.
-
-## Reportes generados
-
-- `media-summary.json`: resumen del inventario completo;
-- `image-size-analysis.json`: tamaños, MIME y archivos de imagen más grandes;
-- `download-summary.json`: resultado de la descarga y comparación contra el manifiesto;
-- `lfs-validation.json`: validación de punteros y objetos Git LFS;
-- `missing-media.tsv`: seis referencias sin archivo físico;
-- `non-image-media.tsv`: PDF, ZIP y referencia sin tipo;
-- `suspicious-media-rows.tsv`: filas sospechosas detectadas durante la validación.
+Git LFS reutiliza objetos cuando varias rutas contienen el mismo contenido. Las rutas originales se conservan aunque compartan OID SHA-256.
 
 ## Validaciones realizadas
 
-### Integridad estructural
+### Imágenes
 
-Se comprobó el número esperado de columnas en todos los TSV y no se detectaron filas malformadas.
+- estructura de TSV;
+- manifiesto contra archivos físicos;
+- tamaños;
+- SHA-256;
+- atributos Git LFS;
+- punteros, OID y tamaños declarados;
+- ausencia de imágenes faltantes.
 
-Resultado:
+### Documentos
 
-    TSV_STRUCTURE_OK
-
-### Descarga
-
-Se compararon las rutas esperadas con los archivos descargados.
-
-Resultado:
-
-- 880 archivos esperados;
-- 880 archivos descargados;
-- 0 faltantes;
-- 0 adicionales;
-- 0 diferencias de tamaño.
-
-Marcador:
-
-    DOWNLOAD_VALIDATION_OK
-
-### Checksums
-
-Cada imagen fue leída y validada mediante SHA-256. Los resultados se conservan en:
-
-    media/production/inventory/image-checksums.tsv
-
-### Git LFS
-
-Se comprobó para cada imagen:
-
-- puntero LFS válido;
-- tamaño declarado igual al archivo físico;
-- OID SHA-256 igual al contenido real;
-- atributo `filter=lfs` activo.
-
-Marcador:
-
-    LFS_POINTER_VALIDATION_OK
+- conteos de PDF y ZIP;
+- comparación contra el inventario de producción;
+- tamaños físicos;
+- SHA-256;
+- punteros Git LFS;
+- OID y tamaño de cada puntero;
+- estructura de TSV;
+- referencias válidas a productos;
+- conservación de duplicados y rutas originales.
 
 ## Productos sin medios
 
-Se detectaron tres productos sin relaciones de medios:
+El inventario general detectó tres productos sin relaciones de medios:
 
 - ID `7307`, SKU `PPR1-2-1`, Jumbo Rubber Sport Tipo Tartan A 13 mm, privado;
-- ID `28389`, borrador sin nombre y sin SKU;
+- ID `28389`, borrador sin nombre ni SKU;
 - ID `29376`, Banco Cubo, privado y sin SKU.
 
-Estos casos deben revisarse mediante tareas separadas.
-
-## Referencias faltantes
-
-Las seis referencias faltantes no corresponden a imágenes descargadas:
-
-- PDF de `REH-00-02-00`;
-- ZIP de `RES-00-02-00`;
-- ZIP de `REH-00-03-00`;
-- PDF de `REH-00-03-00`;
-- ZIP de `CIR-00-02-00`;
-- una ruta sin extensión asociada a `COL-AB-03-00`.
-
-El detalle exacto se encuentra en:
-
-    media/production/reports/missing-media.tsv
+Estos casos deben tratarse mediante tareas separadas.
 
 ## Decisiones de diseño
 
-### Una sola copia física
+- Una ruta física se conserva una sola vez y puede relacionarse con varios productos.
+- Las rutas `año/mes/nombre.ext` se preservan para mantener trazabilidad con WordPress.
+- `data/current` sigue siendo la fuente canónica del catálogo.
+- Los medios y documentos funcionan como evidencia y activos complementarios.
+- Los duplicados no se eliminan automáticamente.
+- Las referencias faltantes no se sustituyen ni se inventan.
 
-No se crea una copia de la imagen por cada producto. Cada ruta original se conserva una sola vez y las asociaciones se documentan en archivos TSV.
-
-### Conservación de rutas
-
-Las imágenes mantienen la estructura `año/mes/nombre.ext` para conservar trazabilidad con WordPress y simplificar futuras comparaciones.
-
-### Separación entre datos y medios
-
-`data/current` sigue siendo la fuente canónica de productos y taxonomías. `media/production` es una capa complementaria de evidencia y activos.
-
-### Documentos no descargados
-
-Los PDF y ZIP fueron inventariados, pero quedaron fuera de esta fase para evitar mezclar imágenes comerciales con documentos técnicos sin una clasificación previa.
-
-## Flujo recomendado para futuras actualizaciones
+## Flujo recomendado
 
 1. actualizar `main` y crear una rama específica;
-2. extraer un inventario nuevo desde producción en modo solo lectura;
-3. comparar el inventario nuevo contra `unique-media.tsv` e `image-checksums.tsv`;
-4. identificar altas, bajas, cambios de tamaño y cambios de hash;
-5. descargar únicamente imágenes nuevas o modificadas;
+2. extraer un inventario nuevo en modo solo lectura;
+3. comparar rutas, tamaños y hashes;
+4. identificar altas, bajas y cambios;
+5. descargar únicamente archivos nuevos o modificados;
 6. conservar las rutas originales;
 7. regenerar relaciones, resúmenes y checksums;
-8. validar punteros Git LFS;
-9. revisar productos sin medios y referencias rotas;
-10. actualizar la fecha y métricas de la documentación;
+8. validar Git LFS;
+9. revisar faltantes, duplicados y productos sin medios;
+10. actualizar la documentación;
 11. abrir un pull request independiente;
 12. fusionar mediante squash después de validar.
 
 ## Acciones no realizadas
 
-Durante este proceso no se realizaron:
-
-- modificaciones en WordPress;
-- cambios en productos o categorías;
-- reemplazos de imágenes en producción;
-- eliminación de adjuntos;
-- corrección de referencias faltantes;
-- descarga de PDF o ZIP;
+- modificaciones en WordPress o WooCommerce;
+- cambios de productos o categorías;
+- reemplazos o eliminación de adjuntos;
+- corrección automática de referencias faltantes;
 - despliegues a staging o producción.
-
-## Commit de incorporación inicial
-
-La incorporación inicial de imágenes se realizó mediante el PR `#2` y quedó fusionada en `main` con el commit:
-
-    39ccb3f71c942bb193a4bc6fa2058f3543825b66
