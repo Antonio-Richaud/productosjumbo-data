@@ -1,0 +1,29 @@
+spec_key	spec_label	data_type	unit_policy	description
+dimensions	Dimensiones	dimension_pair	m	Medidas generales expresadas como dos dimensiones.
+length	Largo	decimal	m	Longitud total del producto.
+width	Ancho	decimal	m	Ancho total del producto.
+height	Alto	decimal	m	Altura total del producto.
+base_dimension	Base	decimal	cm o m	Dimensión declarada para la base.
+diameter	Diámetro	decimal	cm o m	Diámetro declarado.
+thickness	Espesor	decimal	mm o cm	Espesor del material o superficie.
+minimum_area	Área mínima	dimension_pair	m	Espacio mínimo expresado como largo por ancho.
+total_area	Área total	decimal	m²	Superficie total declarada.
+installation_area_range	Superficie de instalación	numeric_range	m²	Rango de superficie de instalación.
+capacity	Capacidad	integer	persona	Número máximo de personas.
+recommended_age	Edad recomendada	text	años	Rango de edad recomendado.
+weight	Peso	decimal	kg	Peso del producto.
+materials	Materiales	text		Materiales principales declarados.
+color	Color	text		Color o acabado declarado.
+voltage	Voltaje	decimal	V	Voltaje nominal.
+power_consumption	Consumo energético	decimal	W	Potencia eléctrica nominal.
+fountain_layout	Configuración	enum		Configuración geométrica de una fuente.
+outlet_count	Salidas	integer	salida	Número de salidas de agua.
+jet_count	Jets	integer	jet	Número de jets.
+sprinkler_count	Aspersores	integer	aspersor	Número de aspersores.
+jet_height	Altura del chorro	decimal	m	Altura nominal del flujo de agua.
+height_variation	Variación de altura	enum		Indica si la altura del flujo es variable.
+installation_method	Instalación	text		Método de instalación declarado.
+ecological	Ecológico	boolean		Indica una declaración ecológica del producto.
+impact_absorption	Absorción de impactos	boolean		Indica capacidad de absorber impactos.
+protection	Protección	text		Tipo de protección declarada.
+non_toxic	No tóxico	boolean		Indica una declaración de no toxicidad.

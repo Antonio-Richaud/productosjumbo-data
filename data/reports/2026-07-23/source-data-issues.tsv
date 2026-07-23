@@ -1,0 +1,8 @@
+product_id	product_sku	product_name	issue	source_value	notes
+6701	LT-1.20	Letra de lamina 1.20 m de alto con base de 30 cm	possible_unit_inconsistency	Base: 0.30 cm	El nombre del producto indica una base de 30 cm.
+6703	LT-1.50	Letra de lamina 1.50 m de alto con base de 30 cm	possible_unit_inconsistency	Base: 0.30 cm	El nombre del producto indica una base de 30 cm.
+7254	PGR-50	Piso de Loseta de Caucho Rojo Chispa	possible_unit_inconsistency	Largo y ancho: 0.50 cm	El valor equivale a 5 mm y debe validarse comercialmente.
+7255	PGN-60	Piso de Loseta de Caucho Negro Chispa	possible_unit_inconsistency	Largo y ancho: 0.50 cm	El valor equivale a 5 mm y debe validarse comercialmente.
+7260	PGK-50	Piso de Loseta de Caucho Kaki	possible_unit_inconsistency	Largo y ancho: 0.50 cm	El valor equivale a 5 mm y debe validarse comercialmente.
+7261	PGG-50	Piso de Loseta de Caucho Gris	possible_unit_inconsistency	Largo y ancho: 0.50 cm	El valor equivale a 5 mm y debe validarse comercialmente.
+7263	PGCA-50	Piso de Loseta de Caucho Cafe	possible_unit_inconsistency	Largo y ancho: 0.50 cm	El valor equivale a 5 mm y debe validarse comercialmente.

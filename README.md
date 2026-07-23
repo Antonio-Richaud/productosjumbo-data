@@ -234,6 +234,28 @@ Documentación técnica y operativa de auditorías, conciliaciones, decisiones y
 
 Información de taxonomías de producción y propuestas de organización curada.
 
+### Contenido y especificaciones
+
+Las descripciones y especificaciones normalizadas se encuentran en:
+
+    data/current/product-content.tsv
+    data/current/product-specifications.tsv
+    data/current/specification-dictionary.tsv
+
+`product-content.tsv` contiene una fila por producto.
+
+`product-specifications.tsv` contiene una fila por propiedad técnica y
+se enlaza mediante `product_id` y `product_sku`.
+
+El contenido original de WordPress se conserva en:
+
+    data/snapshots/2026-07-23/production/content/
+
+Los casos incompletos o ambiguos se documentan en:
+
+    data/reports/2026-07-23/
+
+
 ## Información por producto
 
 El modelo permite relacionar cada producto con:
