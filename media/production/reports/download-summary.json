@@ -1,0 +1,14 @@
+{
+  "generated_at_utc": "2026-07-23T17:55:46.969991+00:00",
+  "source_environment": "production",
+  "source_uploads_path": "/home/dh_yiamy4/productosjumbo.com/wp-content/uploads",
+  "downloaded_unique_images": 880,
+  "validated_unique_images": 880,
+  "missing_images": 0,
+  "extra_images": 0,
+  "size_mismatches": 0,
+  "total_bytes": 214676192,
+  "total_megabytes": 204.73,
+  "storage": "git-lfs",
+  "checksum_algorithm": "sha256"
+}
