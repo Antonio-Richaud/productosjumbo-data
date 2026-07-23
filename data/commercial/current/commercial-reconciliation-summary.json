@@ -1,0 +1,10 @@
+{
+  "excel_rows": 345,
+  "direct_sku_resolutions": 311,
+  "alias_resolutions": 32,
+  "unresolved_rows": 2,
+  "resolved_rows": 343,
+  "unique_canonical_products": 343,
+  "commercial_sector_relations": 343,
+  "canonical_products_with_multiple_source_skus": 0
+}

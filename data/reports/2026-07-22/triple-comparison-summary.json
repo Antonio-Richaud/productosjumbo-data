@@ -1,0 +1,104 @@
+{
+  "sources": {
+    "repository": {
+      "products": 540,
+      "unique_skus": 537,
+      "products_without_sku": 2,
+      "duplicate_skus": [
+        "EJE-EST-10-00"
+      ],
+      "categories": 74,
+      "catalog_summary": {
+        "snapshot_date": "2026-07-15",
+        "source_environment": "production",
+        "source_url": "https://www.productosjumbo.com",
+        "products_total": 540,
+        "products_published": 484,
+        "products_draft": 21,
+        "products_private": 35,
+        "products_pending": 0,
+        "categories_total": 74,
+        "root_categories_total": 8,
+        "product_category_relations": 626,
+        "products_without_category": 5
+      }
+    },
+    "staging": {
+      "products": 537,
+      "unique_skus": 535,
+      "products_without_sku": 2,
+      "duplicate_skus": [],
+      "categories": 86,
+      "catalog_summary": {
+        "snapshot_date": "2026-07-22",
+        "source_environment": "staging",
+        "source_url": "https://staging.productosjumbo.com",
+        "products_total": 537,
+        "products_published": 479,
+        "products_draft": 23,
+        "products_private": 35,
+        "products_pending": 0,
+        "categories_total": 86,
+        "root_categories_total": 20,
+        "product_category_relations": 626,
+        "products_without_category": 0
+      }
+    },
+    "production": {
+      "products": 542,
+      "unique_skus": 539,
+      "products_without_sku": 2,
+      "duplicate_skus": [
+        "EJE-EST-10-00"
+      ],
+      "categories": 74,
+      "catalog_summary": {
+        "snapshot_date": "2026-07-22",
+        "source_environment": "production",
+        "source_url": "https://www.productosjumbo.com",
+        "products_total": 542,
+        "products_published": 489,
+        "products_draft": 18,
+        "products_private": 35,
+        "products_pending": 0,
+        "categories_total": 74,
+        "root_categories_total": 8,
+        "product_category_relations": 627,
+        "products_without_category": 5
+      }
+    }
+  },
+  "sku_presence_classification": {
+    "all_three": 527,
+    "staging_only": 5,
+    "production_only": 5,
+    "repository_staging_only": 3,
+    "repository_production_only": 7
+  },
+  "pair_comparisons": [
+    {
+      "left": "repository",
+      "right": "production",
+      "left_only_skus": 3,
+      "right_only_skus": 5,
+      "common_skus": 534,
+      "material_differences": 82
+    },
+    {
+      "left": "repository",
+      "right": "staging",
+      "left_only_skus": 7,
+      "right_only_skus": 5,
+      "common_skus": 530,
+      "material_differences": 89
+    },
+    {
+      "left": "staging",
+      "right": "production",
+      "left_only_skus": 8,
+      "right_only_skus": 12,
+      "common_skus": 527,
+      "material_differences": 8
+    }
+  ]
+}

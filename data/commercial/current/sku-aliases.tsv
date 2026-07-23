@@ -1,0 +1,33 @@
+source_sku	canonical_sku	canonical_product_id	source_model	commercial_sector	canonical_name	canonical_status	confidence	evidence
+IOS-PR-01-04	MEV-CR-01-00	32305	MODULO IBIZA	Residenciales y fraccionamientos	Juego IBIZA	publish	confirmed_by_media	active_images_contain_source_sku
+EOS-PR-05-00	MEC-CR-05-00	6113	MODULO SIENA	Juegos de exterior	Juego SIENA	publish	high	unique_normalized_name_match
+TDF-00-02-02	MEL-CR-03-00	24822	MODULO VALLADOLID	Residenciales y fraccionamientos	Juego VALLADOLID	publish	confirmed_by_media	active_images_contain_source_sku
+TDF-00-03-01	MEL-CR-01-00	24818	MODULO CORDOBA	Residenciales y fraccionamientos	Juego Córdoba	publish	high	unique_normalized_name_match
+EOS-PR-08-02	MER-PR-03-00	32323	MODULO CALIFORNIA	Juegos de exterior	Juego CALIFORNIA	publish	confirmed_by_media	active_images_contain_source_sku
+EOS-PR-09-00	MER-PR-02-00	6705	MODULO MASSACHUSETTS	Escuelas y colegios	Juego MASSACHUSETTS	publish	high	unique_normalized_name_match
+EOS-PR-10-01	EOS-PR-10-00	6676	MODULO PARIS	Juegos de exterior	Juego Paris (EOS-PR-10-01)	publish	confirmed_by_product_title	published_product_title_contains_source_sku
+EOS-PR-11-02	MER-PR-08-00	32325	MODULO RANDOLPH	Escuelas y colegios	Juego RANDOLPH	publish	confirmed_by_media	active_images_contain_source_sku
+EOS-PR-18-03	MEV-CR-03-00	6738	MODULO GRADY	Escuelas y colegios	Juego GRADY	publish	high	unique_normalized_name_match
+EOS-PR-19-02	MEV-CR-02-00	32327	MODULO PARMA	Residenciales y fraccionamientos	Juego PARMA	publish	confirmed_by_media	active_images_contain_source_sku
+EOS-PR-24-00	MER-PR-06-00	6785	MODULO RUSSEL	Escuelas y colegios	Juego RUSSEL	publish	high	unique_normalized_name_match
+EOS-PR-25-03	MER-PR-07-00	6783	MODULO WINSTON	Juegos de exterior	Juego WINSTON	publish	high	unique_normalized_name_match
+EOS-PR-26-00	MEC-CR-03-00	21148	MODULO CHARLOTTE	Escuelas y colegios	Juego CHARLOTTE	publish	high	unique_normalized_name_match
+EOS-CR-02-03	MER-PR-05-00	32303	MODULO BRITANIA	Juegos de exterior	Juego BRITANIA	publish	confirmed_by_media	active_images_contain_source_sku
+EOS-CR-03-03	MEC-CR-02-00	32304	MODULO ESPAÑA	Juegos de exterior	Juego ESPAÑA	publish	confirmed_by_media	active_images_contain_source_sku
+EOS-PR-31-00	MEC-CR-01-00	6797	MODULO BOSTON	Escuelas y colegios	Juego BOSTON	publish	high	unique_normalized_name_match
+EOS-PR-34-00	EOS-PR-34-20	28342	MODULO ENSUEÑO	Residenciales y fraccionamientos	Ensueño	publish	high	unique_normalized_name_match
+TEM-PL-02-00	TEM-PL-02-20	6872	MODULO NAVE ORION	Juegos de exterior	Juego NAVE ORION	publish	high	unique_normalized_name_match
+TEM-PL-01-00	TEM-PL-01-20	6884	MODULO NAVE TITAN	Juegos de exterior	Juego Nave Titán	publish	high	unique_normalized_name_match
+TEM-PL-09-00	TEM-PL-09-20	6852	MODULO ROBOTO	Escuelas y colegios	Juego ROBOTO	publish	high	unique_normalized_name_match
+TEM-PL-16-00	TEM-PL-16-20	28369	MODULO TEMATICO ZEBRA	Juegos de exterior	Juego temático Zebra	publish	high	unique_normalized_name_match
+TEM-PL-15-00	TEM-PL-15-20	28365	MODULO TEMATICO JIRAFA	Juegos de exterior	Juego temático jirafa	publish	high	unique_normalized_name_match
+TEM-PR-03-00	TEM-PR-03-20	6874	MODULO BARCO	Juegos de exterior	Juego BARCO	publish	high	unique_normalized_name_match
+TEM-PR-04-00	TEM-PR-04-20	6876	MODULO NAVIO	Juegos de exterior	Juego NAVIO	publish	high	unique_normalized_name_match
+TEM-PR-06-05	MEC-CR-07-00	32328	MODULO IMPERIO	Juegos de exterior	Juego IMPERIO	publish	high	unique_normalized_name_match
+TEM-PR-07-01	TEM-PR-07-20	32329	MODULO TREN	Centro Comercial, Restaurantes y Hoteles	Juego TREN	publish	confirmed_by_media	active_images_contain_source_sku
+EVA-PR-01-00	EVA-PR-01-20	7751	MODULO ATRACTION	Centro Comercial, Restaurantes y Hoteles	Juego ATRACTION	publish	high	unique_normalized_name_match
+EOS-IN-05-02	MEC-CR-08-00	32322	MODULO MAINE INCLUSIVO	Juegos inclusivos	Juego MAINE INCLUSIVO	publish	confirmed_by_media	active_images_contain_source_sku
+BOT-LP-09-00	BOT-LP-05-01	6264	BOTE MISISIPI	Botes de basura	BOTE MISISIPI	publish	high	unique_normalized_name_match
+BAN-PM-03-00	BAN-PP-08-00	6324	BANCA LOA PLASTIMADERA	Mesas y bancas	BANCA LOA PLASTIMADERA	publish	high	unique_normalized_name_match
+EJE-EST-06-00	EJE-ID-06-00	28676	EJERCITADOR BANCO ABDOMINAL INCLINADO	Gimnasios de calistenia	Ejercitador Banco Abdominal Inclinado	publish	high	unique_normalized_name_match
+JAM-2419	JAM-419	7153	AQUA JUM4	Zonas acuáticas	AQUA JUM4	publish	high	unique_normalized_name_match

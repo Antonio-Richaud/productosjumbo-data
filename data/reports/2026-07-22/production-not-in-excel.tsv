@@ -1,0 +1,229 @@
+sku	product_id	product_name	product_slug	post_status
+ALA-PT-01-00	7430	Alas Lucendi (PTJ-118)	alas-lucendi	draft
+ARC-5911	29280	Pista de Skate ARC-5911	pista-de-skate-arc-5911	publish
+ARC-6472	29276	Pista de Skate ARC-6472	pista-de-skate-arc-6472	publish
+ARCPT-01	29281	Speed ring	speed-ring	publish
+ARCPT-02	29284	Triple Threat	triple-threat	publish
+BAN-IX-01-00	8359	BANCA LOA INOX	banca-loa-inox-2	publish
+BAN-PP-08-00	6324	BANCA LOA PLASTIMADERA	banca-loa-b	publish
+BAN-PT-04-00	7445	BANCA LUCENDI	banca-lucendi	publish
+BAN-PT-05-00	7446	BANCA MEDIA LUNA LUCENDI	banca-media-luna-lucendi	publish
+BAN-PT-06-00	7442	Banca de Luz (PTJ-BL)	banca-de-luz	private
+BOA-PT-01-00	25243	Pixel Board	pixel-board	private
+BOL-00-01-00	6531	BOLARDO METALICO	bolardo-completo	publish
+BOL-00-02-00	6540	BOLARDO CUADRADO	bolardo-2	publish
+BOL-00-03-00	6538	BOLARDO TRIANGULAR	bolardo-1	publish
+BOL-00-04-00	8367	"BOLARDO METALICO 4"" 60 CM ALTURA"	bolardo-metalico-4-60cm-altura	publish
+BOL-00-05-00	22429	"BOLARDO METALICO 6"" 80CM ALTURA"	bolardo-metalico-6-80cm-altura-2	publish
+BOL-IX-01-00	8363	BOLARDO 5 INOX	bolardo-5-inox-2	publish
+BOL-IX-02-00	8364	BOLARDO 3 INOX	bolardo-3-inox-2	publish
+BOL-PT-01-00	22431	BOLARDO CON LUZ	bolardo-con-luz	publish
+BOT-LP-05-01	6264	BOTE MISISIPI	bote-misisipi	publish
+BUS-00-01-00	7505	PARABUS TECH	parabus-tech	publish
+BUS-00-02-00	32111	PARABUS ZAMBA	parabus-zamba	publish
+BUS-LP-01-00	6569	PARABUS LONG	parabus-3	publish
+BUS-TP-01-00	8370	PARABUS BASIC	parabus-basic	publish
+BUS-TP-02-00	6575	PARABUS FULL	parabus-1	publish
+COL-CR-03-00	7077	Pasamanos Curvo con Canastilla Compuesto Plástico Reforzado	pasamanos-con-canastilla	publish
+COL-PT-02-00	7411	COLUMPIO LUCENDI	columpio-lucendi	publish
+EDU-PL-01-00	32271	PANEL CUENTA CONMIGO	panel-cuenta-conmigo	publish
+EDU-PL-02-00	32272	PANEL CUENTA FICHAS (1-5)	panel-cuenta-fichas-1-5	publish
+EDU-PL-03-00	32273	PANEL CUENTA FICHA (6-10)	panel-cuenta-ficha-6-10	publish
+EDU-PL-04-00	32274	PANEL CUENTA FICHA (0-5)	panel-cuenta-ficha-0-5	publish
+EDU-PL-05-00	32278	Juego OPERACIONES	modulo-operaciones	publish
+EDU-PL-06-00	32275	PANEL DELETREA	panel-deletrea	publish
+EDU-PL-07-00	32276	PANEL CREA PALABRAS	panel-crea-palabras	publish
+EDU-PL-08-00	32277	Juego D_LETREA	modulo-d_letrea	publish
+EDU-PL-09-00	32279	TOTEM CUADRADO	totem-cuadrado	publish
+EDU-PL-10-00	32280	TOTEM HEXAGONAL	totem-hexagonal	publish
+EJE-BA-01-00	6047	Ejercitador Abdominales Balance	ejercitador-abdominales	private
+EJE-BA-06-00	6034	Ejercitador Potro Balance	potro-sencillo	private
+EJE-BA-07-00	6041	Ejercitador Caminadora Balance	caminadora-sencilla	private
+EJE-BA-08-00	5940	Ejercitador Eliptica Balance	eliptica-sencilla-balance	private
+EJE-BA-11-00	5996	Ejercitador De Pecho Balance	pecho-sencillo	private
+EJE-BA-12-00	6037	Ejercitador Remadora Balance	remadora-sencilla	private
+EJE-BA-15-00	6045	Ejercitador Bicicleta Balance	bicicleta-sencilla	private
+EJE-BA-21-00	28647	Ejercitador barras paralelas	ejercitador-barras-paralelas	private
+EJE-ID-06-00	28676	Ejercitador Banco Abdominal Inclinado	ejercitador-banco-abdominal-inclinado	publish
+EJE-ID-30-00	6345	Ejercitador Barras Dominadas Y 3 Postes (AID-1918)	barras-dominadas-y-3-postes	private
+EOS-CR-02-00	6841	Juego Britania (EOS-FV-02-00)	britania	draft
+EOS-FV-03-00	6843	Juego España (EOS-FV-03-00)	espana	draft
+EOS-IN-04-00	7126	Juego Indiana Inclusivo (EOS-1210 7.0 DC)	indiana	draft
+EOS-IN-05-00	7122	Juego Maine Inclusivo (EOS-1612 7.0 DC)	maine	draft
+EOS-MA-03-00	32121	Juego DE MADERA BASICO	modulo-de-madera-basico	publish
+EOS-PR-06-00	6101	Juego Gordon (EOS-PR-06-00)	gordon	private
+EOS-PR-08-00	6665	Juego California (EOS-PR-08-00)	california	draft
+EOS-PR-10-00	6676	Juego Paris (EOS-PR-10-01)	paris	publish
+EOS-PR-11-00	6707	Juego Randolph (EOS-1613 10.0)	randolph	draft
+EOS-PR-12-00	6713	Juego Utah (EOS-515 7.0)	utah	private
+EOS-PR-13-00	6723	Juego Minnesota (EOS-PR-13-00)	minnesota	private
+EOS-PR-17-00	6733	Juego Oregon (EOS-1010 7.0)	oregon	private
+EOS-PR-19-00	6764	Juego Parma (EOS-PR-19-00)	parma	draft
+EOS-PR-22-00	6791	Juego Pensilvania (EOS-PR-22-00)	pensilvania	private
+EOS-PR-23-00	6770	Juego Pittsburgh (EOS-PR-23-00)	pittsburgh	private
+EOS-PR-32-00	6846	Juego Misuri	misuri	private
+EOS-PR-34-20	28342	Ensueño	ensueno	publish
+EVA-PR-01-20	7751	Juego ATRACTION	modulo-atraction	publish
+EVA-PR-02-00	32713	Juego Atraction Basic	juego-atraction-basic	publish
+EVA-PR-03-00	6899	Juego Capri (EVA-114-1)	modulo-capri	private
+FUMR-119-C	6602	Cascada digital	cascada-digital	publish
+FUMR-119E-C	6603	Cascada digital metro extra	cascada-digital-metro-extra	private
+FUMR-319	6577	Fuente lineal 4 salidas, 4 jet, 2 m altura	fuente-lineal-4-chorros	publish
+FUMR-319-1	6578	Fuente lineal 4 salidas, 4 jet 3 m altura	fuente-lineal-4-chorros-2	publish
+FUMR-319A	6579	Fuente lineal 4 salidas, 2 jet y 2 aspersor 2 m altura	fuente-lineal-4-chorros-2-m-2-aspersores	publish
+FUMR-319A-1	6582	Fuente lineal 4 salidas, 2 jet y 2 aspersor 3 m altura	fuente-lineal-4-chorros-3-m-2-aspersores	publish
+FUMR-419	6596	Fuente redonda 5 salidas, 5 jet 2 m altura	fuente-redonda-5-salidas-5-jet-2-m-altura	publish
+FUMR-419-1	6597	Fuente redonda 5 salidas, 5 jet 3 m altura	fuente-redonda-5-salidas-5-jet-3-m-altura	publish
+FUMR-519	6598	Fuente redonda 7 salidas, 7 jet 2 m altura	fuente-redonda-7-salidas-7-jet-2-m-altura	publish
+FUMR-519-1	6599	Fuente redonda 7 salidas, 7 jet 3 m altura	fuente-redonda-7-salidas-7-jet-3-m-altura	publish
+FUMR-619-1A	6601	Fuente redonda 9 salidas, 8 jet y 1 aspersor 3 mts altura	fuente-redonda-9-salidas-8-jet-y-1-aspersor-3-mts-altura	publish
+FUMR-619A	6600	Fuente redonda 9 salidas, 8 jet y 1 aspersor 2 mts altura	fuente-redonda-9-salidas-8-jet-y-1-aspersor-2-mts-altura	publish
+INOX-214B	7278	Aparcabicicleta Two Circular	aparcabicicletas-2-2	private
+INOX-517B	6513	Banca Loa Inox	banca-loa-inox	draft
+IOS-PR-01-00	6088	Juego Ibiza (IOS-PR-01-00)	ibiza	draft
+IOS-PR-02-00	6115	Juego New Jersey (IOS-115 7.0)	new-jersey	private
+JAM-419	7153	AQUA JUM4	aqua-4	publish
+KOM-BLX410501-3717	30500	Bloqx 5	bloqx-5	publish
+KOM-COR175101-0403	30508	Mariposa, physical	mariposa-physical	publish
+KOM-COR203301-1101	30487	Twister inclusivo	twister-inclusivo	publish
+KOM-CRP810201-0903	30513	Mini cúpula con tobogan	mini-cupula-con-tobogan	publish
+KOM-CRP812001-0404	30506	Domo sensorial	cupula-sensorial	publish
+KOM-CRP812501-0404	30510	Domo explorer	cupula-explorer	publish
+KOM-ELE400024-3717F	30490	Spinner bowl	spinner-bowl	publish
+KOM-FAZ20100-0900	30545	Combi 1 cross training	combi-1-cross-training	publish
+KOM-FAZ50100-0801	30564	Bicicleta de ciudad	bicicleta-de-ciudad	publish
+KOM-FAZ52100-0801	30554	Bicicleta elíptica	bicicleta-eliptica	publish
+KOM-FAZ60100-0001	30550	Prensa de pecho	prensa-de-pecho	publish
+KOM-FAZ60200-0001	30556	Jalón para espalda	jalon-para-espalda	publish
+KOM-FAZ60300-0001	30547	Prensa de piernas	prensa-de-piernas	publish
+KOM-FAZ60400-0001	30558	Prensa de hombros	prensa-de-hombros	publish
+KOM-FAZ60500-0001	30560	Remo horizontal	remo-horizontal	publish
+KOM-FAZ60600-0001	30552	Banco de abdominales	banco-de-abdominales	publish
+KOM-FAZ60700-0001	30562	Hiperextensor lumbar	hiperextensor-lumbar	publish
+KOM-GXY916021-3417	30502	Supernova	supernova	publish
+KOM-KPL400722-0902	30525	Cuatro torres con tobogan de tubo	cuatro-torres-con-tobogan-de-tubo	publish
+KOM-M98301-1009	30543	Columpio nido 360	columpio-nido-360	publish
+KOM-M98401-1011	30498	Columpio péndulo	columpio-pendulo	publish
+KOM-NRO2005-1001	30532	Torre de los magos doble	torre-de-los-magos-doble	publish
+KOM-NRO2008-1001	30517	El castillo de la bruja	el-castillo-de-la-bruja	publish
+KOM-NRO542-1021	30534	Barco explorador mediano	barco-explorador-mediano	publish
+KOM-NRO836-1201	30519	Cupula jungla	cupula-jungla	publish
+KOM-NRO854-1001	30536	Parcour 9	parcour-9	publish
+KOM-NRO865-1001	30539	Parcour 6	parcour-6	publish
+KOM-PCE305121-0603	30541	Buscacaminos	buscacaminos	publish
+KOM-PCM103031-0901	30527	Torre de juego con rampa	torre-de-juego-con-rampa	publish
+KOM-PCM112821-0901	30521	Castillo con torre de vigía	castillo-con-torre-de-vigia	publish
+KOM-PCM113221-0901	30523	Barco man-o-war	barco-man-o-war	publish
+KOM-PCM153-0902	30494	Carrusel 3 asientos	carrusel-3-asientos	publish
+KOM-PCM157-0205	30492	Carrusel inclusivo	carrusel-inclusivo	publish
+KOM-PCM159-1001	30496	Wehopper	wehopper	publish
+KOM-PCM200432-0901	30504	Mega deck doble con torre	mega-deck-doble-con-torre	publish
+KOM-PCM81121-0950	30529	Duo climber	duo-climber	publish
+KOM-PCT310321-0901	30515	Giant palacio l+xl & torre mediana	giant-palacio-lxl-torre-mediana	publish
+LBGA-50	7272	Loseta Burbuja Azul Marino	loseta-burbuja-azul-marino-chispas	publish
+LBGR-50	7269	Loseta Burbuja Terracota	loseta-burbuja-terracota-chispas	publish
+LBGV-50	7273	Loseta Burbuja Verde	loseta-burbuja-verde-chispas	publish
+LET-PT-01-00	6709	LETRA ACRILICO Y LUZ 1.20 M DE ALTO CON BASE	letra-acrilico-y-luz-1-20-m-de-alto-con-base	publish
+LET-PT-02-00	6710	LETRA ACRILICO Y LUZ 1.50 M DE ALTO CON BASE	letra-acrilico-y-luz-1-50-m-de-alto-con-base	publish
+LET-PT-03-00	6704	LETRA POLICARBONATO Y LUZ 2.00 M DE ALTO	letra-policarbonato-y-luz-2-00-m-de-alto	publish
+LET-PT-04-00	6708	LETRA POLICARBONATO Y LUZ 3.00 M DE ALTO	letra-policarbonato-y-luz-3-00-m-de-alto	publish
+LT-1.20	6701	Letra de lamina 1.20 m de alto con base de 30 cm	letra-de-lamina-1-20-m-de-alto-con-base-de-30-cm	publish
+LT-1.50	6703	Letra de lamina 1.50 m de alto con base de 30 cm	letra-de-lamina-1-50-m-de-alto-con-base-de-30-cm	publish
+MEC-CR-01-00	6797	Juego BOSTON	boston	publish
+MEC-CR-02-00	32304	Juego ESPAÑA	modulo-espana	publish
+MEC-CR-03-00	21148	Juego CHARLOTTE	charlotte-2	publish
+MEC-CR-04-00	6839	Juego BARCELONA	barcelona-2	publish
+MEC-CR-05-00	6113	Juego SIENA	siena	publish
+MEC-CR-06-00	32297	VERONA	verona-2	publish
+MEC-CR-07-00	32328	Juego IMPERIO	modulo-imperio	publish
+MEC-CR-08-00	32322	Juego MAINE INCLUSIVO	modulo-maine-inclusivo	publish
+MEL-CR-01-00	24818	Juego Córdoba	modulo-cordoba	publish
+MEL-CR-02-00	24820	Juego VIZCAYA	modulo-vizcaya	publish
+MEL-CR-03-00	24822	Juego VALLADOLID	modulo-valladolid	publish
+MER-PR-01-00	32326	Juego ARKANSAS	modulo-arkansas	publish
+MER-PR-02-00	6705	Juego MASSACHUSETTS	masachusetts-v1	publish
+MER-PR-03-00	32323	Juego CALIFORNIA	modulo-california	publish
+MER-PR-04-00	32324	Juego PARIS	modulo-paris	publish
+MER-PR-05-00	32303	Juego BRITANIA	modulo-britania	publish
+MER-PR-06-00	6785	Juego RUSSEL	russel	publish
+MER-PR-07-00	6783	Juego WINSTON	winston	publish
+MER-PR-08-00	32325	Juego RANDOLPH	modulo-randolph	publish
+MES-PT-02-00	7044	Mesa Iluminada para Arena (PTJ-MIS-320)	mesa-iluminada-para-arena	draft
+MEV-CR-01-00	32305	Juego IBIZA	modulo-ibiza	publish
+MEV-CR-02-00	32327	Juego PARMA	modulo-parma-2	publish
+MEV-CR-03-00	6738	Juego GRADY	barcelona	publish
+MOB-CV-12	32113	LUMINARIA NAVAL 2.20	luminaria-naval-2-20	publish
+MUA-217A-P	7262	Banca fuji A.	fuji-ap-banca-premium	draft
+MUA-217B-P	7265	Banca fuji B.	fuji-bp-banca-premium	draft
+MUM-118-1-1	6820	Mesa de Picnic	mesa-de-picnic	private
+MUS-CV-02-00	31946	Juego Musical PE-D01-A	juego-musical-pe-d01-a	publish
+MUS-CV-03-00	31943	Juego Musical B01	juego-musical-b01	publish
+OKST-C01X-VI	32225	SURFEANDO	surfeando-2	publish
+OKST-M04X-VI	32224	CAMINADORA	caminadora	publish
+OKST-S03X-VI	32216	BARRAS PARALELAS	barras-paralelas	publish
+OKST-T01X	32090	Taiji Pushing	taiji-pushing	publish
+OKST-Z03X-VI	32226	EJERCITADOR DE PECHO	ejercitador-de-pecho-2	publish
+PASART-25	7224	Pasto Artificial 25mm de altura	pasto-artificial-25mm-de-altura	publish
+PASART-45	7228	Pasto Artificial 45mm de altura	pasto-artificial-45mm-de-altura	publish
+PASART-45-AM	7232	Pasto Artificial 45 mm de altura 850grs Color Amarillo	pasto-artificial-45-mm-de-altura-850grs-color-amarillo	publish
+PASART-45-AZ	7235	Pasto Artificial 45 mm de altura 850grs Color Azul	pasto-artificial-45-mm-de-altura-850grs-color-azul	publish
+PASART-45-BL	7230	Pasto Artificial 45mm de altura 850grs Color Blanco	pasto-artificial-45mm-de-altura-2	publish
+PASART-45-RO	7233	Pasto Artificial 45 mm de altura 850grs Color Rojo	pasto-artificial-45-mm-de-altura-850grs-color-rojo	publish
+PGCA-50	7263	Piso de Loseta de Caucho Cafe	piso-de-caucho-cafe-premium	publish
+PGG-50	7261	Piso de Loseta de Caucho Gris	piso-de-caucho-gris-premium	publish
+PGK-50	7260	Piso de Loseta de Caucho Kaki	piso-de-caucho-khaki-premium	publish
+PGN-50	7266	Piso de Loseta de Caucho Negro	piso-de-caucho-negro-premium	publish
+PGN-60	7255	Piso de Loseta de Caucho Negro Chispa	piso-de-caucho-negro-chispa	publish
+PGR-50	7254	Piso de Loseta de Caucho Rojo Chispa	piso-de-caucho-rojo-chispa	publish
+PIL-CV-01-00	32115	LUMINARIA VELA 2.20	luminaria-vela-2-20	publish
+PIL-CV-02-00	32117	LUMINARIA VELA 2.60	luminaria-vela-2-60	publish
+PIL-PT-01-00	7834	Bubble Pillar (PTJ-620 C)	bubble-pillar-diametro-6-2-m-altura	draft
+PIL-PT-02-00	7425	LIGHT PILLAR	light-pillar	publish
+PIL-PT-03-00	6610	LUMIN ALBA 2.5M ALTURA	lumin-alba-2-5-m-altura	publish
+PIL-PT-04-00	6604	LUMIN FULGOR 2M ALTURA	lumin-fulgor-2m-altura	publish
+PPG1-1	7275	JUMBO RUBBER PG1 A 1 CM	loseta-burbuja-verde-chispas-copia	private
+PPG1-2	7277	JUMBO RUBBER PG1 A 2 CM	jumbo-rubber-pg1-a-2-cm	private
+PPG1-3	7416	JUMBO RUBBER SPORT PG1 A 3 MM	jumbo-rubber-sport-pg1-a-3-mm	publish
+PPG1-4	7279	JUMBO RUBBER PG1 A 3 CM	jumbo-rubber-pg1-a-3-cm	private
+PPG1-4-1	7281	JUMBO RUBBER PG1 A 4 CM	jumbo-rubber-pg1-a-4-cm	private
+PPM-AMA	22739	Piso Plástico Modular Amarillo	piso-plastico-modular-amarillo	publish
+PPM-AZC	22735	Piso Plástico Modular Azul Cobalto	piso-plastico-modular-azul-cobalto	publish
+PPM-BEI	22731	Piso Plástico Modular Beige	piso-plastico-modular-beige	publish
+PPM-GRI	22729	Piso Plástico Modular Gris	piso-plastico-modular-gris	publish
+PPM-NEG	22733	Piso Plástico Modular Negro	piso-plastico-modular-negro	publish
+PPM-ROJ	22737	Piso Plástico Modular Rojo	piso-plastico-modular-rojo	publish
+PPM-TER	22725	Piso Plástico Modular Terracota	piso-plastico-modular-terracota	publish
+PPM-VEL	22727	Piso Plástico Modular Verde Limón	piso-plastico-modular-verde-limon	publish
+PPM-VET	22712	Piso Plástico Modular Verde Trébol	piso-plastico-modular-verde-trebol	publish
+PPR1-2-1	7307	Jumbo Rubber Sport Tipo Tartan A 13 mm		private
+PPTT-13	7286	JUMBO RUBBER SPORT TIPO TARTAN A 13 MM	jumbo-rubber-sport-tipo-tartan-a-13-mm	publish
+PTJ-MGB-220	7243	Dexia Bote con iluminacion	dexia-bote-con-iluminacion	publish
+RAI-CP1-2D	22897	Castle 1 - Rainbow	fiesta-castle1-rainbow	draft
+RAI-CP2-2B	23738	Fiesta Castle 2 - Rainbow	fiesta-castle-2-rainbow	draft
+SUB-PT-01-00	7427	SUBE Y BAJA LUCENDI	sube-y-baja-lucendi	publish
+TDF-CR-05-01	6154	Juego Valladolid	valladolidv1	private
+TEC-AC-01-00	6712	TECHO SOMBRA DE COLOR 12 ACRILICO	techo-sombra-de-color-12-acrilico	publish
+TEC-PT-02-00	6715	TECHO SOLAR	techo-solar	publish
+TEM-PL-01-20	6884	Juego Nave Titán	nave-titan	publish
+TEM-PL-02-20	6872	Juego NAVE ORION	nave-orion	publish
+TEM-PL-09-20	6852	Juego ROBOTO	roboto	publish
+TEM-PL-15-20	28365	Juego temático jirafa	modulo-tematico-jirafa	publish
+TEM-PL-16-20	28369	Juego temático Zebra	modulo-tematico-zebra	publish
+TEM-PR-03-20	6874	Juego BARCO	barco	publish
+TEM-PR-04-20	6876	Juego NAVIO	navio	publish
+TEM-PR-07-00	7749	Juego Tren (TEM-PR-07-01)	tren-2	draft
+TEM-PR-07-20	32329	Juego TREN	modulo-tren	publish
+TUN-PT-01-00	7443	TUNEL DE LUZ	tunel-de-luz	publish
+VL-119	6674	Velaria Twist Malla Sombra 9.2 X 9.2 M	velaria-twist-malla-sombra-9-2-x-9-2-m	private
+VL-119-1	6697	Velaria Twist Malla Sombra 6.2 X 6.2 M	velaria-twist-malla-sombra-6-2-x-6-2-m	private
+VL-219	6691	Velaria Conica Malla Sombra 4 Puntos 9.2 X 9.2 M	velaria-conica-malla-sombra-4-puntos-9-2-x-9-2-m	private
+VL-219-1	6699	Velaria Conica Malla Sombra 4 Puntos 6.2 X 6.2 M	velaria-conica-malla-sombra-4-puntos-6-2-x-6-2-m	private
+VL-319	6693	Sombrilla Malla Sombra 4 Puntos 3 X 3 M	sombrilla-malla-sombra-4-puntos-3-x-3-m	private
+WH-BARCELONA-GR	31958	Juego BARCELONA	modulo-barcelona	publish
+WH-BARCOP	31953	Juego BARCO PIRATA	modulo-barco-pirata	publish
+WH-BRITANIA-G	31951	Juego BRITANIA GRIS	modulo-britania-gris	publish
+WH-IRE07	32088	Montable Surfboard	montable-surfboard	publish
+WH-PARMA	31956	Juego PARMA	modulo-parma	publish
+WH-TAN	32083	Juego Tan	modulo-tan	publish
+ZHEJU-047A	31948	Juego 047A	modulo-047a	publish
+ZHEJU-125A	31960	Juego 125A	modulo-125a	publish

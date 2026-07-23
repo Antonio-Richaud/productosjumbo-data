@@ -1,0 +1,21 @@
+{
+  "excel_file": "/Users/paulateroba/Downloads/Secciones por categoría.xlsx",
+  "excel_products": 345,
+  "excel_unique_skus": 345,
+  "excel_duplicate_skus": {},
+  "excel_blank_models": 1,
+  "excel_sectors": 12,
+  "excel_skus_in_repository": 307,
+  "excel_skus_in_staging": 307,
+  "excel_skus_in_production": 311,
+  "excel_missing_production": 34,
+  "excel_only_all_sources": 34,
+  "production_unique_skus": 539,
+  "production_skus_not_in_excel": 228,
+  "production_records_not_in_excel": 228,
+  "presence_classes": {
+    "excel_only": 34,
+    "production": 4,
+    "repository_staging_production": 307
+  }
+}
