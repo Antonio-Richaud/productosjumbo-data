@@ -113,3 +113,19 @@ La documentación completa de la extracción inicial se encuentra en:
     ../../docs/product-media-production-2026-07-23.md
 
 No se modificó WordPress, WooCommerce ni el contenido de producción durante la extracción.
+
+## Documentos técnicos descargados
+
+Los PDF y ZIP vinculados con productos se encuentran en:
+
+    media/production/documents/uploads/
+
+Inventarios y relaciones:
+
+    media/production/documents/inventory/
+
+Reportes de faltantes y contenido repetido:
+
+    media/production/documents/reports/
+
+No se eliminaron archivos repetidos.

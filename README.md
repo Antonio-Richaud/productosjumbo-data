@@ -234,6 +234,25 @@ Documentación técnica y operativa de auditorías, conciliaciones, decisiones y
 
 Información de taxonomías de producción y propuestas de organización curada.
 
+### Documentos técnicos de productos
+
+Los PDF y ZIP asociados con los productos se almacenan mediante Git LFS en:
+
+    media/production/documents/uploads/
+
+Las relaciones producto-documento y los checksums se encuentran en:
+
+    media/production/documents/inventory/
+
+Los duplicados se conservan y se documentan sin eliminación automática en:
+
+    media/production/documents/reports/
+
+La documentación operativa está disponible en:
+
+    docs/product-documents-production-2026-07-23.md
+
+
 ### Contenido y especificaciones
 
 Las descripciones y especificaciones normalizadas se encuentran en:

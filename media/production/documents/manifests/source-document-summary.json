@@ -1,0 +1,22 @@
+{
+  "source_rows": 361,
+  "document_references": 360,
+  "downloadable_documents": 355,
+  "missing_documents": 5,
+  "document_types": {
+    "application/pdf": 185,
+    "application/zip": 175
+  },
+  "downloadable_types": {
+    "application/pdf": 183,
+    "application/zip": 172
+  },
+  "missing_types": {
+    "application/pdf": 2,
+    "application/zip": 3
+  },
+  "expected_bytes": 164937502,
+  "expected_megabytes": 157.3,
+  "duplicates_removed_from_manifest": false,
+  "all_original_paths_preserved": true
+}

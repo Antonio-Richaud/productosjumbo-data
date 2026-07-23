@@ -58,3 +58,6 @@ exports/private/
 # IMPORTANTE:
 # No ignorar imágenes, PDFs, CSV, JSON o documentos técnicos del catálogo.
 # Esos archivos sí forman parte del objetivo de este repositorio.
+
+# Paquetes técnicos del catálogo versionados mediante Git LFS
+!media/production/documents/uploads/**/*.zip

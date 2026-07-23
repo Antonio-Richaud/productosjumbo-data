@@ -1,3 +1,5 @@
 media/production/uploads/** filter=lfs diff=lfs merge=lfs -text
 data/reports/2026-07-23/*.tsv whitespace=-blank-at-eol
 data/snapshots/2026-07-23/production/content/product-content-derived.tsv whitespace=-blank-at-eol
+media/production/documents/uploads/** filter=lfs diff=lfs merge=lfs -text
+media/production/documents/**/*.tsv whitespace=-blank-at-eol
