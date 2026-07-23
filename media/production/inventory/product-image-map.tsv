@@ -1,0 +1,961 @@
+product_id	product_sku	product_name	product_status	relative_path	repository_path	mime_type	attachment_ids	roles
+5940	EJE-BA-08-00	Private: Ejercitador Eliptica Balance	private	2020/12/aparato-ejercicio-eliptica-individual.jpg	media/production/uploads/2020/12/aparato-ejercicio-eliptica-individual.jpg	image/jpeg	21897	parented_attachment
+5940	EJE-BA-08-00	Private: Ejercitador Eliptica Balance	private	2020/12/productos_jumbo_ejercitador_eliptica_balance.png	media/production/uploads/2020/12/productos_jumbo_ejercitador_eliptica_balance.png	image/png	28687	featured_image | parented_attachment
+5996	EJE-BA-11-00	Private: Ejercitador De Pecho Balance	private	2020/12/productos_jumbo_ejercitador_de-pecho_balance.png	media/production/uploads/2020/12/productos_jumbo_ejercitador_de-pecho_balance.png	image/png	28689	featured_image | parented_attachment
+6034	EJE-BA-06-00	Private: Ejercitador Potro Balance	private	2020/12/productos_jumbo_ejercitador_potro_balance.png	media/production/uploads/2020/12/productos_jumbo_ejercitador_potro_balance.png	image/png	28685	featured_image | parented_attachment
+6037	EJE-BA-12-00	Private: Ejercitador Remadora Balance	private	2020/12/productos_jumbo_ejercitador_remadora_balance.png	media/production/uploads/2020/12/productos_jumbo_ejercitador_remadora_balance.png	image/png	28690	featured_image | parented_attachment
+6041	EJE-BA-07-00	Private: Ejercitador Caminadora Balance	private	2020/12/productos_jumbo_ejercitador_caminadora_balance.png	media/production/uploads/2020/12/productos_jumbo_ejercitador_caminadora_balance.png	image/png	28686	featured_image | parented_attachment
+6041	EJE-BA-07-00	Private: Ejercitador Caminadora Balance	private	2021/06/balance.png	media/production/uploads/2021/06/balance.png	image/png	20147	gallery_image
+6045	EJE-BA-15-00	Private: Ejercitador Bicicleta Balance	private	2020/12/productos_jubmo_ejercitador_bicicleta_balance.png	media/production/uploads/2020/12/productos_jubmo_ejercitador_bicicleta_balance.png	image/png	28691	featured_image | parented_attachment
+6047	EJE-BA-01-00	Private: Ejercitador Abdominales Balance	private	2020/12/AEF-0212-3-Abdominal-Individual-gris.png	media/production/uploads/2020/12/AEF-0212-3-Abdominal-Individual-gris.png	image/png	22015	parented_attachment
+6047	EJE-BA-01-00	Private: Ejercitador Abdominales Balance	private	2020/12/ejercitador-para-abdominales-basico-en-parques-productos-jumbo.png	media/production/uploads/2020/12/ejercitador-para-abdominales-basico-en-parques-productos-jumbo.png	image/png	29018	featured_image | parented_attachment
+6047	EJE-BA-01-00	Private: Ejercitador Abdominales Balance	private	2020/12/productos_jumbo_ejercitador_abdominal_equilibrio.png	media/production/uploads/2020/12/productos_jumbo_ejercitador_abdominal_equilibrio.png	image/png	28681	parented_attachment
+6082	EOS-PR-01-02	Juego Verona (EOS-PR-01-02)	publish	2020/12/modulo-verona-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-verona-productos-jumbo.jpg	image/jpeg	25992	parented_attachment
+6082	EOS-PR-01-02	Juego Verona (EOS-PR-01-02)	publish	2026/07/EOS-PR-01-02.png	media/production/uploads/2026/07/EOS-PR-01-02.png	image/png	32731	featured_image
+6088	IOS-PR-01-00	Juego Ibiza (IOS-PR-01-00)	draft	2020/12/juego-de-exterior-en-parques.jpg	media/production/uploads/2020/12/juego-de-exterior-en-parques.jpg	image/jpeg	21885	parented_attachment
+6088	IOS-PR-01-00	Juego Ibiza (IOS-PR-01-00)	draft	2020/12/modulo-ibiza-OS-PR-01-00.jpg	media/production/uploads/2020/12/modulo-ibiza-OS-PR-01-00.jpg	image/jpeg	24816	parented_attachment
+6088	IOS-PR-01-00	Juego Ibiza (IOS-PR-01-00)	draft	2020/12/modulo-ibiza-juego-infantil-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-ibiza-juego-infantil-productos-jumbo.jpg	image/jpeg	28151	featured_image | parented_attachment
+6101	EOS-PR-06-00	Private: Juego Gordon (EOS-PR-06-00)	private	2020/12/modulo-gordon-EOS-PR-06-00.jpg	media/production/uploads/2020/12/modulo-gordon-EOS-PR-06-00.jpg	image/jpeg	24815	parented_attachment
+6101	EOS-PR-06-00	Private: Juego Gordon (EOS-PR-06-00)	private	2020/12/modulo-gordon-juego-infantil-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-gordon-juego-infantil-productos-jumbo.jpg	image/jpeg	28152	featured_image | parented_attachment
+6113	MEC-CR-05-00	Juego SIENA	publish	2020/12/juego-siena-para-parques-resbaladillas.jpg	media/production/uploads/2020/12/juego-siena-para-parques-resbaladillas.jpg	image/jpeg	21908	parented_attachment
+6113	MEC-CR-05-00	Juego SIENA	publish	2020/12/juego-siena-para-parques-subida.jpg	media/production/uploads/2020/12/juego-siena-para-parques-subida.jpg	image/jpeg	21909	parented_attachment
+6113	MEC-CR-05-00	Juego SIENA	publish	2020/12/modulo-siena-EOS-PR-05-00.jpg	media/production/uploads/2020/12/modulo-siena-EOS-PR-05-00.jpg	image/jpeg	24817	parented_attachment
+6113	MEC-CR-05-00	Juego SIENA	publish	2020/12/modulo-siena-juego-infantil-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-siena-juego-infantil-productos-jumbo.jpg	image/jpeg	28170	parented_attachment
+6113	MEC-CR-05-00	Juego SIENA	publish	2026/07/Juego-Siena-EOS-PR-05-00-im.avif	media/production/uploads/2026/07/Juego-Siena-EOS-PR-05-00-im.avif	image/avif	32515	gallery_image
+6113	MEC-CR-05-00	Juego SIENA	publish	2026/07/Juego-Siena-EOS-PR-05-00-top.avif	media/production/uploads/2026/07/Juego-Siena-EOS-PR-05-00-top.avif	image/avif	32516	gallery_image
+6113	MEC-CR-05-00	Juego SIENA	publish	2026/07/Juego-Siena-EOS-PR-05-00.avif	media/production/uploads/2026/07/Juego-Siena-EOS-PR-05-00.avif	image/avif	32517	featured_image
+6115	IOS-PR-02-00	Private: Juego New Jersey (IOS-115 7.0)	private	2020/12/IOS-PR-02-02-New-Jersey.webp	media/production/uploads/2020/12/IOS-PR-02-02-New-Jersey.webp	image/webp	31238	featured_image | parented_attachment
+6115	IOS-PR-02-00	Private: Juego New Jersey (IOS-115 7.0)	private	2020/12/columpios-para-fraccionamientos.jpg	media/production/uploads/2020/12/columpios-para-fraccionamientos.jpg	image/jpeg	21912	gallery_image | parented_attachment
+6115	IOS-PR-02-00	Private: Juego New Jersey (IOS-115 7.0)	private	2020/12/juego-para-fraccionamientos-new-jersey.jpg	media/production/uploads/2020/12/juego-para-fraccionamientos-new-jersey.jpg	image/jpeg	21911	gallery_image | parented_attachment
+6115	IOS-PR-02-00	Private: Juego New Jersey (IOS-115 7.0)	private	2020/12/modulo-new-jersey-juego-infantil.png	media/production/uploads/2020/12/modulo-new-jersey-juego-infantil.png	image/png	24971	parented_attachment
+6154	TDF-CR-05-01	Private: Juego Valladolid	private	2020/12/Modulo-Valladolid-TDF-CR-05-02-V2-700-px-x-500.webp	media/production/uploads/2020/12/Modulo-Valladolid-TDF-CR-05-02-V2-700-px-x-500.webp	image/webp	29292	featured_image | parented_attachment
+6154	TDF-CR-05-01	Private: Juego Valladolid	private	2020/12/juego-con-columpios-y-pasamanos-valladolidv1.jpg	media/production/uploads/2020/12/juego-con-columpios-y-pasamanos-valladolidv1.jpg	image/jpeg	21924	gallery_image | parented_attachment
+6154	TDF-CR-05-01	Private: Juego Valladolid	private	2020/12/modulo-valladolid-v1-juego-para-parques.png	media/production/uploads/2020/12/modulo-valladolid-v1-juego-para-parques.png	image/png	24978	parented_attachment
+6156	EJE-FO-10-00	EJERCITADOR BRAZOS FORTE	publish	2020/12/AED-003.png	media/production/uploads/2020/12/AED-003.png	image/png	6158	featured_image | parented_attachment
+6156	EJE-FO-10-00	EJERCITADOR BRAZOS FORTE	publish	2020/12/ejercitador-forte-de-brazos-exterior.jpg	media/production/uploads/2020/12/ejercitador-forte-de-brazos-exterior.jpg	image/jpeg	22006	gallery_image | parented_attachment
+6181	EJE-FO-05-00	EJERCITADOR SURFER FORTE	publish	2020/12/aparato-de-ejercicio-surfer-forte-1.jpg	media/production/uploads/2020/12/aparato-de-ejercicio-surfer-forte-1.jpg	image/jpeg	25475	featured_image | parented_attachment
+6181	EJE-FO-05-00	EJERCITADOR SURFER FORTE	publish	2020/12/aparato-surfer-para-exteriores-forte.jpg	media/production/uploads/2020/12/aparato-surfer-para-exteriores-forte.jpg	image/jpeg	22002	gallery_image | parented_attachment
+6185	EJE-FO-09-00	EJERCITADOR DE PIERNAS FORTE	publish	2020/12/AED-002.png	media/production/uploads/2020/12/AED-002.png	image/png	6186	featured_image | parented_attachment
+6185	EJE-FO-09-00	EJERCITADOR DE PIERNAS FORTE	publish	2020/12/aparato-gimnasio-forte-piernas.jpg	media/production/uploads/2020/12/aparato-gimnasio-forte-piernas.jpg	image/jpeg	21998	gallery_image | parented_attachment
+6187	EJE-FO-11-00	EJERCITADOR PECHO FORTE	publish	2020/12/AED-004.png	media/production/uploads/2020/12/AED-004.png	image/png	6189	featured_image | parented_attachment
+6187	EJE-FO-11-00	EJERCITADOR PECHO FORTE	publish	2020/12/ejercitador-forte-exterior-para-pecho.jpg	media/production/uploads/2020/12/ejercitador-forte-exterior-para-pecho.jpg	image/jpeg	22000	gallery_image | parented_attachment
+6190	EJE-FO-08-00	EJERCITADOR ELIPTICA FORTE	publish	2020/12/AED-005-Eliptica.png	media/production/uploads/2020/12/AED-005-Eliptica.png	image/png	22004	featured_image | parented_attachment
+6192	EJE-FO-07-00	EJERCITADOR CAMINADORA FORTE	publish	2020/12/AED-006-CAMINADORAA-Temp0001.png	media/production/uploads/2020/12/AED-006-CAMINADORAA-Temp0001.png	image/png	21997	parented_attachment
+6192	EJE-FO-07-00	EJERCITADOR CAMINADORA FORTE	publish	2020/12/ejercitador-forte-caminadora-de-exterior.jpg	media/production/uploads/2020/12/ejercitador-forte-caminadora-de-exterior.jpg	image/jpeg	22001	gallery_image | parented_attachment
+6192	EJE-FO-07-00	EJERCITADOR CAMINADORA FORTE	publish	2026/03/EJE-FO-07-00-EJERCITADOR-CAMINADORA-FORTE.avif	media/production/uploads/2026/03/EJE-FO-07-00-EJERCITADOR-CAMINADORA-FORTE.avif	image/avif	32171	parented_attachment
+6192	EJE-FO-07-00	EJERCITADOR CAMINADORA FORTE	publish	2026/04/EJE-FO-07-00-EJERCITADOR-CAMINADORA-FORTE.avif	media/production/uploads/2026/04/EJE-FO-07-00-EJERCITADOR-CAMINADORA-FORTE.avif	image/avif	32259	featured_image
+6194	EJE-FO-03-00	EJERCITADOR MOVIMIENTO DE CINTURA FORTE	publish	2020/12/AED-010-CINTURA.png	media/production/uploads/2020/12/AED-010-CINTURA.png	image/png	22012	featured_image | parented_attachment
+6194	EJE-FO-03-00	EJERCITADOR MOVIMIENTO DE CINTURA FORTE	publish	2020/12/ejercitador-forte-de-exterior-cintura.jpg	media/production/uploads/2020/12/ejercitador-forte-de-exterior-cintura.jpg	image/jpeg	22013	gallery_image | parented_attachment
+6197	EJE-FO-04-00	EJERCITADOR BRAZOS Y MUÑECAS FORTE	publish	2020/12/AED-011.png	media/production/uploads/2020/12/AED-011.png	image/png	6198	featured_image | parented_attachment
+6197	EJE-FO-04-00	EJERCITADOR BRAZOS Y MUÑECAS FORTE	publish	2020/12/ejercitador-brazos-munecas-forte.jpg	media/production/uploads/2020/12/ejercitador-brazos-munecas-forte.jpg	image/jpeg	22011	gallery_image | parented_attachment
+6199	EJE-FO-06-00	EJERCITADOR POTRO FORTE	publish	2020/12/aparato-de-ejercicio-potro-forte.jpg	media/production/uploads/2020/12/aparato-de-ejercicio-potro-forte.jpg	image/jpeg	25473	featured_image | parented_attachment
+6199	EJE-FO-06-00	EJERCITADOR POTRO FORTE	publish	2020/12/ejercitador-de-exterior-pecho.hombro-espalda.jpg	media/production/uploads/2020/12/ejercitador-de-exterior-pecho.hombro-espalda.jpg	image/jpeg	22008	gallery_image | parented_attachment
+6201	EJE-FO-02-00	EJERCITADOR BARRAS PARALELAS FORTE	publish	2020/12/AED-016.png	media/production/uploads/2020/12/AED-016.png	image/png	6202	featured_image | parented_attachment
+6201	EJE-FO-02-00	EJERCITADOR BARRAS PARALELAS FORTE	publish	2020/12/ejercitador-para-hombro-brazo-forte.jpg	media/production/uploads/2020/12/ejercitador-para-hombro-brazo-forte.jpg	image/jpeg	22009	gallery_image | parented_attachment
+6203	EJE-FO-01-00	EJERCITADOR ABDOMINALES FORTE	publish	2020/12/aparato-para-abdominales-forte.jpg	media/production/uploads/2020/12/aparato-para-abdominales-forte.jpg	image/jpeg	25476	featured_image | parented_attachment
+6205	BOT-LP-07-00	BOTE TOKYO	publish	2020/12/Bote-Tokio-BB-110.png	media/production/uploads/2020/12/Bote-Tokio-BB-110.png	image/png	22586	featured_image | parented_attachment
+6207	BOT-00-01-00	BOTE CENTRO HISTORICO	publish	2020/12/MUO-113.png	media/production/uploads/2020/12/MUO-113.png	image/png	6208	parented_attachment
+6207	BOT-00-01-00	BOTE CENTRO HISTORICO	publish	2020/12/bote-de-basura-Centro-Historico-BAL-172A-2.jpg	media/production/uploads/2020/12/bote-de-basura-Centro-Historico-BAL-172A-2.jpg	image/jpeg	22597	featured_image | parented_attachment
+6210	BOT-LP-03-00	BOTE GRIJALVA	publish	2020/12/BOTE-GRIJALVA-JUMBO.jpg	media/production/uploads/2020/12/BOTE-GRIJALVA-JUMBO.jpg	image/jpeg	24906	featured_image | parented_attachment
+6218	BOT-00-03-00	BOTE MOSCOVA	publish	2020/12/Bote-Moscova-MUO-317.png	media/production/uploads/2020/12/Bote-Moscova-MUO-317.png	image/png	22592	parented_attachment
+6218	BOT-00-03-00	BOTE MOSCOVA	publish	2026/03/BOT-00-03-00-BOTE-MOSCOVA.avif	media/production/uploads/2026/03/BOT-00-03-00-BOTE-MOSCOVA.avif	image/avif	32165	featured_image | parented_attachment
+6220	EJE-ID-03-00	EJERCITADOR BARRAS PARALELAS CURVAS	publish	2020/12/BAR-1.png	media/production/uploads/2020/12/BAR-1.png	image/png	6221	featured_image | parented_attachment
+6230	BOT-LP-02-00	BOTE OKA	publish	2020/12/MUO-117-01.png	media/production/uploads/2020/12/MUO-117-01.png	image/png	19390	featured_image | parented_attachment
+6233	EJE-ID-07-00	EJERCITADOR BARRAS	publish	2020/12/BAR-3.png	media/production/uploads/2020/12/BAR-3.png	image/png	6237	featured_image | parented_attachment
+6236	BOT-00-02-00	BOTE KUMA	publish	2020/12/Bote-Kuma-MUO-717.png	media/production/uploads/2020/12/Bote-Kuma-MUO-717.png	image/png	22591	featured_image | parented_attachment
+6243	BOT-LP-03-01	BOTE GRIJALVA DOBLE	publish	2020/12/Bote-grijalva-doble.jpg	media/production/uploads/2020/12/Bote-grijalva-doble.jpg	image/jpeg	24905	featured_image | parented_attachment
+6247	BOT-LP-05-00	BOTE ZAIRE	publish	2020/12/Bote-Zaire-MUO-1112.jpg	media/production/uploads/2020/12/Bote-Zaire-MUO-1112.jpg	image/jpeg	22596	featured_image | parented_attachment
+6251	BOT-LP-04-00	BOTE RIN	publish	2020/12/bote-rin-sencillo-productos-jumbo.jpg	media/production/uploads/2020/12/bote-rin-sencillo-productos-jumbo.jpg	image/jpeg	25935	parented_attachment
+6251	BOT-LP-04-00	BOTE RIN	publish	2026/03/BOT-LP-04-00-BOTE-RIN.avif	media/production/uploads/2026/03/BOT-LP-04-00-BOTE-RIN.avif	image/avif	32164	featured_image | parented_attachment
+6254	EJE-ID-11-00	EJERCITADOR AROS LARGO Y 2 POSTES	publish	2020/12/AID-218.png	media/production/uploads/2020/12/AID-218.png	image/png	6258	parented_attachment
+6254	EJE-ID-11-00	EJERCITADOR AROS LARGO Y 2 POSTES	publish	2020/12/EJE-ID-11-00.png	media/production/uploads/2020/12/EJE-ID-11-00.png	image/png	32416	featured_image | parented_attachment
+6255	BOT-LP-04-01	BOTE RIN DOBLE	publish	2020/12/MUO-518-1.png	media/production/uploads/2020/12/MUO-518-1.png	image/png	6805	parented_attachment
+6255	BOT-LP-04-01	BOTE RIN DOBLE	publish	2020/12/MUO-518-2.png	media/production/uploads/2020/12/MUO-518-2.png	image/png	6806	featured_image | parented_attachment
+6256	BOT-LP-04-02	BOTE RIN TRIPLE	publish	2020/12/MUO-518-3.png	media/production/uploads/2020/12/MUO-518-3.png	image/png	6807	featured_image | parented_attachment
+6256	BOT-LP-04-02	BOTE RIN TRIPLE	publish	2020/12/bote-de-basura-triple-jumbo.jpg	media/production/uploads/2020/12/bote-de-basura-triple-jumbo.jpg	image/jpeg	23295	gallery_image | parented_attachment
+6260	BOT-LP-01-00	BOTE PARANA	publish	2020/12/Bote-Parana-BOT-LP-01-00.webp	media/production/uploads/2020/12/Bote-Parana-BOT-LP-01-00.webp	image/webp	29537	featured_image | parented_attachment
+6260	BOT-LP-01-00	BOTE PARANA	publish	2020/12/bote-de-basura-parana-productos-jumbo-1.jpg	media/production/uploads/2020/12/bote-de-basura-parana-productos-jumbo-1.jpg	image/jpeg	25971	parented_attachment
+6260	BOT-LP-01-00	BOTE PARANA	publish	2020/12/bote-de-basura-parana-productos-jumbo.jpg	media/production/uploads/2020/12/bote-de-basura-parana-productos-jumbo.jpg	image/jpeg	25970	parented_attachment
+6264	BOT-LP-05-01	BOTE MISISIPI	publish	2020/12/MUO-1612.png	media/production/uploads/2020/12/MUO-1612.png	image/png	6266	featured_image | parented_attachment
+6267	BOT-00-05-00	BOTE CUADRADO	publish	2020/12/MUO-519.png	media/production/uploads/2020/12/MUO-519.png	image/png	6270	featured_image | parented_attachment
+6271	BOT-PM-01-00	BOTE CIRCULAR	publish	2020/12/Bote-Circular-con-Plastimadera-MUO-419.jpg	media/production/uploads/2020/12/Bote-Circular-con-Plastimadera-MUO-419.jpg	image/jpeg	22603	featured_image | parented_attachment
+6271	BOT-PM-01-00	BOTE CIRCULAR	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+6278	BOT-PL-01-00	BOTE ONON	publish	2020/12/MUO-517.png	media/production/uploads/2020/12/MUO-517.png	image/png	6280	featured_image | parented_attachment
+6283	BAN-00-09-00	BANCA HIMALAYA	publish	2020/12/banca-himalaya-productos-jumbo.jpg	media/production/uploads/2020/12/banca-himalaya-productos-jumbo.jpg	image/jpeg	25973	featured_image | parented_attachment
+6285	EJE-EST-02-00	Ejercitador Pasamanos Y 6 Postes	publish	2020/12/AID-818.png	media/production/uploads/2020/12/AID-818.png	image/png	6287	parented_attachment
+6285	EJE-EST-02-00	Ejercitador Pasamanos Y 6 Postes	publish	2026/03/EJE-EST-02-00-EJERCITADOR-PASAMANOS-Y-6-POSTES.avif	media/production/uploads/2026/03/EJE-EST-02-00-EJERCITADOR-PASAMANOS-Y-6-POSTES.avif	image/avif	32172	featured_image | parented_attachment
+6288	BAN-LP-07-00	BANCA EVEREST	publish	2020/12/BF-112.png	media/production/uploads/2020/12/BF-112.png	image/png	6290	featured_image | parented_attachment
+6293	BAN-PP-01-00	BANCA PMP PLASTIMADERA	publish	2020/12/BF-165.png	media/production/uploads/2020/12/BF-165.png	image/png	6294	parented_attachment
+6293	BAN-PP-01-00	BANCA PMP PLASTIMADERA	publish	2020/12/ban-pp-01-00-scaled.png	media/production/uploads/2020/12/ban-pp-01-00-scaled.png	image/png	30670	featured_image | parented_attachment
+6293	BAN-PP-01-00	BANCA PMP PLASTIMADERA	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+6299	BAN-PM-04-00	BANCA TÁCANA	publish	2020/12/MUA-116-2.png	media/production/uploads/2020/12/MUA-116-2.png	image/png	20089	featured_image | parented_attachment
+6299	BAN-PM-04-00	BANCA TÁCANA	publish	2020/12/MUA-116.png	media/production/uploads/2020/12/MUA-116.png	image/png	6809	parented_attachment
+6299	BAN-PM-04-00	BANCA TÁCANA	publish	2020/12/banca-tacana-plastimadera-exterior.jpg	media/production/uploads/2020/12/banca-tacana-plastimadera-exterior.jpg	image/jpeg	22027	gallery_image | parented_attachment
+6299	BAN-PM-04-00	BANCA TÁCANA	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+6312	BAN-LP-06-00	BANCA CIRCULAR	publish	2020/12/MUA-519.png	media/production/uploads/2020/12/MUA-519.png	image/png	6317	featured_image | parented_attachment
+6318	BAN-00-01-00	BANCA LOA LAMINA	publish	2020/12/Banca-Loa-Lamina-MUA-517A.jpg	media/production/uploads/2020/12/Banca-Loa-Lamina-MUA-517A.jpg	image/jpeg	22625	featured_image | parented_attachment
+6318	BAN-00-01-00	BANCA LOA LAMINA	publish	2020/12/MUA-619.png	media/production/uploads/2020/12/MUA-619.png	image/png	6319	parented_attachment
+6324	BAN-PP-08-00	BANCA LOA PLASTIMADERA	publish	2020/12/MUA-517B.png	media/production/uploads/2020/12/MUA-517B.png	image/png	6325	featured_image | parented_attachment
+6324	BAN-PP-08-00	BANCA LOA PLASTIMADERA	publish	2020/12/banca-loa-de-plastimadera.jpg	media/production/uploads/2020/12/banca-loa-de-plastimadera.jpg	image/jpeg	22028	gallery_image | parented_attachment
+6324	BAN-PP-08-00	BANCA LOA PLASTIMADERA	publish	2020/12/banca-loa-plastimadera-atras.jpg	media/production/uploads/2020/12/banca-loa-plastimadera-atras.jpg	image/jpeg	22029	gallery_image | parented_attachment
+6324	BAN-PP-08-00	BANCA LOA PLASTIMADERA	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+6330	BAN-LP-04-00	BANCA AKIER	publish	2020/12/Banca-Akier-BAN-LP-04-00-500px-x-500-px.jpg	media/production/uploads/2020/12/Banca-Akier-BAN-LP-04-00-500px-x-500-px.jpg	image/jpeg	29340	featured_image | parented_attachment
+6330	BAN-LP-04-00	BANCA AKIER	publish	2020/12/MUA-1013.png	media/production/uploads/2020/12/MUA-1013.png	image/png	6331	parented_attachment
+6335	BAN-LP-03-00	BANCA PALERMO	publish	2020/12/Banca-Palermo-MUA-1212.jpg	media/production/uploads/2020/12/Banca-Palermo-MUA-1212.jpg	image/jpeg	22631	featured_image | parented_attachment
+6341	BAN-IN-01-00	BANCA LOGAN INCLUSIVA	publish	2020/12/MUA-1015-DC.png	media/production/uploads/2020/12/MUA-1015-DC.png	image/png	6813	featured_image | parented_attachment
+6341	BAN-IN-01-00	BANCA LOGAN INCLUSIVA	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+6345	EJE-ID-30-00	Private: Ejercitador Barras Dominadas Y 3 Postes (AID-1918)	private	2020/12/AID-1918.png	media/production/uploads/2020/12/AID-1918.png	image/png	6347	featured_image | parented_attachment
+6346	BAN-00-07-00	BANCA ALPES	publish	2020/12/MUA-512.png	media/production/uploads/2020/12/MUA-512.png	image/png	6348	featured_image | parented_attachment
+6346	BAN-00-07-00	BANCA ALPES	publish	2020/12/banca-alpes-para-parques.jpg	media/production/uploads/2020/12/banca-alpes-para-parques.jpg	image/jpeg	22191	gallery_image | parented_attachment
+6350	BAN-00-05-00	BANCA PISSIS	publish	2020/12/MUA-617-2.png	media/production/uploads/2020/12/MUA-617-2.png	image/png	20832	parented_attachment
+6350	BAN-00-05-00	BANCA PISSIS	publish	2020/12/MUA-617-3.png	media/production/uploads/2020/12/MUA-617-3.png	image/png	20996	featured_image | parented_attachment
+6353	EJE-ID-32-00	EJERCITADOR JUMP BOX	publish	2020/12/AID-2218.png	media/production/uploads/2020/12/AID-2218.png	image/png	6355	featured_image | parented_attachment
+6354	BAN-PM-07-00	BANCA BARCENA	publish	2020/12/MUA-317.png	media/production/uploads/2020/12/MUA-317.png	image/png	6814	featured_image | parented_attachment
+6354	BAN-PM-07-00	BANCA BARCENA	publish	2020/12/banca-barcena-con-maceta.jpg	media/production/uploads/2020/12/banca-barcena-con-maceta.jpg	image/jpeg	22039	gallery_image | parented_attachment
+6354	BAN-PM-07-00	BANCA BARCENA	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+6360	BAN-PM-05-00	BANCA PARA BOLERO	publish	2020/12/BBP-216.png	media/production/uploads/2020/12/BBP-216.png	image/png	6362	featured_image | parented_attachment
+6360	BAN-PM-05-00	BANCA PARA BOLERO	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+6361	CIR-00-02-00	CIRCUITO CALISTENIA BASICO	publish	2020/12/CPD-118.png	media/production/uploads/2020/12/CPD-118.png	image/png	6363	parented_attachment
+6361	CIR-00-02-00	CIRCUITO CALISTENIA BASICO	publish	2020/12/conjunto-basico-calistenia-jumbo-2.jpg	media/production/uploads/2020/12/conjunto-basico-calistenia-jumbo-2.jpg	image/jpeg	23289	gallery_image | parented_attachment
+6361	CIR-00-02-00	CIRCUITO CALISTENIA BASICO	publish	2020/12/conjunto-basico-calistenia-jumbo-3.jpg	media/production/uploads/2020/12/conjunto-basico-calistenia-jumbo-3.jpg	image/jpeg	23290	gallery_image | parented_attachment
+6361	CIR-00-02-00	CIRCUITO CALISTENIA BASICO	publish	2020/12/conjunto-basico-calistenia-jumbo-4.jpg	media/production/uploads/2020/12/conjunto-basico-calistenia-jumbo-4.jpg	image/jpeg	23291	gallery_image | parented_attachment
+6361	CIR-00-02-00	CIRCUITO CALISTENIA BASICO	publish	2020/12/conjunto-basico-calistenia-jumbo.jpg	media/production/uploads/2020/12/conjunto-basico-calistenia-jumbo.jpg	image/jpeg	23288	gallery_image | parented_attachment
+6361	CIR-00-02-00	CIRCUITO CALISTENIA BASICO	publish	2026/04/CIR-00-02-00-CIRCUITO-CALISTENIA-BASICO.avif	media/production/uploads/2026/04/CIR-00-02-00-CIRCUITO-CALISTENIA-BASICO.avif	image/avif	32260	featured_image
+6364	CIR-00-03-00	CIRCUITO CALISTENIA COMPLETO	publish	2020/12/CPD-218.png	media/production/uploads/2020/12/CPD-218.png	image/png	6366	parented_attachment
+6364	CIR-00-03-00	CIRCUITO CALISTENIA COMPLETO	publish	2026/04/CIR-00-03-00-CIRCUITO-CALISTENIA-COMPLETO.avif	media/production/uploads/2026/04/CIR-00-03-00-CIRCUITO-CALISTENIA-COMPLETO.avif	image/avif	32261	featured_image
+6370	MES-LP-05-00	MESA RODAS CON TECHO CIRCULAR	publish	2020/12/MUM-419-1.png	media/production/uploads/2020/12/MUM-419-1.png	image/png	6371	featured_image | parented_attachment
+6374	BAN-PP-03-00	BANCA PUMORI PLASTIMADERA	publish	2020/12/MUA-915.png	media/production/uploads/2020/12/MUA-915.png	image/png	6375	parented_attachment
+6374	BAN-PP-03-00	BANCA PUMORI PLASTIMADERA	publish	2020/12/mobiliario_jumbo_banca_pumori.png	media/production/uploads/2020/12/mobiliario_jumbo_banca_pumori.png	image/png	20713	featured_image | parented_attachment
+6374	BAN-PP-03-00	BANCA PUMORI PLASTIMADERA	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+6389	BAN-00-02-00	BANCA VELETA	publish	2020/12/banca-veleta-jumbo.jpg	media/production/uploads/2020/12/banca-veleta-jumbo.jpg	image/jpeg	23292	gallery_image | parented_attachment
+6389	BAN-00-02-00	BANCA VELETA	publish	2020/12/banca-veleta-para-parques-jumbo.jpg	media/production/uploads/2020/12/banca-veleta-para-parques-jumbo.jpg	image/jpeg	23293	gallery_image | parented_attachment
+6389	BAN-00-02-00	BANCA VELETA	publish	2020/12/banca-veleta-productos-jumbo.jpg	media/production/uploads/2020/12/banca-veleta-productos-jumbo.jpg	image/jpeg	25965	featured_image | parented_attachment
+6390	BAN-PP-09-00	BANCA MIKENO	publish	2020/12/MUA-919.png	media/production/uploads/2020/12/MUA-919.png	image/png	6391	featured_image | parented_attachment
+6390	BAN-PP-09-00	BANCA MIKENO	publish	2020/12/banca-de-exterior-mikeno-perfil.png	media/production/uploads/2020/12/banca-de-exterior-mikeno-perfil.png	image/png	22034	gallery_image | parented_attachment
+6390	BAN-PP-09-00	BANCA MIKENO	publish	2020/12/banca-de-exterior-mikeno-perfilada.png	media/production/uploads/2020/12/banca-de-exterior-mikeno-perfilada.png	image/png	22035	gallery_image | parented_attachment
+6390	BAN-PP-09-00	BANCA MIKENO	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+6392	CIR-00-04-00	CIRCUITO CROSS-FIT	publish	2020/12/CBE-414.png	media/production/uploads/2020/12/CBE-414.png	image/png	6396	featured_image | parented_attachment
+6392	CIR-00-04-00	CIRCUITO CROSS-FIT	publish	2020/12/circuito-de-crossfit.jpg	media/production/uploads/2020/12/circuito-de-crossfit.jpg	image/jpeg	22137	gallery_image | parented_attachment
+6400	BAN-MS-03-01	BANCA TINDAYA SIN RESPALDO	publish	2020/12/MUA-418.png	media/production/uploads/2020/12/MUA-418.png	image/png	6402	featured_image | parented_attachment
+6400	BAN-MS-03-01	BANCA TINDAYA SIN RESPALDO	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+6401	CIR-00-06-00	CIRCUITO PARA DEPORTES	publish	2020/12/CPD-210-2.0.png	media/production/uploads/2020/12/CPD-210-2.0.png	image/png	6404	featured_image | parented_attachment
+6405	CIR-00-07-00	CIRCUITO DE EJERCICIOS BASIC	publish	2020/12/CPD-113.png	media/production/uploads/2020/12/CPD-113.png	image/png	6409	featured_image | parented_attachment
+6411	CIR-00-08-00	CIRCUITO DE EJERCICIOS COMPLETO	publish	2020/12/CPD-213.png	media/production/uploads/2020/12/CPD-213.png	image/png	6415	featured_image | parented_attachment
+6414	BAN-CR-01-00	BANCA VINSONS	publish	2020/12/MUA-1317.png	media/production/uploads/2020/12/MUA-1317.png	image/png	6417	featured_image | parented_attachment
+6416	CIR-00-09-00	CIRCUITO DE EJERCICIOS	publish	2020/12/DCP-151.png	media/production/uploads/2020/12/DCP-151.png	image/png	6419	parented_attachment
+6416	CIR-00-09-00	CIRCUITO DE EJERCICIOS	publish	2026/03/CIR-00-09-00-CIRCUITO-DE-EJERCICIOS.avif	media/production/uploads/2026/03/CIR-00-09-00-CIRCUITO-DE-EJERCICIOS.avif	image/avif	32174	featured_image | parented_attachment
+6423	CIR-00-10-00	CIRCUITO HEXÁGONO DE EJERCICIO	publish	2020/12/DCP-152.png	media/production/uploads/2020/12/DCP-152.png	image/png	6424	featured_image | parented_attachment
+6423	CIR-00-10-00	CIRCUITO HEXÁGONO DE EJERCICIO	publish	2020/12/conjunto-de-ejercicios-hexagono.jpg	media/production/uploads/2020/12/conjunto-de-ejercicios-hexagono.jpg	image/jpeg	22139	gallery_image | parented_attachment
+6423	CIR-00-10-00	CIRCUITO HEXÁGONO DE EJERCICIO	publish	2020/12/conjunto-de-ejercicios-hexagono2.jpg	media/production/uploads/2020/12/conjunto-de-ejercicios-hexagono2.jpg	image/jpeg	22140	gallery_image | parented_attachment
+6425	CIR-00-11-00	CIRCUITO NINJA	publish	2020/12/CPD-117.png	media/production/uploads/2020/12/CPD-117.png	image/png	6427	parented_attachment
+6425	CIR-00-11-00	CIRCUITO NINJA	publish	2026/03/CIR-00-11-00-CIRCUITO-NINJA.avif	media/production/uploads/2026/03/CIR-00-11-00-CIRCUITO-NINJA.avif	image/avif	32175	featured_image | parented_attachment
+6426	BAN-CR-02-00	BANCA DEVI	publish	2020/12/MUA-1517-banca-en-fibra-de-vidrio.jpg	media/production/uploads/2020/12/MUA-1517-banca-en-fibra-de-vidrio.jpg	image/jpeg	22634	featured_image | parented_attachment
+6429	MES-PP-03-00	MESA DE PICNIC	publish	2020/12/mesa-picnic-plastimadera-productos-jumbo.jpg	media/production/uploads/2020/12/mesa-picnic-plastimadera-productos-jumbo.jpg	image/jpeg	25976	featured_image | parented_attachment
+6429	MES-PP-03-00	MESA DE PICNIC	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+6429	MES-PP-03-00	MESA DE PICNIC	publish	2021/12/mesas-para-parques.jpg	media/production/uploads/2021/12/mesas-para-parques.jpg	image/jpeg	21797	gallery_image
+6431	MES-PM-01-00	MESA DE PICNIC PLASTIMADERA	publish	2020/12/MUM-112.png	media/production/uploads/2020/12/MUM-112.png	image/png	6432	parented_attachment
+6431	MES-PM-01-00	MESA DE PICNIC PLASTIMADERA	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+6431	MES-PM-01-00	MESA DE PICNIC PLASTIMADERA	publish	2026/04/MES-PM-01-00-MESA-DE-PICNIC-PLASTIMADERA.avif	media/production/uploads/2026/04/MES-PM-01-00-MESA-DE-PICNIC-PLASTIMADERA.avif	image/avif	32255	featured_image
+6433	MES-LP-03-00	MESA NUPTSE	publish	2020/12/MUM-212.png	media/production/uploads/2020/12/MUM-212.png	image/png	6434	featured_image | parented_attachment
+6435	MES-LP-02-00	MESA KENYA	publish	2020/12/MUM-213.png	media/production/uploads/2020/12/MUM-213.png	image/png	6822	parented_attachment
+6435	MES-LP-02-00	MESA KENYA	publish	2020/12/Mesa-Kenia-MES-LP-02-00.webp	media/production/uploads/2020/12/Mesa-Kenia-MES-LP-02-00.webp	image/webp	29345	featured_image | parented_attachment
+6436	MES-LP-02-01	MESA KENYA CON SOMBRILLA	publish	2020/12/MUM-213-1.png	media/production/uploads/2020/12/MUM-213-1.png	image/png	6437	parented_attachment
+6436	MES-LP-02-01	MESA KENYA CON SOMBRILLA	publish	2020/12/Mesa-Kenia-V1-MUM-213-1.jpg	media/production/uploads/2020/12/Mesa-Kenia-V1-MUM-213-1.jpg	image/jpeg	22636	parented_attachment
+6436	MES-LP-02-01	MESA KENYA CON SOMBRILLA	publish	2020/12/Mesa-Kenia-con-Sombrilla-MES-LP-02-01-500-x-700.webp	media/production/uploads/2020/12/Mesa-Kenia-con-Sombrilla-MES-LP-02-01-500-x-700.webp	image/webp	29344	featured_image | parented_attachment
+6438	MES-PM-02-00	MESA KENYA PLASTIMADERA	publish	2020/12/MUM-213-2.png	media/production/uploads/2020/12/MUM-213-2.png	image/png	6440	featured_image | parented_attachment
+6438	MES-PM-02-00	MESA KENYA PLASTIMADERA	publish	2020/12/MUM-213-incorrecto.png	media/production/uploads/2020/12/MUM-213-incorrecto.png	image/png	6439	parented_attachment
+6438	MES-PM-02-00	MESA KENYA PLASTIMADERA	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+6441	MES-IN-01-00	MESA DE PICNIC INCLUSIVA	publish	2020/12/MUM-118-1.png	media/production/uploads/2020/12/MUM-118-1.png	image/png	6442	featured_image | parented_attachment
+6441	MES-IN-01-00	MESA DE PICNIC INCLUSIVA	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+6443	MES-LP-06-00	MESA PICNIC JAYA	publish	2020/12/MUM-216.png	media/production/uploads/2020/12/MUM-216.png	image/png	6444	featured_image | parented_attachment
+6445	APA-00-05-00	APARCABICICLETA ONE RECTANGULAR	publish	2020/12/MUB-716.png	media/production/uploads/2020/12/MUB-716.png	image/png	6447	featured_image | parented_attachment
+6448	APA-00-06-00	APARCABICICLETA SIX ONDULADO	publish	2020/12/Aparcabicicletas-Six-Ondulado-MUB-212.jpg	media/production/uploads/2020/12/Aparcabicicletas-Six-Ondulado-MUB-212.jpg	image/jpeg	22637	featured_image | parented_attachment
+6465	EJE-PE-01-00	EJERCITADOR BARRA DE PESAS	publish	2020/12/AEP-418.png	media/production/uploads/2020/12/AEP-418.png	image/png	6468	featured_image | parented_attachment
+6467	APA-00-01-00	APARCABICICLETA ONE CURVO	publish	2020/12/MUB-413-Aparcabicicletas-amarillo.png	media/production/uploads/2020/12/MUB-413-Aparcabicicletas-amarillo.png	image/png	22639	featured_image | parented_attachment
+6470	EJE-PE-02-00	EJERCITADOR PECHO Y ESPALDA CON PESAS	publish	2020/12/AEP-318.png	media/production/uploads/2020/12/AEP-318.png	image/png	6477	featured_image | parented_attachment
+6472	APA-00-03-00	APARCABICICLETA ONE SEMIONDULADO	publish	2020/12/MUB-118.png	media/production/uploads/2020/12/MUB-118.png	image/png	6473	featured_image | parented_attachment
+6474	APA-00-07-00	APARCABICICLETA THREE TRIANGULAR	publish	2020/12/MUB-518.png	media/production/uploads/2020/12/MUB-518.png	image/png	6475	featured_image | parented_attachment
+6482	SEÑ-00-13-00	SEÑALETICA ARBOL	publish	2020/12/senaletica-arbol-productos-jumbo.jpg	media/production/uploads/2020/12/senaletica-arbol-productos-jumbo.jpg	image/jpeg	25967	featured_image | parented_attachment
+6484	SEÑ-00-04-00	SEÑALETICA CUBICA	publish	2020/12/ESI-214.png	media/production/uploads/2020/12/ESI-214.png	image/png	6485	featured_image | parented_attachment
+6486	SEÑ-00-03-00	SEÑALETICA BASTON	publish	2020/12/ESI-217.png	media/production/uploads/2020/12/ESI-217.png	image/png	6487	featured_image | parented_attachment
+6488	SEÑ-00-05-00	Señalética Bandera (ESI-312)	publish	2020/12/ESI-312.png	media/production/uploads/2020/12/ESI-312.png	image/png	6489	parented_attachment
+6488	SEÑ-00-05-00	Señalética Bandera (ESI-312)	publish	2026/03/SEN-00-05-00-SENALETICA-BANDERA.avif	media/production/uploads/2026/03/SEN-00-05-00-SENALETICA-BANDERA.avif	image/avif	32166	featured_image | parented_attachment
+6490	SEÑ-00-06-00	SEÑALETICA VERTICAL	publish	2020/12/ESI-314.png	media/production/uploads/2020/12/ESI-314.png	image/png	6491	featured_image | parented_attachment
+6494	COL-IN-03-00	COLUMPIO CON CAMASTRO DE PLASTIPANEL	publish	2020/12/columpio-inclusivo-camastros.jpg	media/production/uploads/2020/12/columpio-inclusivo-camastros.jpg	image/jpeg	24763	gallery_image | parented_attachment
+6494	COL-IN-03-00	COLUMPIO CON CAMASTRO DE PLASTIPANEL	publish	2020/12/columpio-inclusivo-con-hamacas-productos-jumbo.jpg	media/production/uploads/2020/12/columpio-inclusivo-con-hamacas-productos-jumbo.jpg	image/jpeg	25949	featured_image | parented_attachment
+6494	COL-IN-03-00	COLUMPIO CON CAMASTRO DE PLASTIPANEL	publish	2022/12/columpios-inclusivos-oaxaca.jpg	media/production/uploads/2022/12/columpios-inclusivos-oaxaca.jpg	image/jpeg	24554	gallery_image
+6506	MMA-117	Maceta Asimetrica Chica	publish	2020/12/MMA-117.png	media/production/uploads/2020/12/MMA-117.png	image/png	6825	featured_image | parented_attachment
+6506	MMA-117	Maceta Asimetrica Chica	publish	2020/12/Maceta-Asimetrica-Chica-MMA-117.jpg	media/production/uploads/2020/12/Maceta-Asimetrica-Chica-MMA-117.jpg	image/jpeg	22650	gallery_image | parented_attachment
+6507	MMA-217	Maceta Geometrica Grande	publish	2020/12/MMA-217.png	media/production/uploads/2020/12/MMA-217.png	image/png	6508	featured_image | parented_attachment
+6507	MMA-217	Maceta Geometrica Grande	publish	2020/12/Maceta-Geometrica-Grande-MMA-217.jpg	media/production/uploads/2020/12/Maceta-Geometrica-Grande-MMA-217.jpg	image/jpeg	22651	gallery_image | parented_attachment
+6509	MMA-118	Maceta Geométrica Megagrande	publish	2020/12/MMA-118.png	media/production/uploads/2020/12/MMA-118.png	image/png	6510	featured_image | parented_attachment
+6509	MMA-118	Maceta Geométrica Megagrande	publish	2020/12/maceta-Megagrande-MMA-118.jpg	media/production/uploads/2020/12/maceta-Megagrande-MMA-118.jpg	image/jpeg	22652	gallery_image | parented_attachment
+6513	INOX-517B	Banca Loa Inox	draft	2020/12/INOX-517B.png	media/production/uploads/2020/12/INOX-517B.png	image/png	6514	featured_image | parented_attachment
+6520	BOT-IX-02-00	BOTE GRIJALVA DOBLE CON TAPA	publish	2020/12/INOX-418R.png	media/production/uploads/2020/12/INOX-418R.png	image/png	6521	featured_image | parented_attachment
+6526	CMT-118B	Banca Tikal	publish	2020/12/banca-tikal-de-concreto-productos-jumbo.jpg	media/production/uploads/2020/12/banca-tikal-de-concreto-productos-jumbo.jpg	image/jpeg	25975	parented_attachment
+6526	CMT-118B	Banca Tikal	publish	2021/12/banca-de-concreto-jumbo.jpg	media/production/uploads/2021/12/banca-de-concreto-jumbo.jpg	image/jpeg	21811	gallery_image
+6526	CMT-118B	Banca Tikal	publish	2026/03/CMT-118B-BANCA-TIKAL.avif	media/production/uploads/2026/03/CMT-118B-BANCA-TIKAL.avif	image/avif	32168	featured_image | parented_attachment
+6528	CMT-218B	Banco Angkor	publish	2020/12/banca-angkor-mobiliario-concreto-productos-jumbo.jpg	media/production/uploads/2020/12/banca-angkor-mobiliario-concreto-productos-jumbo.jpg	image/jpeg	25959	parented_attachment
+6528	CMT-218B	Banco Angkor	publish	2026/03/CMT-218B-BANCO-ANGKOR.avif	media/production/uploads/2026/03/CMT-218B-BANCO-ANGKOR.avif	image/avif	32169	featured_image | parented_attachment
+6531	BOL-00-01-00	BOLARDO METALICO	publish	2020/12/BOL-1.png	media/production/uploads/2020/12/BOL-1.png	image/png	6534	parented_attachment
+6531	BOL-00-01-00	BOLARDO METALICO	publish	2020/12/BOL-COM.png	media/production/uploads/2020/12/BOL-COM.png	image/png	6532	parented_attachment
+6531	BOL-00-01-00	BOLARDO METALICO	publish	2026/03/BOL-00-01-00-BOLARDO-METALICO.avif	media/production/uploads/2026/03/BOL-00-01-00-BOLARDO-METALICO.avif	image/avif	32170	featured_image | parented_attachment
+6536	EJE-IN-02-00	EJERCITADOR MUÑECAS DOBLE INCLUSIVO	publish	2020/12/AEM-0212-DC.png	media/production/uploads/2020/12/AEM-0212-DC.png	image/png	6542	featured_image | parented_attachment
+6536	EJE-IN-02-00	EJERCITADOR MUÑECAS DOBLE INCLUSIVO	publish	2020/12/ejercitador-brazos-munecas-cuatro.jpg	media/production/uploads/2020/12/ejercitador-brazos-munecas-cuatro.jpg	image/jpeg	21954	gallery_image
+6538	BOL-00-03-00	BOLARDO TRIANGULAR	publish	2020/12/BOL-118.png	media/production/uploads/2020/12/BOL-118.png	image/png	6539	featured_image | parented_attachment
+6540	BOL-00-02-00	BOLARDO CUADRADO	publish	2020/12/BOL-218.png	media/production/uploads/2020/12/BOL-218.png	image/png	6541	featured_image | parented_attachment
+6543	EJE-IN-03-00	EJERCITADOR BRAZOS Y PIERNAS DOBLE INCLUSIVO	publish	2020/12/AEF-0515-DC.png	media/production/uploads/2020/12/AEF-0515-DC.png	image/png	6545	featured_image | parented_attachment
+6546	EJE-IN-04-00	EJERCITADOR COMBINADO DE BRAZOS Y MUÑECAS INCLUSIVO	publish	2020/12/AEF-415-DC.png	media/production/uploads/2020/12/AEF-415-DC.png	image/png	6547	featured_image | parented_attachment
+6557	EJE-IN-07-00	EJERCITADOR DOMINADAS EN BARRA FORTE INCLUSIVO	publish	2020/12/AED-008-DC.png	media/production/uploads/2020/12/AED-008-DC.png	image/png	6559	featured_image | parented_attachment
+6561	EJE-IN-08-00	EJERCITADOR BRAZOS Y MUÑECAS FORTE INCLUSIVO	publish	2020/12/AED-011-DC.png	media/production/uploads/2020/12/AED-011-DC.png	image/png	6562	featured_image | parented_attachment
+6564	EJE-IN-09-00	EJERCITADOR BRAZOS, MUÑECAS Y HOMBROS INCLUSIVO	publish	2020/12/AEF-215-DC.png	media/production/uploads/2020/12/AEF-215-DC.png	image/png	6567	featured_image | parented_attachment
+6569	BUS-LP-01-00	PARABUS LONG	publish	2020/12/PB-218.png	media/production/uploads/2020/12/PB-218.png	image/png	6571	featured_image | parented_attachment
+6575	BUS-TP-02-00	PARABUS FULL	publish	2020/12/PB-214.png	media/production/uploads/2020/12/PB-214.png	image/png	6576	featured_image | parented_attachment
+6577	FUMR-319	Fuente lineal 4 salidas, 4 jet, 2 m altura	publish	2020/12/fuente-04.png	media/production/uploads/2020/12/fuente-04.png	image/png	7437	featured_image | parented_attachment
+6578	FUMR-319-1	Fuente lineal 4 salidas, 4 jet 3 m altura	publish	2020/12/fuente-03.png	media/production/uploads/2020/12/fuente-03.png	image/png	7436	featured_image | parented_attachment
+6579	FUMR-319A	Fuente lineal 4 salidas, 2 jet y 2 aspersor 2 m altura	publish	2020/12/fuente-02.png	media/production/uploads/2020/12/fuente-02.png	image/png	7435	featured_image | parented_attachment
+6580	REH-00-02-00	RAMPA PARA REHABILITACION	publish	2020/12/AEM-217A-RE.png	media/production/uploads/2020/12/AEM-217A-RE.png	image/png	6581	featured_image | parented_attachment
+6582	FUMR-319A-1	Fuente lineal 4 salidas, 2 jet y 2 aspersor 3 m altura	publish	2021/01/fuentes.png	media/production/uploads/2021/01/fuentes.png	image/png	7360	featured_image
+6583	REH-00-03-00	ESCALERA PARA REHABILITACION	publish	2020/12/AEM-217B-RE.png	media/production/uploads/2020/12/AEM-217B-RE.png	image/png	6584	featured_image | parented_attachment
+6585	REH-00-08-00	CONJUNTO DE REHABILITACIÓN A	publish	2020/12/AEM-117-RE.png	media/production/uploads/2020/12/AEM-117-RE.png	image/png	6586	parented_attachment
+6585	REH-00-08-00	CONJUNTO DE REHABILITACIÓN A	publish	2020/12/AEM-118-RE.png	media/production/uploads/2020/12/AEM-118-RE.png	image/png	6588	parented_attachment
+6585	REH-00-08-00	CONJUNTO DE REHABILITACIÓN A	publish	2026/03/REH-00-08-00-CONJUNTO-DE-REHABILITACION-A.avif	media/production/uploads/2026/03/REH-00-08-00-CONJUNTO-DE-REHABILITACION-A.avif	image/avif	32178	featured_image | parented_attachment
+6589	REH-00-07-00	CONJUNTO DE REHABILITACIÓN B	publish	2020/12/AEM-218-RE.png	media/production/uploads/2020/12/AEM-218-RE.png	image/png	6590	parented_attachment
+6589	REH-00-07-00	CONJUNTO DE REHABILITACIÓN B	publish	2026/03/REH-00-07-00-CONJUNTO-DE-REHABILITACION-B.avif	media/production/uploads/2026/03/REH-00-07-00-CONJUNTO-DE-REHABILITACION-B.avif	image/avif	32177	featured_image | parented_attachment
+6596	FUMR-419	Fuente redonda 5 salidas, 5 jet 2 m altura	publish	2020/12/fuente-06.png	media/production/uploads/2020/12/fuente-06.png	image/png	7441	featured_image
+6597	FUMR-419-1	Fuente redonda 5 salidas, 5 jet 3 m altura	publish	2020/12/fuente-05.png	media/production/uploads/2020/12/fuente-05.png	image/png	7438	featured_image
+6598	FUMR-519	Fuente redonda 7 salidas, 7 jet 2 m altura	publish	2020/12/fuente-07.png	media/production/uploads/2020/12/fuente-07.png	image/png	7444	featured_image | parented_attachment
+6599	FUMR-519-1	Fuente redonda 7 salidas, 7 jet 3 m altura	publish	2021/01/acuaticos-2.png	media/production/uploads/2021/01/acuaticos-2.png	image/png	7418	featured_image
+6600	FUMR-619A	Fuente redonda 9 salidas, 8 jet y 1 aspersor 2 mts altura	publish	2020/12/fuente-06.png	media/production/uploads/2020/12/fuente-06.png	image/png	7441	featured_image | parented_attachment
+6601	FUMR-619-1A	Fuente redonda 9 salidas, 8 jet y 1 aspersor 3 mts altura	publish	2020/12/fuente-01.png	media/production/uploads/2020/12/fuente-01.png	image/png	7434	parented_attachment
+6601	FUMR-619-1A	Fuente redonda 9 salidas, 8 jet y 1 aspersor 3 mts altura	publish	2020/12/fuente-05.png	media/production/uploads/2020/12/fuente-05.png	image/png	7438	featured_image | parented_attachment
+6602	FUMR-119-C	Cascada digital	publish	2020/12/cascada.png	media/production/uploads/2020/12/cascada.png	image/png	7447	featured_image | parented_attachment
+6603	FUMR-119E-C	Private: Cascada digital metro extra	private	2020/12/cascada.png	media/production/uploads/2020/12/cascada.png	image/png	7447	featured_image
+6604	PIL-PT-04-00	LUMIN FULGOR 2M ALTURA	publish	2020/12/luminaria-fulgor-PTJ-518-1.jpg	media/production/uploads/2020/12/luminaria-fulgor-PTJ-518-1.jpg	image/jpeg	22656	featured_image | parented_attachment
+6610	PIL-PT-03-00	LUMIN ALBA 2.5M ALTURA	publish	2020/12/Luminaria-Alba-PTJ-618.jpg	media/production/uploads/2020/12/Luminaria-Alba-PTJ-618.jpg	image/jpeg	22655	featured_image | parented_attachment
+6647	DEP-MO-02-00	11 BANCAS DE JUGADORES CON TECHUMBRE	publish	2020/12/MUD-112.png	media/production/uploads/2020/12/MUD-112.png	image/png	6652	featured_image | parented_attachment
+6653	DEP-00-06-00	TABLERO DE BÁSQUETBOL	publish	2020/12/CBA-112.png	media/production/uploads/2020/12/CBA-112.png	image/png	6656	parented_attachment
+6653	DEP-00-06-00	TABLERO DE BÁSQUETBOL	publish	2022/01/banner-web-cancha-multi.jpg	media/production/uploads/2022/01/banner-web-cancha-multi.jpg	image/jpeg	21832	gallery_image
+6653	DEP-00-06-00	TABLERO DE BÁSQUETBOL	publish	2026/03/DEP-00-06-00TABLERO-DE-BASQUETBOL.avif	media/production/uploads/2026/03/DEP-00-06-00TABLERO-DE-BASQUETBOL.avif	image/avif	32179	featured_image | parented_attachment
+6661	DEP-MO-03-00	GRADAS TECHADAS 5 ASIENTOS Y 4 DESCANSA PIES	publish	2020/12/MUD-116.png	media/production/uploads/2020/12/MUD-116.png	image/png	6663	featured_image | parented_attachment
+6661	DEP-MO-03-00	GRADAS TECHADAS 5 ASIENTOS Y 4 DESCANSA PIES	publish	2021/10/gradas.jpg	media/production/uploads/2021/10/gradas.jpg	image/jpeg	21314	gallery_image
+6664	DEP-00-09-00	PORTERIA FÚTBOL RAPIDO	publish	2020/12/MUD-216.png	media/production/uploads/2020/12/MUD-216.png	image/png	6667	parented_attachment
+6664	DEP-00-09-00	PORTERIA FÚTBOL RAPIDO	publish	2020/12/PFR-117-1.png	media/production/uploads/2020/12/PFR-117-1.png	image/png	6672	featured_image | parented_attachment
+6664	DEP-00-09-00	PORTERIA FÚTBOL RAPIDO	publish	2020/12/PFR-119.png	media/production/uploads/2020/12/PFR-119.png	image/png	6669	parented_attachment
+6665	EOS-PR-08-00	Juego California (EOS-PR-08-00)	draft	2020/12/modulo-california-EOS-PR-08-00.jpg	media/production/uploads/2020/12/modulo-california-EOS-PR-08-00.jpg	image/jpeg	24824	parented_attachment
+6665	EOS-PR-08-00	Juego California (EOS-PR-08-00)	draft	2020/12/modulo-california-juego-infantil-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-california-juego-infantil-productos-jumbo.jpg	image/jpeg	28171	featured_image | parented_attachment
+6674	VL-119	Private: Velaria Twist Malla Sombra 9.2 X 9.2 M	private	2020/12/colores-velarias.jpg	media/production/uploads/2020/12/colores-velarias.jpg	image/jpeg	22240	content_url
+6676	EOS-PR-10-00	Juego Paris (EOS-PR-10-01)	publish	2020/12/modulo-paris-juego-infantil.png	media/production/uploads/2020/12/modulo-paris-juego-infantil.png	image/png	24986	featured_image | parented_attachment
+6683	DEP-00-12-00	CANCHA CIRCULAR DE FUTBOL RAPIDO	publish	2020/12/CF6-119.png	media/production/uploads/2020/12/CF6-119.png	image/png	6684	featured_image | parented_attachment
+6686	DEP-00-10-00	PORTERIA DE FÚTBOL PROFESIONAL	publish	2020/12/MUD-312.png	media/production/uploads/2020/12/MUD-312.png	image/png	6687	featured_image | parented_attachment
+6689	DEP-MO-05-00	MESA DE AJEDREZ	publish	2020/12/MUM-513.png	media/production/uploads/2020/12/MUM-513.png	image/png	6690	parented_attachment
+6689	DEP-MO-05-00	MESA DE AJEDREZ	publish	2026/03/DEP-MO-05-00-MESA-DE-AJEDREZ.avif	media/production/uploads/2026/03/DEP-MO-05-00-MESA-DE-AJEDREZ.avif	image/avif	32181	featured_image | parented_attachment
+6691	VL-219	Private: Velaria Conica Malla Sombra 4 Puntos 9.2 X 9.2 M	private	2020/12/VL-219-PNG0039.png	media/production/uploads/2020/12/VL-219-PNG0039.png	image/png	22241	featured_image
+6691	VL-219	Private: Velaria Conica Malla Sombra 4 Puntos 9.2 X 9.2 M	private	2020/12/colores-velarias.jpg	media/production/uploads/2020/12/colores-velarias.jpg	image/jpeg	22240	content_url
+6693	VL-319	Private: Sombrilla Malla Sombra 4 Puntos 3 X 3 M	private	2020/12/VL-319-PNG0040.png	media/production/uploads/2020/12/VL-319-PNG0040.png	image/png	22245	featured_image | parented_attachment
+6693	VL-319	Private: Sombrilla Malla Sombra 4 Puntos 3 X 3 M	private	2020/12/colores-velarias.jpg	media/production/uploads/2020/12/colores-velarias.jpg	image/jpeg	22240	content_url
+6697	VL-119-1	Private: Velaria Twist Malla Sombra 6.2 X 6.2 M	private	2020/12/colores-velarias.jpg	media/production/uploads/2020/12/colores-velarias.jpg	image/jpeg	22240	content_url
+6699	VL-219-1	Private: Velaria Conica Malla Sombra 4 Puntos 6.2 X 6.2 M	private	2020/12/VL-219-PNG0039.png	media/production/uploads/2020/12/VL-219-PNG0039.png	image/png	22241	featured_image | parented_attachment
+6699	VL-219-1	Private: Velaria Conica Malla Sombra 4 Puntos 6.2 X 6.2 M	private	2020/12/colores-velarias.jpg	media/production/uploads/2020/12/colores-velarias.jpg	image/jpeg	22240	content_url | parented_attachment
+6701	LT-1.20	Letra de lamina 1.20 m de alto con base de 30 cm	publish	2020/12/letras-gigantes.jpg	media/production/uploads/2020/12/letras-gigantes.jpg	image/jpeg	22161	featured_image
+6703	LT-1.50	Letra de lamina 1.50 m de alto con base de 30 cm	publish	2020/12/letras-gigantes.jpg	media/production/uploads/2020/12/letras-gigantes.jpg	image/jpeg	22161	featured_image | parented_attachment
+6704	LET-PT-03-00	LETRA POLICARBONATO Y LUZ 2.00 M DE ALTO	publish	2020/12/Letra-policarbonato-y-luz-2.00-m-de-alto-PTJ-LT-2.00-b.jpg	media/production/uploads/2020/12/Letra-policarbonato-y-luz-2.00-m-de-alto-PTJ-LT-2.00-b.jpg	image/jpeg	22159	featured_image | parented_attachment
+6705	MER-PR-02-00	Juego MASSACHUSETTS	publish	2020/12/modulo-Massachusetts-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-Massachusetts-productos-jumbo.jpg	image/jpeg	25986	parented_attachment
+6705	MER-PR-02-00	Juego MASSACHUSETTS	publish	2026/07/Juego-Massachusetts-EOS-PR-09-00-1.avif	media/production/uploads/2026/07/Juego-Massachusetts-EOS-PR-09-00-1.avif	image/avif	32610	featured_image
+6705	MER-PR-02-00	Juego MASSACHUSETTS	publish	2026/07/Juego-Massachusetts-EOS-PR-09-00-im.avif	media/production/uploads/2026/07/Juego-Massachusetts-EOS-PR-09-00-im.avif	image/avif	32576	gallery_image
+6705	MER-PR-02-00	Juego MASSACHUSETTS	publish	2026/07/Juego-Massachusetts-EOS-PR-09-00-top.avif	media/production/uploads/2026/07/Juego-Massachusetts-EOS-PR-09-00-top.avif	image/avif	32577	gallery_image
+6707	EOS-PR-11-00	Juego Randolph (EOS-1613 10.0)	draft	2020/12/juego-infantil-para-parques-randolph.jpg	media/production/uploads/2020/12/juego-infantil-para-parques-randolph.jpg	image/jpeg	25105	featured_image | parented_attachment
+6708	LET-PT-04-00	LETRA POLICARBONATO Y LUZ 3.00 M DE ALTO	publish	2020/12/Letra-policarbonato-y-luz-2.00-m-de-alto-PTJ-LT-2.00-b.jpg	media/production/uploads/2020/12/Letra-policarbonato-y-luz-2.00-m-de-alto-PTJ-LT-2.00-b.jpg	image/jpeg	22159	featured_image
+6709	LET-PT-01-00	LETRA ACRILICO Y LUZ 1.20 M DE ALTO CON BASE	publish	2020/12/Letra-acrilico-y-luz-1.20-m-de-alto-con-base-PTJ-LT-1.20-b.jpg	media/production/uploads/2020/12/Letra-acrilico-y-luz-1.20-m-de-alto-con-base-PTJ-LT-1.20-b.jpg	image/jpeg	22157	featured_image | parented_attachment
+6710	LET-PT-02-00	LETRA ACRILICO Y LUZ 1.50 M DE ALTO CON BASE	publish	2020/12/montaje-letras-luminosas-2021-web.jpg	media/production/uploads/2020/12/montaje-letras-luminosas-2021-web.jpg	image/jpeg	22158	featured_image | parented_attachment
+6712	TEC-AC-01-00	TECHO SOMBRA DE COLOR 12 ACRILICO	publish	2020/12/SAC-118-1.png	media/production/uploads/2020/12/SAC-118-1.png	image/png	7288	featured_image | parented_attachment
+6713	EOS-PR-12-00	Private: Juego Utah (EOS-515 7.0)	private	2020/12/juego-en-residencial-utah.jpg	media/production/uploads/2020/12/juego-en-residencial-utah.jpg	image/jpeg	21943	gallery_image | parented_attachment
+6713	EOS-PR-12-00	Private: Juego Utah (EOS-515 7.0)	private	2020/12/modulo-utah-EOS-PR-12-00.jpg	media/production/uploads/2020/12/modulo-utah-EOS-PR-12-00.jpg	image/jpeg	24848	featured_image | parented_attachment
+6715	TEC-PT-02-00	TECHO SOLAR	publish	2020/12/SAC-219.png	media/production/uploads/2020/12/SAC-219.png	image/png	6717	parented_attachment
+6715	TEC-PT-02-00	TECHO SOLAR	publish	2020/12/Techo-Solar-TEC-PT-02-00.webp	media/production/uploads/2020/12/Techo-Solar-TEC-PT-02-00.webp	image/webp	29521	featured_image | parented_attachment
+6721	BAN-PM-10-00	BANCA CENTRO HISTORICO CON PLASTIMADERA	publish	2020/12/BANCA-POL02MS.png	media/production/uploads/2020/12/BANCA-POL02MS.png	image/png	19244	featured_image | parented_attachment
+6723	EOS-PR-13-00	Private: Juego Minnesota (EOS-PR-13-00)	private	2020/12/modulo-minesota-juego-infantil-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-minesota-juego-infantil-productos-jumbo.jpg	image/jpeg	28165	featured_image | parented_attachment
+6723	EOS-PR-13-00	Private: Juego Minnesota (EOS-PR-13-00)	private	2020/12/modulo-minnesota-juegos-para-parques.png	media/production/uploads/2020/12/modulo-minnesota-juegos-para-parques.png	image/png	24987	parented_attachment
+6728	DEP-00-11-00	RED Y 2 POSTES DE VOLEIBOL	publish	2020/12/PVB-117.png	media/production/uploads/2020/12/PVB-117.png	image/png	6730	featured_image | parented_attachment
+6731	CAN-PL-07-00	BANCA DE HUESO CANINO	publish	2020/12/AEC-119.png	media/production/uploads/2020/12/AEC-119.png	image/png	6734	featured_image | parented_attachment
+6733	EOS-PR-17-00	Private: Juego Oregon (EOS-1010 7.0)	private	2020/12/juego-infantil-para-escuelas-oregon.jpg	media/production/uploads/2020/12/juego-infantil-para-escuelas-oregon.jpg	image/jpeg	25104	featured_image | parented_attachment
+6736	CAN-PL-01-00	TUNEL CANINO	publish	2020/12/AEC-418-2.0.png	media/production/uploads/2020/12/AEC-418-2.0.png	image/png	6737	featured_image | parented_attachment
+6736	CAN-PL-01-00	TUNEL CANINO	publish	2020/12/tunel-canino-frontal.jpg	media/production/uploads/2020/12/tunel-canino-frontal.jpg	image/jpeg	22192	gallery_image | parented_attachment
+6736	CAN-PL-01-00	TUNEL CANINO	publish	2020/12/tunel-canino-para-parques.jpg	media/production/uploads/2020/12/tunel-canino-para-parques.jpg	image/jpeg	22193	gallery_image | parented_attachment
+6738	MEV-CR-03-00	Juego GRADY	publish	2020/12/EOS-112-9.0.png	media/production/uploads/2020/12/EOS-112-9.0.png	image/png	6746	parented_attachment
+6738	MEV-CR-03-00	Juego GRADY	publish	2020/12/EOS-71D-7.0.png	media/production/uploads/2020/12/EOS-71D-7.0.png	image/png	6742	parented_attachment
+6738	MEV-CR-03-00	Juego GRADY	publish	2020/12/juego-modular-grady-1.jpg	media/production/uploads/2020/12/juego-modular-grady-1.jpg	image/jpeg	23501	parented_attachment
+6738	MEV-CR-03-00	Juego GRADY	publish	2020/12/juego-modular-grady-2.jpg	media/production/uploads/2020/12/juego-modular-grady-2.jpg	image/jpeg	23500	parented_attachment
+6738	MEV-CR-03-00	Juego GRADY	publish	2020/12/modulo-grady-juego-de-parques.png	media/production/uploads/2020/12/modulo-grady-juego-de-parques.png	image/png	24989	parented_attachment
+6738	MEV-CR-03-00	Juego GRADY	publish	2026/07/Juego-Grady-EOS-PR-18-03-top.avif	media/production/uploads/2026/07/Juego-Grady-EOS-PR-18-03-top.avif	image/avif	32566	gallery_image
+6738	MEV-CR-03-00	Juego GRADY	publish	2026/07/Juego-Grady-EOS-PR-18-03.avif	media/production/uploads/2026/07/Juego-Grady-EOS-PR-18-03.avif	image/avif	32567	featured_image
+6739	CAN-PL-12-00	RAMPA CANINA	publish	2020/12/AEC-218-2.0.png	media/production/uploads/2020/12/AEC-218-2.0.png	image/png	6740	featured_image | parented_attachment
+6739	CAN-PL-12-00	RAMPA CANINA	publish	2022/02/rampa-canina-parque.jpg	media/production/uploads/2022/02/rampa-canina-parque.jpg	image/jpeg	22211	gallery_image
+6739	CAN-PL-12-00	RAMPA CANINA	publish	2022/02/rampa-canina.jpg	media/production/uploads/2022/02/rampa-canina.jpg	image/jpeg	22210	gallery_image
+6741	CAN-PL-06-00	VALLAS CANINO	publish	2020/12/AEC-114-2.0.png	media/production/uploads/2020/12/AEC-114-2.0.png	image/png	6745	featured_image | parented_attachment
+6741	CAN-PL-06-00	VALLAS CANINO	publish	2020/12/AEC-117-2.0.png	media/production/uploads/2020/12/AEC-117-2.0.png	image/png	6743	parented_attachment
+6741	CAN-PL-06-00	VALLAS CANINO	publish	2020/12/valla-canina.jpg	media/production/uploads/2020/12/valla-canina.jpg	image/jpeg	22213	gallery_image | parented_attachment
+6747	CAN-PL-10-00	BALANCIN CANINO	publish	2020/12/AEC-117-2.0.png	media/production/uploads/2020/12/AEC-117-2.0.png	image/png	6743	featured_image
+6748	CAN-PL-02-00	AROS CANINO	publish	2020/12/AEC-214-20-Aros-Canino.png	media/production/uploads/2020/12/AEC-214-20-Aros-Canino.png	image/png	22609	featured_image | parented_attachment
+6748	CAN-PL-02-00	AROS CANINO	publish	2020/12/aros-caninos-agility-2.jpg	media/production/uploads/2020/12/aros-caninos-agility-2.jpg	image/jpeg	22195	gallery_image | parented_attachment
+6748	CAN-PL-02-00	AROS CANINO	publish	2020/12/aros-caninos-agility.jpg	media/production/uploads/2020/12/aros-caninos-agility.jpg	image/jpeg	22194	gallery_image | parented_attachment
+6750	CAN-PL-15-00	BEBEDERO CANINO	publish	2020/12/bebedero-canino.png	media/production/uploads/2020/12/bebedero-canino.png	image/png	22610	featured_image | parented_attachment
+6752	CAN-PL-05-00	SALTO DOBLE CANINO	publish	2020/12/AEC-118-2.0.png	media/production/uploads/2020/12/AEC-118-2.0.png	image/png	6753	featured_image | parented_attachment
+6755	CAN-PL-11-00	MESA CANINA	publish	2020/12/AEC-414-2.0.png	media/production/uploads/2020/12/AEC-414-2.0.png	image/png	6756	featured_image | parented_attachment
+6757	CAN-PL-08-00	GRADAS CANINO	publish	2020/12/AEC-219.png	media/production/uploads/2020/12/AEC-219.png	image/png	6759	featured_image | parented_attachment
+6760	CAN-00-02-00	SLALOM CANINO	publish	2020/12/AEC-314-2.0.png	media/production/uploads/2020/12/AEC-314-2.0.png	image/png	6761	parented_attachment
+6760	CAN-00-02-00	SLALOM CANINO	publish	2026/03/CAN-00-02-00-SLALOM-CANINO.avif	media/production/uploads/2026/03/CAN-00-02-00-SLALOM-CANINO.avif	image/avif	32182	featured_image | parented_attachment
+6763	CAN-PM-01-00	PASARELA CANINO	publish	2020/12/productos-jumbo-pasarela-canina-en-circuitos-caninos-agility-parque-en-queretaro.jpg	media/production/uploads/2020/12/productos-jumbo-pasarela-canina-en-circuitos-caninos-agility-parque-en-queretaro.jpg	image/jpeg	26096	gallery_image | parented_attachment
+6763	CAN-PM-01-00	PASARELA CANINO	publish	2020/12/productos-jumbo-pasarela-canina-para-circuitos-agility.jpg	media/production/uploads/2020/12/productos-jumbo-pasarela-canina-para-circuitos-agility.jpg	image/jpeg	26095	featured_image | parented_attachment
+6763	CAN-PM-01-00	PASARELA CANINO	publish	2020/12/productos-jumbo-pasarela-canina-para-circuitos-caninos-agility-en-queretaro.jpg	media/production/uploads/2020/12/productos-jumbo-pasarela-canina-para-circuitos-caninos-agility-en-queretaro.jpg	image/jpeg	26097	gallery_image | parented_attachment
+6764	EOS-PR-19-00	Juego Parma (EOS-PR-19-00)	draft	2020/12/juego-de-exterior-parma.jpg	media/production/uploads/2020/12/juego-de-exterior-parma.jpg	image/jpeg	21966	parented_attachment
+6764	EOS-PR-19-00	Juego Parma (EOS-PR-19-00)	draft	2020/12/modulo-parma-EOS-PR-19-00.jpg	media/production/uploads/2020/12/modulo-parma-EOS-PR-19-00.jpg	image/jpeg	24828	parented_attachment
+6764	EOS-PR-19-00	Juego Parma (EOS-PR-19-00)	draft	2020/12/modulo-parma-juego-infantil-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-parma-juego-infantil-productos-jumbo.jpg	image/jpeg	28172	featured_image | parented_attachment
+6770	EOS-PR-23-00	Private: Juego Pittsburgh (EOS-PR-23-00)	private	2020/12/modulo-pittsburg-juego-infantil-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-pittsburg-juego-infantil-productos-jumbo.jpg	image/jpeg	28169	featured_image | parented_attachment
+6770	EOS-PR-23-00	Private: Juego Pittsburgh (EOS-PR-23-00)	private	2020/12/modulo-pittsburgh-EOS-PR-23-00.jpg	media/production/uploads/2020/12/modulo-pittsburgh-EOS-PR-23-00.jpg	image/jpeg	24830	parented_attachment
+6783	MER-PR-07-00	Juego WINSTON	publish	2020/12/EOS-PR-25-00-MODULO-WINSTON-ISO.webp	media/production/uploads/2020/12/EOS-PR-25-00-MODULO-WINSTON-ISO.webp	image/webp	31202	parented_attachment
+6783	MER-PR-07-00	Juego WINSTON	publish	2020/12/T.png	media/production/uploads/2020/12/T.png	image/png	24053	parented_attachment
+6783	MER-PR-07-00	Juego WINSTON	publish	2020/12/modulo-winston-juego-infantil-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-winston-juego-infantil-productos-jumbo.jpg	image/jpeg	28167	parented_attachment
+6783	MER-PR-07-00	Juego WINSTON	publish	2020/12/modulo-winstone-EOS-PR-25-00.jpg	media/production/uploads/2020/12/modulo-winstone-EOS-PR-25-00.jpg	image/jpeg	24831	parented_attachment
+6783	MER-PR-07-00	Juego WINSTON	publish	2026/07/Juego-Winston-EOS-PR-25-03-1.avif	media/production/uploads/2026/07/Juego-Winston-EOS-PR-25-03-1.avif	image/avif	32684	featured_image
+6783	MER-PR-07-00	Juego WINSTON	publish	2026/07/Juego-Winston-EOS-PR-25-03-top.avif	media/production/uploads/2026/07/Juego-Winston-EOS-PR-25-03-top.avif	image/avif	32535	gallery_image
+6785	MER-PR-06-00	Juego RUSSEL	publish	2020/12/juego-russel-exterior-residencial.jpg	media/production/uploads/2020/12/juego-russel-exterior-residencial.jpg	image/jpeg	21873	parented_attachment
+6785	MER-PR-06-00	Juego RUSSEL	publish	2020/12/modulo-Russel-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-Russel-productos-jumbo.jpg	image/jpeg	25988	parented_attachment
+6785	MER-PR-06-00	Juego RUSSEL	publish	2026/03/EOS-PR-24-00-MODULO-RUSSEL.avif	media/production/uploads/2026/03/EOS-PR-24-00-MODULO-RUSSEL.avif	image/avif	32137	parented_attachment
+6785	MER-PR-06-00	Juego RUSSEL	publish	2026/07/Juego-Russel-EOS-PR-24-00-1.avif	media/production/uploads/2026/07/Juego-Russel-EOS-PR-24-00-1.avif	image/avif	32671	featured_image
+6785	MER-PR-06-00	Juego RUSSEL	publish	2026/07/Juego-Russel-EOS-PR-24-00-top.avif	media/production/uploads/2026/07/Juego-Russel-EOS-PR-24-00-top.avif	image/avif	32513	gallery_image
+6791	EOS-PR-22-00	Private: Juego Pensilvania (EOS-PR-22-00)	private	2020/12/modulo-pensilvania-EOS-PR-19-00.jpg	media/production/uploads/2020/12/modulo-pensilvania-EOS-PR-19-00.jpg	image/jpeg	24829	parented_attachment
+6791	EOS-PR-22-00	Private: Juego Pensilvania (EOS-PR-22-00)	private	2020/12/modulo-pensilvania-juego-infantil-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-pensilvania-juego-infantil-productos-jumbo.jpg	image/jpeg	28164	featured_image | parented_attachment
+6793	EOS-PR-29-00	Juego BALTIMORE BASIC	publish	2020/12/juego-residencial.jpg	media/production/uploads/2020/12/juego-residencial.jpg	image/jpeg	21874	gallery_image | parented_attachment
+6793	EOS-PR-29-00	Juego BALTIMORE BASIC	publish	2020/12/modulo-basic-juego-para-jardines.png	media/production/uploads/2020/12/modulo-basic-juego-para-jardines.png	image/png	24995	featured_image | parented_attachment
+6793	EOS-PR-29-00	Juego BALTIMORE BASIC	publish	2020/12/resbaladila-para-residencial.jpg	media/production/uploads/2020/12/resbaladila-para-residencial.jpg	image/jpeg	21875	gallery_image | parented_attachment
+6795	EOS-PR-28-00	Juego BALTIMORE	publish	2020/12/juego-en-exterior-baltimore.jpg	media/production/uploads/2020/12/juego-en-exterior-baltimore.jpg	image/jpeg	21970	gallery_image | parented_attachment
+6795	EOS-PR-28-00	Juego BALTIMORE	publish	2020/12/juego-en-un-parque-baltimore.jpg	media/production/uploads/2020/12/juego-en-un-parque-baltimore.jpg	image/jpeg	21971	gallery_image | parented_attachment
+6795	EOS-PR-28-00	Juego BALTIMORE	publish	2020/12/modulo-baltimore-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-baltimore-productos-jumbo.jpg	image/jpeg	25982	featured_image | parented_attachment
+6797	MEC-CR-01-00	Juego BOSTON	publish	2020/12/EOS-1610-10.0.jpg	media/production/uploads/2020/12/EOS-1610-10.0.jpg	image/jpeg	24548	parented_attachment
+6797	MEC-CR-01-00	Juego BOSTON	publish	2020/12/juego-para-exterior-boston.jpg	media/production/uploads/2020/12/juego-para-exterior-boston.jpg	image/jpeg	21968	parented_attachment
+6797	MEC-CR-01-00	Juego BOSTON	publish	2026/07/Juego-Boston-EOS-PR-31-00-1.avif	media/production/uploads/2026/07/Juego-Boston-EOS-PR-31-00-1.avif	image/avif	32718	featured_image
+6797	MEC-CR-01-00	Juego BOSTON	publish	2026/07/Juego-Boston-EOS-PR-31-00-top.avif	media/production/uploads/2026/07/Juego-Boston-EOS-PR-31-00-top.avif	image/avif	32551	gallery_image
+6810	BAN-00-04-00	BANCA CON PERFILES	publish	2020/12/MUA-619-1.png	media/production/uploads/2020/12/MUA-619-1.png	image/png	6811	featured_image | parented_attachment
+6820	MUM-118-1-1	Private: Mesa de Picnic	private	2020/12/MPMP-1-1.png	media/production/uploads/2020/12/MPMP-1-1.png	image/png	6821	featured_image | parented_attachment
+6836	EOS-PR-15-03	Juego Arkansas (EOS-PR-15-03)	publish	2020/12/EOS-PR-15-03.jpg	media/production/uploads/2020/12/EOS-PR-15-03.jpg	image/jpeg	32727	featured_image | parented_attachment
+6836	EOS-PR-15-03	Juego Arkansas (EOS-PR-15-03)	publish	2020/12/arkansas-juego-escuelas-plazas-1.jpg	media/production/uploads/2020/12/arkansas-juego-escuelas-plazas-1.jpg	image/jpeg	21872	parented_attachment
+6836	EOS-PR-15-03	Juego Arkansas (EOS-PR-15-03)	publish	2020/12/modulo-arkansas-EOS-PR-15-00.jpg	media/production/uploads/2020/12/modulo-arkansas-EOS-PR-15-00.jpg	image/jpeg	24825	parented_attachment
+6836	EOS-PR-15-03	Juego Arkansas (EOS-PR-15-03)	publish	2020/12/modulo-arkansas-juego-infantil-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-arkansas-juego-infantil-productos-jumbo.jpg	image/jpeg	28153	parented_attachment
+6839	MEC-CR-04-00	Juego BARCELONA	publish	2020/12/juego-de-exterior-modulo-barcelona.jpg	media/production/uploads/2020/12/juego-de-exterior-modulo-barcelona.jpg	image/jpeg	25098	parented_attachment
+6839	MEC-CR-04-00	Juego BARCELONA	publish	2020/12/juego-de-exterior-para-escuelas-jumbo-barcelona.jpg	media/production/uploads/2020/12/juego-de-exterior-para-escuelas-jumbo-barcelona.jpg	image/jpeg	25099	parented_attachment
+6839	MEC-CR-04-00	Juego BARCELONA	publish	2026/03/EOS-CR-01-00-MODULO-BARCELONA.avif	media/production/uploads/2026/03/EOS-CR-01-00-MODULO-BARCELONA.avif	image/avif	32136	parented_attachment
+6839	MEC-CR-04-00	Juego BARCELONA	publish	2026/07/Juego-Barcelona-EOS-CR-01-00-1.avif	media/production/uploads/2026/07/Juego-Barcelona-EOS-CR-01-00-1.avif	image/avif	32686	featured_image
+6839	MEC-CR-04-00	Juego BARCELONA	publish	2026/07/Juego-Barcelona-EOS-CR-01-00-im.avif	media/production/uploads/2026/07/Juego-Barcelona-EOS-CR-01-00-im.avif	image/avif	32545	gallery_image
+6839	MEC-CR-04-00	Juego BARCELONA	publish	2026/07/Juego-Barcelona-EOS-CR-01-00-top.avif	media/production/uploads/2026/07/Juego-Barcelona-EOS-CR-01-00-top.avif	image/avif	32546	gallery_image
+6841	EOS-CR-02-00	Juego Britania (EOS-FV-02-00)	draft	2020/12/EOS-71B-7.0-Britania.jpg	media/production/uploads/2020/12/EOS-71B-7.0-Britania.jpg	image/jpeg	30723	featured_image | parented_attachment
+6841	EOS-CR-02-00	Juego Britania (EOS-FV-02-00)	draft	2020/12/modulo-britania-EOS-FV-02-00.jpg	media/production/uploads/2020/12/modulo-britania-EOS-FV-02-00.jpg	image/jpeg	24834	parented_attachment
+6841	EOS-CR-02-00	Juego Britania (EOS-FV-02-00)	draft	2020/12/modulo-britania-juego-infantil-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-britania-juego-infantil-productos-jumbo.jpg	image/jpeg	28162	parented_attachment
+6843	EOS-FV-03-00	Juego España (EOS-FV-03-00)	draft	2020/12/juego-infantil-modulo-espana.jpg	media/production/uploads/2020/12/juego-infantil-modulo-espana.jpg	image/jpeg	25102	parented_attachment
+6843	EOS-FV-03-00	Juego España (EOS-FV-03-00)	draft	2020/12/juego-infantil-para-parques-modulo-espana-1.jpg	media/production/uploads/2020/12/juego-infantil-para-parques-modulo-espana-1.jpg	image/jpeg	25300	parented_attachment
+6843	EOS-FV-03-00	Juego España (EOS-FV-03-00)	draft	2020/12/juego-infantil-parques-modulo-espana-2.jpg	media/production/uploads/2020/12/juego-infantil-parques-modulo-espana-2.jpg	image/jpeg	25299	parented_attachment
+6843	EOS-FV-03-00	Juego España (EOS-FV-03-00)	draft	2020/12/modulo-espana-juego-infantil-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-espana-juego-infantil-productos-jumbo.jpg	image/jpeg	28173	featured_image | parented_attachment
+6846	EOS-PR-32-00	Private: Juego Misuri	private	2020/12/modulo-misuri-juego-infantil-prductos-jumbo.jpg	media/production/uploads/2020/12/modulo-misuri-juego-infantil-prductos-jumbo.jpg	image/jpeg	28161	featured_image | parented_attachment
+6846	EOS-PR-32-00	Private: Juego Misuri	private	2020/12/modulo-misuro-EOS-FV-03-00.jpg	media/production/uploads/2020/12/modulo-misuro-EOS-FV-03-00.jpg	image/jpeg	24835	parented_attachment
+6852	TEM-PL-09-20	Juego ROBOTO	publish	2020/12/productos-jumbo-modulo-roboto-juegos-infantiles-1.jpg	media/production/uploads/2020/12/productos-jumbo-modulo-roboto-juegos-infantiles-1.jpg	image/jpeg	27807	parented_attachment
+6852	TEM-PL-09-20	Juego ROBOTO	publish	2020/12/productos-jumbo-modulo-roboto-juegos-infantiles-2.jpg	media/production/uploads/2020/12/productos-jumbo-modulo-roboto-juegos-infantiles-2.jpg	image/jpeg	27809	parented_attachment
+6852	TEM-PL-09-20	Juego ROBOTO	publish	2020/12/productos-jumbo-modulo-roboto-juegos-infantiles-3.jpg	media/production/uploads/2020/12/productos-jumbo-modulo-roboto-juegos-infantiles-3.jpg	image/jpeg	27808	parented_attachment
+6852	TEM-PL-09-20	Juego ROBOTO	publish	2026/07/Juego-Roboto-TEM-PL-09-00-1.avif	media/production/uploads/2026/07/Juego-Roboto-TEM-PL-09-00-1.avif	image/avif	32682	featured_image
+6852	TEM-PL-09-20	Juego ROBOTO	publish	2026/07/Juego-Roboto-TEM-PL-09-00-top.avif	media/production/uploads/2026/07/Juego-Roboto-TEM-PL-09-00-top.avif	image/avif	32511	gallery_image
+6860	TEM-PL-03-00	Juego Cohete Espacial	publish	2020/12/cohete-espacial-MTN-217-2.jpg	media/production/uploads/2020/12/cohete-espacial-MTN-217-2.jpg	image/jpeg	22471	gallery_image | parented_attachment
+6860	TEM-PL-03-00	Juego Cohete Espacial	publish	2020/12/cohete-espacial-MTN-217-3.jpg	media/production/uploads/2020/12/cohete-espacial-MTN-217-3.jpg	image/jpeg	22472	gallery_image | parented_attachment
+6860	TEM-PL-03-00	Juego Cohete Espacial	publish	2020/12/cohete-espacial-MTN-217.jpg	media/production/uploads/2020/12/cohete-espacial-MTN-217.jpg	image/jpeg	22470	gallery_image | parented_attachment
+6860	TEM-PL-03-00	Juego Cohete Espacial	publish	2020/12/modulo-cohete-juego-infantil.jpg	media/production/uploads/2020/12/modulo-cohete-juego-infantil.jpg	image/jpeg	24998	parented_attachment
+6860	TEM-PL-03-00	Juego Cohete Espacial	publish	2026/03/TEM-PL-03-00-MODULO-COHETE-ESPACIAL.avif	media/production/uploads/2026/03/TEM-PL-03-00-MODULO-COHETE-ESPACIAL.avif	image/avif	32143	featured_image | parented_attachment
+6872	TEM-PL-02-20	Juego NAVE ORION	publish	2020/12/juego-de-nave-orion.jpg	media/production/uploads/2020/12/juego-de-nave-orion.jpg	image/jpeg	21974	parented_attachment
+6872	TEM-PL-02-20	Juego NAVE ORION	publish	2020/12/modulo-nave-orion-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-nave-orion-productos-jumbo.jpg	image/jpeg	25998	parented_attachment
+6872	TEM-PL-02-20	Juego NAVE ORION	publish	2026/07/Juego-Nave-Orion-TEM-PL-02-00-im.avif	media/production/uploads/2026/07/Juego-Nave-Orion-TEM-PL-02-00-im.avif	image/avif	32579	gallery_image
+6872	TEM-PL-02-20	Juego NAVE ORION	publish	2026/07/Juego-Nave-Orion-TEM-PL-02-00-top.avif	media/production/uploads/2026/07/Juego-Nave-Orion-TEM-PL-02-00-top.avif	image/avif	32580	gallery_image
+6872	TEM-PL-02-20	Juego NAVE ORION	publish	2026/07/Juego-Nave-Orion-TEM-PL-02-00.avif	media/production/uploads/2026/07/Juego-Nave-Orion-TEM-PL-02-00.avif	image/avif	32581	featured_image
+6874	TEM-PR-03-20	Juego BARCO	publish	2020/12/MTB-118-1-juego-tematico-barco-2.jpg	media/production/uploads/2020/12/MTB-118-1-juego-tematico-barco-2.jpg	image/jpeg	22476	parented_attachment
+6874	TEM-PR-03-20	Juego BARCO	publish	2020/12/MTB-118-1-juego-tematico-barco.jpg	media/production/uploads/2020/12/MTB-118-1-juego-tematico-barco.jpg	image/jpeg	22475	parented_attachment
+6874	TEM-PR-03-20	Juego BARCO	publish	2020/12/modulo-barco-juegos-de-exterior.jpg	media/production/uploads/2020/12/modulo-barco-juegos-de-exterior.jpg	image/jpeg	25003	parented_attachment
+6874	TEM-PR-03-20	Juego BARCO	publish	2026/03/TEM-PR-03-00-MODULO-BARCO.avif	media/production/uploads/2026/03/TEM-PR-03-00-MODULO-BARCO.avif	image/avif	32147	parented_attachment
+6874	TEM-PR-03-20	Juego BARCO	publish	2026/07/Juego-Barco-TEM-PR-03-00-1.avif	media/production/uploads/2026/07/Juego-Barco-TEM-PR-03-00-1.avif	image/avif	32687	featured_image
+6874	TEM-PR-03-20	Juego BARCO	publish	2026/07/Juego-Barco-TEM-PR-03-00-im.avif	media/production/uploads/2026/07/Juego-Barco-TEM-PR-03-00-im.avif	image/avif	32548	gallery_image
+6874	TEM-PR-03-20	Juego BARCO	publish	2026/07/Juego-Barco-TEM-PR-03-00-top.avif	media/production/uploads/2026/07/Juego-Barco-TEM-PR-03-00-top.avif	image/avif	32549	gallery_image
+6876	TEM-PR-04-20	Juego NAVIO	publish	2020/12/modulo-navio-juego-de-exterior.png	media/production/uploads/2020/12/modulo-navio-juego-de-exterior.png	image/png	25004	parented_attachment
+6876	TEM-PR-04-20	Juego NAVIO	publish	2026/03/TEM-PR-04-00-MODULO-NAVIO.avif	media/production/uploads/2026/03/TEM-PR-04-00-MODULO-NAVIO.avif	image/avif	32148	parented_attachment
+6876	TEM-PR-04-20	Juego NAVIO	publish	2026/07/Juego-Navio-TEM-PR-04-00-1.avif	media/production/uploads/2026/07/Juego-Navio-TEM-PR-04-00-1.avif	image/avif	32716	featured_image
+6876	TEM-PR-04-20	Juego NAVIO	publish	2026/07/Juego-Navio-TEM-PR-04-00-im.avif	media/production/uploads/2026/07/Juego-Navio-TEM-PR-04-00-im.avif	image/avif	32585	gallery_image
+6876	TEM-PR-04-20	Juego NAVIO	publish	2026/07/Juego-Navio-TEM-PR-04-00-top.avif	media/production/uploads/2026/07/Juego-Navio-TEM-PR-04-00-top.avif	image/avif	32586	gallery_image
+6884	TEM-PL-01-20	Juego Nave Titán	publish	2020/12/modulo-titan-nave-espacial-productos-jumbo.jpg	media/production/uploads/2020/12/modulo-titan-nave-espacial-productos-jumbo.jpg	image/jpeg	25946	parented_attachment
+6884	TEM-PL-01-20	Juego Nave Titán	publish	2026/03/TEM-PL-01-00-MODULO-NAVE-TITAN.avif	media/production/uploads/2026/03/TEM-PL-01-00-MODULO-NAVE-TITAN.avif	image/avif	32142	parented_attachment
+6884	TEM-PL-01-20	Juego Nave Titán	publish	2026/07/Juego-Nave-Titan-TEM-PL-01-00-im.avif	media/production/uploads/2026/07/Juego-Nave-Titan-TEM-PL-01-00-im.avif	image/avif	32582	gallery_image
+6884	TEM-PL-01-20	Juego Nave Titán	publish	2026/07/Juego-Nave-Titan-TEM-PL-01-00-top.avif	media/production/uploads/2026/07/Juego-Nave-Titan-TEM-PL-01-00-top.avif	image/avif	32583	gallery_image
+6884	TEM-PL-01-20	Juego Nave Titán	publish	2026/07/Juego-Nave-Titan-TEM-PL-01-00.avif	media/production/uploads/2026/07/Juego-Nave-Titan-TEM-PL-01-00.avif	image/avif	32584	featured_image
+6897	EVA-00-02-00	Juego ARACNIDUS	publish	2021/01/modulo-aracnidus-juego-para-trepar.jpg	media/production/uploads/2021/01/modulo-aracnidus-juego-para-trepar.jpg	image/jpeg	25009	parented_attachment
+6897	EVA-00-02-00	Juego ARACNIDUS	publish	2026/03/EVA-00-02-00-MODULO-ARACNIDUS.avif	media/production/uploads/2026/03/EVA-00-02-00-MODULO-ARACNIDUS.avif	image/avif	32150	featured_image | parented_attachment
+6899	EVA-PR-03-00	Private: Juego Capri (EVA-114-1)	private	2021/01/EVA-114-1-modulo-capri-para-escalar-2.jpg	media/production/uploads/2021/01/EVA-114-1-modulo-capri-para-escalar-2.jpg	image/jpeg	22485	gallery_image | parented_attachment
+6899	EVA-PR-03-00	Private: Juego Capri (EVA-114-1)	private	2021/01/EVA-114-1-modulo-capri-para-escalar-3.jpg	media/production/uploads/2021/01/EVA-114-1-modulo-capri-para-escalar-3.jpg	image/jpeg	22486	gallery_image | parented_attachment
+6899	EVA-PR-03-00	Private: Juego Capri (EVA-114-1)	private	2021/01/EVA-114-1-modulo-capri-para-escalar.jpg	media/production/uploads/2021/01/EVA-114-1-modulo-capri-para-escalar.jpg	image/jpeg	22484	gallery_image | parented_attachment
+6899	EVA-PR-03-00	Private: Juego Capri (EVA-114-1)	private	2021/01/modulo-capri-juego-para-escalar.jpg	media/production/uploads/2021/01/modulo-capri-juego-para-escalar.jpg	image/jpeg	25296	featured_image | parented_attachment
+6910	EVA-PL-01-00	Juego GENERATION	publish	2021/01/EVA-618-Trepadero-Generation-9.jpg	media/production/uploads/2021/01/EVA-618-Trepadero-Generation-9.jpg	image/jpeg	22490	gallery_image | parented_attachment
+6910	EVA-PL-01-00	Juego GENERATION	publish	2021/01/EVA-618-Trepadero-Generation.jpg	media/production/uploads/2021/01/EVA-618-Trepadero-Generation.jpg	image/jpeg	22491	gallery_image | parented_attachment
+6910	EVA-PL-01-00	Juego GENERATION	publish	2021/01/eva-618-modulo-generation.png	media/production/uploads/2021/01/eva-618-modulo-generation.png	image/png	22618	parented_attachment
+6910	EVA-PL-01-00	Juego GENERATION	publish	2026/03/EVA-PL-01-00-MODULO-GENERATION.avif	media/production/uploads/2026/03/EVA-PL-01-00-MODULO-GENERATION.avif	image/avif	32152	featured_image | parented_attachment
+6916	TRE-CU-03-01	TREPADERO PIRAMIDE CHICA	publish	2021/01/ITR-119-Temp0001.png	media/production/uploads/2021/01/ITR-119-Temp0001.png	image/png	6917	parented_attachment
+6916	TRE-CU-03-01	TREPADERO PIRAMIDE CHICA	publish	2021/01/productos_jumbo_piramide_de_red_retos_bajos_juegos_infantiles_de_cuerdas_juegos_infantiles_para_exterior.jpg	media/production/uploads/2021/01/productos_jumbo_piramide_de_red_retos_bajos_juegos_infantiles_de_cuerdas_juegos_infantiles_para_exterior.jpg	image/jpeg	29142	featured_image | parented_attachment
+6918	TRE-CU-05-00	TREPADERO TRIKON	publish	2021/01/Trepadeo-Trikon-ITR-918-juego-infantil.jpg	media/production/uploads/2021/01/Trepadeo-Trikon-ITR-918-juego-infantil.jpg	image/jpeg	22518	gallery_image | parented_attachment
+6918	TRE-CU-05-00	TREPADERO TRIKON	publish	2021/01/Trepadeo-Trikon-ITR-918-juego-infantil2.jpg	media/production/uploads/2021/01/Trepadeo-Trikon-ITR-918-juego-infantil2.jpg	image/jpeg	22519	gallery_image | parented_attachment
+6918	TRE-CU-05-00	TREPADERO TRIKON	publish	2021/01/Trepadeo-Trikon-ITR-918-juego-infantil3.jpg	media/production/uploads/2021/01/Trepadeo-Trikon-ITR-918-juego-infantil3.jpg	image/jpeg	22520	gallery_image | parented_attachment
+6918	TRE-CU-05-00	TREPADERO TRIKON	publish	2021/01/Trepadeo-Trikon-ITR-918-juego-infantil4.jpg	media/production/uploads/2021/01/Trepadeo-Trikon-ITR-918-juego-infantil4.jpg	image/jpeg	22521	gallery_image | parented_attachment
+6918	TRE-CU-05-00	TREPADERO TRIKON	publish	2021/01/modulo-trikon-juego-de-cuerdas.jpg	media/production/uploads/2021/01/modulo-trikon-juego-de-cuerdas.jpg	image/jpeg	25016	parented_attachment
+6918	TRE-CU-05-00	TREPADERO TRIKON	publish	2026/03/TRE-CU-05-00-TREPADERO-TRIKON.avif	media/production/uploads/2026/03/TRE-CU-05-00-TREPADERO-TRIKON.avif	image/avif	32154	featured_image | parented_attachment
+6920	TRE-PL-01-00	TREPADERO GEODESICO	publish	2021/01/modulo-trepadero-geodesico.jpg	media/production/uploads/2021/01/modulo-trepadero-geodesico.jpg	image/jpeg	25015	parented_attachment
+6920	TRE-PL-01-00	TREPADERO GEODESICO	publish	2026/03/TRE-PL-01-00-TREPADERO-GEODESICO.avif	media/production/uploads/2026/03/TRE-PL-01-00-TREPADERO-GEODESICO.avif	image/avif	32153	featured_image | parented_attachment
+6928	TRE-00-02-00	TREPADERO TRIPLEX	publish	2021/01/ITR-215-TREPADERO-TRIPLEX-web.jpg	media/production/uploads/2021/01/ITR-215-TREPADERO-TRIPLEX-web.jpg	image/jpeg	22504	gallery_image | parented_attachment
+6928	TRE-00-02-00	TREPADERO TRIPLEX	publish	2021/01/ITR-215-Trepadero-Triplex-1.png	media/production/uploads/2021/01/ITR-215-Trepadero-Triplex-1.png	image/png	6929	featured_image | parented_attachment
+6930	TRE-00-03-00	TREPADERO MEDIA ESFERA	publish	2021/01/ITE-114-trepadero-mediaesfera-web.jpg	media/production/uploads/2021/01/ITE-114-trepadero-mediaesfera-web.jpg	image/jpeg	22510	gallery_image | parented_attachment
+6930	TRE-00-03-00	TREPADERO MEDIA ESFERA	publish	2021/01/ITE-114-trepadero-mediaesfera-web2.jpg	media/production/uploads/2021/01/ITE-114-trepadero-mediaesfera-web2.jpg	image/jpeg	22511	gallery_image | parented_attachment
+6930	TRE-00-03-00	TREPADERO MEDIA ESFERA	publish	2021/01/trepadero-media-esfera-productos-jumbo.jpg	media/production/uploads/2021/01/trepadero-media-esfera-productos-jumbo.jpg	image/jpeg	25972	featured_image | parented_attachment
+6934	TRE-TM-02-00	TREPADERO DINOSAURIO	publish	2021/01/ITR-317-Trepadero-Dinosaurio-actualizado-Temp0016.png	media/production/uploads/2021/01/ITR-317-Trepadero-Dinosaurio-actualizado-Temp0016.png	image/png	6935	featured_image | parented_attachment
+6934	TRE-TM-02-00	TREPADERO DINOSAURIO	publish	2021/01/trepadero-dinosaurio-web.jpg	media/production/uploads/2021/01/trepadero-dinosaurio-web.jpg	image/jpeg	22508	gallery_image | parented_attachment
+6934	TRE-TM-02-00	TREPADERO DINOSAURIO	publish	2021/01/trepadero-dinosaurio-web1.jpg	media/production/uploads/2021/01/trepadero-dinosaurio-web1.jpg	image/jpeg	22509	gallery_image | parented_attachment
+6942	TRE-TM-03-00	TREPADERO BALLENA	publish	2021/01/ITR-217-TREPADERO-BALLENA-web.jpg	media/production/uploads/2021/01/ITR-217-TREPADERO-BALLENA-web.jpg	image/jpeg	22507	gallery_image | parented_attachment
+6942	TRE-TM-03-00	TREPADERO BALLENA	publish	2021/01/trepadero-ballena-TRE-TM-03-00.jpg	media/production/uploads/2021/01/trepadero-ballena-TRE-TM-03-00.jpg	image/jpeg	24837	featured_image | parented_attachment
+6944	TRE-TM-05-00	TREPADERO TORTUGA	publish	2021/01/TOR-111-Tortuga.png	media/production/uploads/2021/01/TOR-111-Tortuga.png	image/png	6945	featured_image | parented_attachment
+6962	COL-AB-10-00	COLUMPIO RESIDENCIAL 2 CANASTILLAS	publish	2021/01/CR-1-Columpios-Residencial-1.png	media/production/uploads/2021/01/CR-1-Columpios-Residencial-1.png	image/png	6963	featured_image | parented_attachment
+6964	CON-CR-04-00	CONJUNTO RESIDENCIAL, COLUMPIOS Y BAJADA COMPUESTO PLASTICO REFORZADO 2.40M	publish	2021/01/CR-54-Conjunto-Residencial-1.png	media/production/uploads/2021/01/CR-54-Conjunto-Residencial-1.png	image/png	6965	featured_image | parented_attachment
+6972	GIR-00-01-00	GIRATORIO ORBIT S	publish	2021/01/montable-orbits-juego-giratorio.png	media/production/uploads/2021/01/montable-orbits-juego-giratorio.png	image/png	25031	featured_image | parented_attachment
+6985	IRE-PL-05-00	MONTABLE GLOBFLEX	publish	2021/01/montable-globflex-juego-para-casas.png	media/production/uploads/2021/01/montable-globflex-juego-para-casas.png	image/png	25032	featured_image | parented_attachment
+6985	IRE-PL-05-00	MONTABLE GLOBFLEX	publish	2022/12/juego-de-caballo-montable-en-puebla.jpg	media/production/uploads/2022/12/juego-de-caballo-montable-en-puebla.jpg	image/jpeg	24580	gallery_image
+6992	IRE-PL-01-00	MONTABLE ABEJA	publish	2021/01/IRE-116-montable-abeja.jpg	media/production/uploads/2021/01/IRE-116-montable-abeja.jpg	image/jpeg	22578	gallery_image | parented_attachment
+6992	IRE-PL-01-00	MONTABLE ABEJA	publish	2021/01/montable-abeja-juego-infantil.png	media/production/uploads/2021/01/montable-abeja-juego-infantil.png	image/png	25026	featured_image | parented_attachment
+6994	IRE-00-01-00	MONTABLE BASICO	publish	2021/01/montable-basico-juego-para-escuelas.png	media/production/uploads/2021/01/montable-basico-juego-para-escuelas.png	image/png	25025	featured_image | parented_attachment
+6997	IRE-PL-03-00	MONTABLE MOTO	publish	2021/01/IRE-416-Moto-1.png	media/production/uploads/2021/01/IRE-416-Moto-1.png	image/png	6998	parented_attachment
+6997	IRE-PL-03-00	MONTABLE MOTO	publish	2021/01/IRE-416-moto-montable.jpg	media/production/uploads/2021/01/IRE-416-moto-montable.jpg	image/jpeg	22580	gallery_image | parented_attachment
+6997	IRE-PL-03-00	MONTABLE MOTO	publish	2026/03/IRE-PL-03-00-MONTABLE-MOTO.avif	media/production/uploads/2026/03/IRE-PL-03-00-MONTABLE-MOTO.avif	image/avif	32160	featured_image | parented_attachment
+7000	IRE-PL-08-00	MONTABLE DELFIN	publish	2021/01/montable-delfin-juego-para-jardines.png	media/production/uploads/2021/01/montable-delfin-juego-para-jardines.png	image/png	25024	featured_image | parented_attachment
+7003	IRE-PL-02-00	MONTABLE CAMION	publish	2021/01/IRE-216-Camioncito-1.png	media/production/uploads/2021/01/IRE-216-Camioncito-1.png	image/png	7005	parented_attachment
+7003	IRE-PL-02-00	MONTABLE CAMION	publish	2021/01/IRE-216-camion-montable.jpg	media/production/uploads/2021/01/IRE-216-camion-montable.jpg	image/jpeg	22579	gallery_image | parented_attachment
+7003	IRE-PL-02-00	MONTABLE CAMION	publish	2026/03/IRE-PL-02-00-MONTABLE-CAMION.avif	media/production/uploads/2026/03/IRE-PL-02-00-MONTABLE-CAMION.avif	image/avif	32159	featured_image | parented_attachment
+7009	RES-PL-04-00	RESBALADILLA RACER	publish	2021/01/resbaladilla-racer.jpg	media/production/uploads/2021/01/resbaladilla-racer.jpg	image/jpeg	25040	featured_image | parented_attachment
+7012	RES-00-01-00	RESBALADILLA LAM DE 2.40MT	publish	2021/01/resbaladilla-de-lamina-2m.png	media/production/uploads/2021/01/resbaladilla-de-lamina-2m.png	image/png	25038	featured_image | parented_attachment
+7014	RES-00-02-00	RESBALADILLA LAMINA DE 3MT	publish	2021/01/resbaladilla-de-lamina-3m.png	media/production/uploads/2021/01/resbaladilla-de-lamina-3m.png	image/png	25037	featured_image | parented_attachment
+7017	RES-PP-01-00	RESBALADILLA OLAS DE PLASTICO	publish	2021/01/RPP-112-Resbaladilla-1.png	media/production/uploads/2021/01/RPP-112-Resbaladilla-1.png	image/png	7025	featured_image | parented_attachment
+7039	SUB-00-01-01	SUBE Y BAJA DOBLE	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+7039	SUB-00-01-01	SUBE Y BAJA DOBLE	publish	2021/01/sube-y-baja-doble-para-parques.jpg	media/production/uploads/2021/01/sube-y-baja-doble-para-parques.jpg	image/jpeg	22021	gallery_image | parented_attachment
+7039	SUB-00-01-01	SUBE Y BAJA DOBLE	publish	2021/01/sube-y-baja-doble.png	media/production/uploads/2021/01/sube-y-baja-doble.png	image/png	25044	featured_image | parented_attachment
+7043	SUB-00-01-02	SUBE Y BAJA TRIPLE	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+7043	SUB-00-01-02	SUBE Y BAJA TRIPLE	publish	2021/01/sube-y-baja-triple-para-parques.jpg	media/production/uploads/2021/01/sube-y-baja-triple-para-parques.jpg	image/jpeg	22020	gallery_image | parented_attachment
+7043	SUB-00-01-02	SUBE Y BAJA TRIPLE	publish	2021/01/sube-y-baja-triple.png	media/production/uploads/2021/01/sube-y-baja-triple.png	image/png	25045	featured_image | parented_attachment
+7044	MES-PT-02-00	Mesa Iluminada para Arena (PTJ-MIS-320)	draft	2021/01/PTJ-MIS-320.png	media/production/uploads/2021/01/PTJ-MIS-320.png	image/png	7045	featured_image | parented_attachment
+7044	MES-PT-02-00	Mesa Iluminada para Arena (PTJ-MIS-320)	draft	2021/01/mesa-iluminada-con-arena-jumbo.jpg	media/production/uploads/2021/01/mesa-iluminada-con-arena-jumbo.jpg	image/jpeg	25242	gallery_image | parented_attachment
+7047	SUB-00-01-00	SUBE Y BAJA SENCILLO	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+7047	SUB-00-01-00	SUBE Y BAJA SENCILLO	publish	2021/01/sube-y-baja-para-parques.jpg	media/production/uploads/2021/01/sube-y-baja-para-parques.jpg	image/jpeg	25308	gallery_image | parented_attachment
+7047	SUB-00-01-00	SUBE Y BAJA SENCILLO	publish	2021/01/sube-y-baja-sencillo.png	media/production/uploads/2021/01/sube-y-baja-sencillo.png	image/png	25043	featured_image | parented_attachment
+7060	SUB-00-02-01	SUBE Y BAJA PULPO	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+7060	SUB-00-02-01	SUBE Y BAJA PULPO	publish	2021/01/sube-y-baja-doble-pulpo.png	media/production/uploads/2021/01/sube-y-baja-doble-pulpo.png	image/png	25046	featured_image | parented_attachment
+7060	SUB-00-02-01	SUBE Y BAJA PULPO	publish	2021/01/sube-y-baja-parques-pulpo.jpg	media/production/uploads/2021/01/sube-y-baja-parques-pulpo.jpg	image/jpeg	22022	gallery_image | parented_attachment
+7065	SUB-PL-01-00	SUBE Y BAJA BALLENA	publish	2021/01/sube-y-baja-ballena.jpg	media/production/uploads/2021/01/sube-y-baja-ballena.jpg	image/jpeg	25042	featured_image | parented_attachment
+7066	SUB-00-02-02	SUBE Y BAJA PULPO TRIPLE	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+7066	SUB-00-02-02	SUBE Y BAJA PULPO TRIPLE	publish	2021/01/sube-y-baja-triple-pulpo.png	media/production/uploads/2021/01/sube-y-baja-triple-pulpo.png	image/png	25047	featured_image | parented_attachment
+7077	COL-CR-03-00	Pasamanos Curvo con Canastilla Compuesto Plástico Reforzado	publish	2021/01/PPC-112-Pasamanos-con-canastilla-1.png	media/production/uploads/2021/01/PPC-112-Pasamanos-con-canastilla-1.png	image/png	7079	featured_image | parented_attachment
+7081	PAS-00-01-00	PASAMANOS IDA Y VUELTA	publish	2021/01/PIV-111-Pasamanos-Ida-y-Vuelta-1.png	media/production/uploads/2021/01/PIV-111-Pasamanos-Ida-y-Vuelta-1.png	image/png	7085	featured_image | parented_attachment
+7086	PAS-00-02-00	PASAMANOS ONDULADO 2 x 3 MTS.	publish	2021/01/PPO-124-Pasamanos-ondulado.png	media/production/uploads/2021/01/PPO-124-Pasamanos-ondulado.png	image/png	7088	featured_image | parented_attachment
+7089	PAS-00-03-00	PASAMANOS RECTO 2 X 3 MTS.	publish	2021/01/PPN-122-Pasamanos-Recto.png	media/production/uploads/2021/01/PPN-122-Pasamanos-Recto.png	image/png	7090	featured_image | parented_attachment
+7091	INT-PL-04-00	PANELES INTERACTIVOS	publish	2021/01/paneles-interactivos.jpg	media/production/uploads/2021/01/paneles-interactivos.jpg	image/jpeg	25073	featured_image | parented_attachment
+7100	INT-PL-02-00	PANEL INTERACTIVO MUÑECOS	publish	2021/01/panel-interactivo-munecos.jpg	media/production/uploads/2021/01/panel-interactivo-munecos.jpg	image/jpeg	25072	featured_image | parented_attachment
+7103	INT-PL-03-00	PANEL INTERACTIVO LABERINTO	publish	2021/01/panel-interactivo-laberinto.jpg	media/production/uploads/2021/01/panel-interactivo-laberinto.jpg	image/jpeg	25071	featured_image | parented_attachment
+7120	EOS-IN-02-00	Juego URBANO INCLUSIVO	publish	2021/01/modulo-inclusivo-urbano.png	media/production/uploads/2021/01/modulo-inclusivo-urbano.png	image/png	25050	parented_attachment
+7120	EOS-IN-02-00	Juego URBANO INCLUSIVO	publish	2026/03/EOS-IN-02-00-MODULO-URBANO-INCLUSIVO.avif	media/production/uploads/2026/03/EOS-IN-02-00-MODULO-URBANO-INCLUSIVO.avif	image/avif	32162	featured_image | parented_attachment
+7122	EOS-IN-05-00	Juego Maine Inclusivo (EOS-1612 7.0 DC)	draft	2021/01/EOS-1612-7.0-DC-Maine-2-AJ.png	media/production/uploads/2021/01/EOS-1612-7.0-DC-Maine-2-AJ.png	image/png	24058	featured_image | parented_attachment
+7122	EOS-IN-05-00	Juego Maine Inclusivo (EOS-1612 7.0 DC)	draft	2021/01/maine-eos-61270dc-juego-inclusivo-web.jpg	media/production/uploads/2021/01/maine-eos-61270dc-juego-inclusivo-web.jpg	image/jpeg	22622	gallery_image | parented_attachment
+7122	EOS-IN-05-00	Juego Maine Inclusivo (EOS-1612 7.0 DC)	draft	2021/01/maine-eos-61270dc-juego-inclusivo-web2.jpg	media/production/uploads/2021/01/maine-eos-61270dc-juego-inclusivo-web2.jpg	image/jpeg	22623	gallery_image | parented_attachment
+7124	EOS-IN-01-00	Juego MILWUAKEE INCLUSIVO	publish	2021/01/A-editado-.png	media/production/uploads/2021/01/A-editado-.png	image/png	24041	parented_attachment
+7124	EOS-IN-01-00	Juego MILWUAKEE INCLUSIVO	publish	2021/01/juego-inclusivo-milwauke.jpg	media/production/uploads/2021/01/juego-inclusivo-milwauke.jpg	image/jpeg	22104	gallery_image | parented_attachment
+7124	EOS-IN-01-00	Juego MILWUAKEE INCLUSIVO	publish	2021/01/juego-incluyente-milwauke.jpg	media/production/uploads/2021/01/juego-incluyente-milwauke.jpg	image/jpeg	22105	gallery_image | parented_attachment
+7124	EOS-IN-01-00	Juego MILWUAKEE INCLUSIVO	publish	2021/01/juego-para-silla-de-ruedas-milwauke.jpg	media/production/uploads/2021/01/juego-para-silla-de-ruedas-milwauke.jpg	image/jpeg	22106	gallery_image | parented_attachment
+7124	EOS-IN-01-00	Juego MILWUAKEE INCLUSIVO	publish	2021/01/modulo-milwake-juego-inclusivo-jumbo.jpg	media/production/uploads/2021/01/modulo-milwake-juego-inclusivo-jumbo.jpg	image/jpeg	25297	parented_attachment
+7124	EOS-IN-01-00	Juego MILWUAKEE INCLUSIVO	publish	2026/03/EOS-IN-01-00-MODULO-MILWUAKEE-INCLUSIVO.avif	media/production/uploads/2026/03/EOS-IN-01-00-MODULO-MILWUAKEE-INCLUSIVO.avif	image/avif	32161	featured_image | parented_attachment
+7126	EOS-IN-04-00	Juego Indiana Inclusivo (EOS-1210 7.0 DC)	draft	2021/01/EOS-1210-7.0-DC-Indiana.png	media/production/uploads/2021/01/EOS-1210-7.0-DC-Indiana.png	image/png	7132	featured_image | parented_attachment
+7137	JAM-119	AQUA JUM1	publish	2021/01/JAM-119.png	media/production/uploads/2021/01/JAM-119.png	image/png	7143	featured_image | parented_attachment
+7145	JAM-219	AQUA JUM2	publish	2021/01/JAM-119.png	media/production/uploads/2021/01/JAM-119.png	image/png	7143	featured_image
+7145	JAM-219	AQUA JUM2	publish	2021/01/JAM-219.png	media/production/uploads/2021/01/JAM-219.png	image/png	7148	parented_attachment
+7150	JAM-319	AQUA JUM3	publish	2021/01/JAM-319.png	media/production/uploads/2021/01/JAM-319.png	image/png	7151	featured_image | parented_attachment
+7153	JAM-419	AQUA JUM4	publish	2021/01/JAI-419.png	media/production/uploads/2021/01/JAI-419.png	image/png	7155	parented_attachment
+7153	JAM-419	AQUA JUM4	publish	2021/01/JAM-419.png	media/production/uploads/2021/01/JAM-419.png	image/png	7301	featured_image | parented_attachment
+7156	JAM-519	AQUA JUM5	publish	2021/01/JAI-519.png	media/production/uploads/2021/01/JAI-519.png	image/png	7159	parented_attachment
+7156	JAM-519	AQUA JUM5	publish	2021/01/JAM-519.png	media/production/uploads/2021/01/JAM-519.png	image/png	7302	featured_image | parented_attachment
+7167	JAI-419	ARCO SPRAY	publish	2021/01/JAI-419-1.png	media/production/uploads/2021/01/JAI-419-1.png	image/png	7168	featured_image | parented_attachment
+7169	JAI-519	Bolardo Spray	publish	2021/01/JAI-519-1.png	media/production/uploads/2021/01/JAI-519-1.png	image/png	7170	featured_image | parented_attachment
+7171	JAI-619	SPRAY S	publish	2021/01/JAI-619.png	media/production/uploads/2021/01/JAI-619.png	image/png	7172	featured_image | parented_attachment
+7173	JAI-819	PALMERA LLUVIA	publish	2021/01/JAI-719.png	media/production/uploads/2021/01/JAI-719.png	image/png	7174	parented_attachment
+7173	JAI-819	PALMERA LLUVIA	publish	2021/01/JAI-819.png	media/production/uploads/2021/01/JAI-819.png	image/png	7176	featured_image | parented_attachment
+7177	JAI-919	SOMBRILLA LLUVIA	publish	2021/01/JAI-919.png	media/production/uploads/2021/01/JAI-919.png	image/png	7178	featured_image | parented_attachment
+7224	PASART-25	Pasto Artificial 25mm de altura	publish	2021/01/pasto-sintetico-productos-jumbo.jpg	media/production/uploads/2021/01/pasto-sintetico-productos-jumbo.jpg	image/jpeg	25977	featured_image | parented_attachment
+7228	PASART-45	Pasto Artificial 45mm de altura	publish	2021/01/pasto-sintetico-productos-jumbo.jpg	media/production/uploads/2021/01/pasto-sintetico-productos-jumbo.jpg	image/jpeg	25977	featured_image
+7230	PASART-45-BL	Pasto Artificial 45mm de altura 850grs Color Blanco	publish	2021/01/PASART-20-BL.png	media/production/uploads/2021/01/PASART-20-BL.png	image/png	7317	featured_image | parented_attachment
+7232	PASART-45-AM	Pasto Artificial 45 mm de altura 850grs Color Amarillo	publish	2021/01/PASART-20-AM.png	media/production/uploads/2021/01/PASART-20-AM.png	image/png	7318	featured_image | parented_attachment
+7233	PASART-45-RO	Pasto Artificial 45 mm de altura 850grs Color Rojo	publish	2021/01/PASART-20-RO.png	media/production/uploads/2021/01/PASART-20-RO.png	image/png	7319	featured_image | parented_attachment
+7235	PASART-45-AZ	Pasto Artificial 45 mm de altura 850grs Color Azul	publish	2021/01/PASART-20-AZ.png	media/production/uploads/2021/01/PASART-20-AZ.png	image/png	7320	featured_image | parented_attachment
+7243	PTJ-MGB-220	Dexia Bote con iluminacion	publish	2021/01/PTJ-MGB-220.png	media/production/uploads/2021/01/PTJ-MGB-220.png	image/png	7244	featured_image | parented_attachment
+7254	PGR-50	Piso de Loseta de Caucho Rojo Chispa	publish	2021/01/Loseta-Rojo-chispa-PGR-50.jpg	media/production/uploads/2021/01/Loseta-Rojo-chispa-PGR-50.jpg	image/jpeg	23025	featured_image | parented_attachment
+7255	PGN-60	Piso de Loseta de Caucho Negro Chispa	publish	2021/01/Loseta-negro-Chispa-premium-PGN-60.jpg	media/production/uploads/2021/01/Loseta-negro-Chispa-premium-PGN-60.jpg	image/jpeg	23023	featured_image | parented_attachment
+7260	PGK-50	Piso de Loseta de Caucho Kaki	publish	2021/01/Loseta-kaki-premium-PGK-50.jpg	media/production/uploads/2021/01/Loseta-kaki-premium-PGK-50.jpg	image/jpeg	23019	featured_image | parented_attachment
+7261	PGG-50	Piso de Loseta de Caucho Gris	publish	2021/01/Loseta-Gris-premium-PGG-50.jpg	media/production/uploads/2021/01/Loseta-Gris-premium-PGG-50.jpg	image/jpeg	23029	featured_image | parented_attachment
+7262	MUA-217 A-P	Banca fuji A.	draft	2021/01/MUA-217-A-P.png	media/production/uploads/2021/01/MUA-217-A-P.png	image/png	7264	featured_image | parented_attachment
+7263	PGCA-50	Piso de Loseta de Caucho Cafe	publish	2021/01/Loseta-Cafe-premium-PGCA-50.jpg	media/production/uploads/2021/01/Loseta-Cafe-premium-PGCA-50.jpg	image/jpeg	23028	featured_image | parented_attachment
+7265	MUA-217 B-P	Banca fuji B.	draft	2021/01/MUA-217-B-P.png	media/production/uploads/2021/01/MUA-217-B-P.png	image/png	7267	featured_image | parented_attachment
+7266	PGN-50	Piso de Loseta de Caucho Negro	publish	2021/01/Loseta-negro-premium-PGN-50.jpg	media/production/uploads/2021/01/Loseta-negro-premium-PGN-50.jpg	image/jpeg	23018	featured_image | parented_attachment
+7269	LBGR-50	Loseta Burbuja Terracota	publish	2021/01/loseta-burbuja-terracota-con-base.png	media/production/uploads/2021/01/loseta-burbuja-terracota-con-base.png	image/png	7475	featured_image | parented_attachment
+7269	LBGR-50	Loseta Burbuja Terracota	publish	2021/01/loseta-burbuja-verde-con-base.png	media/production/uploads/2021/01/loseta-burbuja-verde-con-base.png	image/png	7474	parented_attachment
+7272	LBGA-50	Loseta Burbuja Azul Marino	publish	2021/01/loseta-burbuja-Azul-con-base.png	media/production/uploads/2021/01/loseta-burbuja-Azul-con-base.png	image/png	7476	featured_image | parented_attachment
+7273	LBGV-50	Loseta Burbuja Verde	publish	2021/01/loseta-burbuja-verde-con-base.png	media/production/uploads/2021/01/loseta-burbuja-verde-con-base.png	image/png	7474	featured_image
+7275	PPG1-1	Private: JUMBO RUBBER PG1 A 1 CM	private	2021/01/rubber-5.png	media/production/uploads/2021/01/rubber-5.png	image/png	7412	featured_image | parented_attachment
+7277	PPG1-2	Private: JUMBO RUBBER PG1 A 2 CM	private	2021/01/rubber-4.png	media/production/uploads/2021/01/rubber-4.png	image/png	7413	featured_image | parented_attachment
+7278	INOX-214B	Private: Aparcabicicleta Two Circular	private	2021/01/INOX-214B.png	media/production/uploads/2021/01/INOX-214B.png	image/png	7287	featured_image | parented_attachment
+7279	PPG1-4	Private: JUMBO RUBBER PG1 A 3 CM	private	2021/01/rubber-3.png	media/production/uploads/2021/01/rubber-3.png	image/png	7414	featured_image | parented_attachment
+7281	PPG1-4-1	Private: JUMBO RUBBER PG1 A 4 CM	private	2021/01/rubber-6.png	media/production/uploads/2021/01/rubber-6.png	image/png	7415	featured_image | parented_attachment
+7286	PPTT-13	JUMBO RUBBER SPORT TIPO TARTAN A 13 MM	publish	2021/01/tartan.png	media/production/uploads/2021/01/tartan.png	image/png	7380	featured_image | parented_attachment
+7292	BAN-CR-04-00	BANCA VINSONS KLEIN	publish	2021/01/MUA-120.png	media/production/uploads/2021/01/MUA-120.png	image/png	7293	featured_image | parented_attachment
+7303	JAI-719	PULPO SPRAY	publish	2021/01/JAI-719.png	media/production/uploads/2021/01/JAI-719.png	image/png	7174	featured_image
+7383	EL-118-4C	INFINITO	publish	2021/01/EL-118-AJUSTADA.png	media/production/uploads/2021/01/EL-118-AJUSTADA.png	image/png	7595	parented_attachment
+7383	EL-118-4C	INFINITO	publish	2021/01/datosbotelogoariel2.png	media/production/uploads/2021/01/datosbotelogoariel2.png	image/png	19273	content_url
+7383	EL-118-4C	INFINITO	publish	2021/01/juego-infantil-escultura.jpg	media/production/uploads/2021/01/juego-infantil-escultura.jpg	image/jpeg	21839	parented_attachment
+7383	EL-118-4C	INFINITO	publish	2021/01/juego-ludico-infantil.jpg	media/production/uploads/2021/01/juego-ludico-infantil.jpg	image/jpeg	21840	gallery_image | parented_attachment
+7383	EL-118-4C	INFINITO	publish	2021/01/juego-para-parque-de-jumbo-infinito.jpg	media/production/uploads/2021/01/juego-para-parque-de-jumbo-infinito.jpg	image/jpeg	24937	parented_attachment
+7383	EL-118-4C	INFINITO	publish	2021/01/modulo-infinito-escultura-ludica.jpg	media/production/uploads/2021/01/modulo-infinito-escultura-ludica.jpg	image/jpeg	24942	featured_image | parented_attachment
+7395	EL-619-4C	TRAPIST	publish	2021/01/EL-619-1.png	media/production/uploads/2021/01/EL-619-1.png	image/png	21851	gallery_image | parented_attachment
+7395	EL-619-4C	TRAPIST	publish	2021/01/EL-619.png	media/production/uploads/2021/01/EL-619.png	image/png	7396	featured_image | parented_attachment
+7395	EL-619-4C	TRAPIST	publish	2021/01/datosbotelogoariel2.png	media/production/uploads/2021/01/datosbotelogoariel2.png	image/png	19273	content_url
+7395	EL-619-4C	TRAPIST	publish	2021/11/esculturas-ludicas-recreativas.png	media/production/uploads/2021/11/esculturas-ludicas-recreativas.png	image/png	21351	gallery_image
+7405	EL-1519-4C	MILLER	publish	2021/01/EL-1519-AEREA.png	media/production/uploads/2021/01/EL-1519-AEREA.png	image/png	21854	gallery_image | parented_attachment
+7405	EL-1519-4C	MILLER	publish	2021/01/EL-1519-LATERAL.png	media/production/uploads/2021/01/EL-1519-LATERAL.png	image/png	21855	gallery_image | parented_attachment
+7405	EL-1519-4C	MILLER	publish	2021/01/datosbotelogoariel2.png	media/production/uploads/2021/01/datosbotelogoariel2.png	image/png	19273	content_url
+7405	EL-1519-4C	MILLER	publish	2021/01/escultura-ludica-miller.jpg	media/production/uploads/2021/01/escultura-ludica-miller.jpg	image/jpeg	24950	featured_image | parented_attachment
+7405	EL-1519-4C	MILLER	publish	2021/01/miller-juegos-increibles-para-parques.jpg	media/production/uploads/2021/01/miller-juegos-increibles-para-parques.jpg	image/jpeg	21856	gallery_image | parented_attachment
+7407	EL-1619-4C	SIRIUS	publish	2021/01/EL-1619-LATERAL.png	media/production/uploads/2021/01/EL-1619-LATERAL.png	image/png	21860	gallery_image | parented_attachment
+7407	EL-1619-4C	SIRIUS	publish	2021/01/EL-1619-SIN-PERNOS-TOP.png	media/production/uploads/2021/01/EL-1619-SIN-PERNOS-TOP.png	image/png	21859	gallery_image | parented_attachment
+7407	EL-1619-4C	SIRIUS	publish	2021/01/datosbotelogoariel2.png	media/production/uploads/2021/01/datosbotelogoariel2.png	image/png	19273	content_url
+7407	EL-1619-4C	SIRIUS	publish	2021/01/modulo-recreativo-sirius.jpg	media/production/uploads/2021/01/modulo-recreativo-sirius.jpg	image/jpeg	24948	featured_image | parented_attachment
+7407	EL-1619-4C	SIRIUS	publish	2021/01/sirius-juego-para-haciendas-hoteles.jpg	media/production/uploads/2021/01/sirius-juego-para-haciendas-hoteles.jpg	image/jpeg	21861	gallery_image | parented_attachment
+7411	COL-PT-02-00	COLUMPIO LUCENDI	publish	2021/01/PTJ-217.png	media/production/uploads/2021/01/PTJ-217.png	image/png	7452	parented_attachment
+7411	COL-PT-02-00	COLUMPIO LUCENDI	publish	2021/01/columpio-interactivo-jumbo.jpg	media/production/uploads/2021/01/columpio-interactivo-jumbo.jpg	image/jpeg	25239	parented_attachment
+7411	COL-PT-02-00	COLUMPIO LUCENDI	publish	2021/01/productos_jumbo_columpio_lucendi_con_luz.png	media/production/uploads/2021/01/productos_jumbo_columpio_lucendi_con_luz.png	image/png	28589	featured_image | parented_attachment
+7416	PPG1-3	JUMBO RUBBER SPORT PG1 A 3 MM	publish	2021/01/tartan-2.png	media/production/uploads/2021/01/tartan-2.png	image/png	7417	featured_image | parented_attachment
+7425	PIL-PT-02-00	LIGHT PILLAR	publish	2021/01/PTJ-617.png	media/production/uploads/2021/01/PTJ-617.png	image/png	7454	featured_image | parented_attachment
+7425	PIL-PT-02-00	LIGHT PILLAR	publish	2021/01/pilares-de-luz-jumbo.jpg	media/production/uploads/2021/01/pilares-de-luz-jumbo.jpg	image/jpeg	25238	gallery_image | parented_attachment
+7427	SUB-PT-01-00	SUBE Y BAJA LUCENDI	publish	2021/01/PTJ-116.png	media/production/uploads/2021/01/PTJ-116.png	image/png	7456	featured_image | parented_attachment
+7427	SUB-PT-01-00	SUBE Y BAJA LUCENDI	publish	2021/01/SUBE-Y-BAJA-INTERACTIVO.jpg	media/production/uploads/2021/01/SUBE-Y-BAJA-INTERACTIVO.jpg	image/jpeg	25236	gallery_image | parented_attachment
+7430	ALA-PT-01-00	Alas Lucendi (PTJ-118)	draft	2021/01/PTJ-118.png	media/production/uploads/2021/01/PTJ-118.png	image/png	7455	featured_image | parented_attachment
+7430	ALA-PT-01-00	Alas Lucendi (PTJ-118)	draft	2021/01/alas-de-luces-jumbo.jpg	media/production/uploads/2021/01/alas-de-luces-jumbo.jpg	image/jpeg	25237	gallery_image | parented_attachment
+7442	BAN-PT-06-00	Private: Banca de Luz (PTJ-BL)	private	2021/01/PTJ-BL.png	media/production/uploads/2021/01/PTJ-BL.png	image/png	7457	featured_image | parented_attachment
+7443	TUN-PT-01-00	TUNEL DE LUZ	publish	2021/01/TUNEL-SHOWROOM-1.png	media/production/uploads/2021/01/TUNEL-SHOWROOM-1.png	image/png	22341	featured_image | parented_attachment
+7443	TUN-PT-01-00	TUNEL DE LUZ	publish	2021/01/tunel-de-luz-jumbo.jpg	media/production/uploads/2021/01/tunel-de-luz-jumbo.jpg	image/jpeg	25240	gallery_image | parented_attachment
+7445	BAN-PT-04-00	BANCA LUCENDI	publish	2021/01/PTJ-218.png	media/production/uploads/2021/01/PTJ-218.png	image/png	7451	featured_image | parented_attachment
+7446	BAN-PT-05-00	BANCA MEDIA LUNA LUCENDI	publish	2021/01/PTJ-219.png	media/production/uploads/2021/01/PTJ-219.png	image/png	7469	featured_image | parented_attachment
+7450	TEM-PL-07-00	Juego MONSTRIKS	publish	2021/01/EOS-121.png	media/production/uploads/2021/01/EOS-121.png	image/png	7486	parented_attachment
+7450	TEM-PL-07-00	Juego MONSTRIKS	publish	2021/01/modulo-monstrik-EOS-121-2.jpg	media/production/uploads/2021/01/modulo-monstrik-EOS-121-2.jpg	image/jpeg	22478	gallery_image | parented_attachment
+7450	TEM-PL-07-00	Juego MONSTRIKS	publish	2021/01/modulo-monstrik-EOS-121.jpg	media/production/uploads/2021/01/modulo-monstrik-EOS-121.jpg	image/jpeg	22477	gallery_image | parented_attachment
+7450	TEM-PL-07-00	Juego MONSTRIKS	publish	2021/01/modulo-monstriks-juego-escuelas.jpg	media/production/uploads/2021/01/modulo-monstriks-juego-escuelas.jpg	image/jpeg	25218	parented_attachment
+7450	TEM-PL-07-00	Juego MONSTRIKS	publish	2026/03/TEM-PL-07-00-MODULO-MONSTRIKS.avif	media/production/uploads/2026/03/TEM-PL-07-00-MODULO-MONSTRIKS.avif	image/avif	32144	parented_attachment
+7450	TEM-PL-07-00	Juego MONSTRIKS	publish	2026/04/TEM-PL-07-00-MODULO-MONSTRIKS.avif	media/production/uploads/2026/04/TEM-PL-07-00-MODULO-MONSTRIKS.avif	image/avif	32247	featured_image
+7458	TEM-PR-09-00	Juego HORMIGUERO	publish	2021/01/modulo-hormiguero-juego-de-madera.jpg	media/production/uploads/2021/01/modulo-hormiguero-juego-de-madera.jpg	image/jpeg	25017	parented_attachment
+7458	TEM-PR-09-00	Juego HORMIGUERO	publish	2026/03/TEM-PR-09-00-MODULO-HORMIGUERO.avif	media/production/uploads/2026/03/TEM-PR-09-00-MODULO-HORMIGUERO.avif	image/avif	32151	featured_image | parented_attachment
+7463	TRE-CU-07-00	TREPADERO VITEX	publish	2021/01/ITR-621.png	media/production/uploads/2021/01/ITR-621.png	image/png	7495	featured_image | parented_attachment
+7464	TRE-CU-09-00	TREPADERO SALIX	publish	2021/01/ITR-721-1.png	media/production/uploads/2021/01/ITR-721-1.png	image/png	7497	featured_image | parented_attachment
+7466	RES-PP-01-01	RESBALADILLA TRIPLE OLAS DE PLASTICO	publish	2021/01/RPP-112-3.png	media/production/uploads/2021/01/RPP-112-3.png	image/png	7500	featured_image | parented_attachment
+7467	INT-PL-06-00	LABERINTO SENSORIAL	publish	2021/01/laberinto-sensorial.jpg	media/production/uploads/2021/01/laberinto-sensorial.jpg	image/jpeg	25068	featured_image | parented_attachment
+7479	BAN-PL-02-00	BANCA ONON	publish	2021/01/MUA-920.png	media/production/uploads/2021/01/MUA-920.png	image/png	7510	featured_image | parented_attachment
+7480	BAN-PP-05-00	BANCA IKA	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+7480	BAN-PP-05-00	BANCA IKA	publish	2021/01/MUA-520.png	media/production/uploads/2021/01/MUA-520.png	image/png	7512	featured_image | parented_attachment
+7491	MES-LP-01-01	MESA MERCATO DOPPIO	publish	2021/01/MUM-120-4.png	media/production/uploads/2021/01/MUM-120-4.png	image/png	7521	featured_image | parented_attachment
+7496	SEÑ-00-10-00	SEÑALETICA DIRECCIÓN	publish	2021/01/Senaletica-Direccion-ESI-920.jpg	media/production/uploads/2021/01/Senaletica-Direccion-ESI-920.jpg	image/jpeg	22646	featured_image | parented_attachment
+7505	BUS-00-01-00	PARABUS TECH	publish	2021/01/PB-220.png	media/production/uploads/2021/01/PB-220.png	image/png	7529	featured_image | parented_attachment
+7513	CAN-PL-09-00	MINI RAMPA CANINO	publish	2021/01/AEC-220.png	media/production/uploads/2021/01/AEC-220.png	image/png	7531	featured_image | parented_attachment
+7513	CAN-PL-09-00	MINI RAMPA CANINO	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+7749	TEM-PR-07-00	Juego Tren (TEM-PR-07-01)	draft	2021/01/MTT-113-7.0-Tren.png	media/production/uploads/2021/01/MTT-113-7.0-Tren.png	image/png	19187	parented_attachment
+7749	TEM-PR-07-00	Juego Tren (TEM-PR-07-01)	draft	2021/01/modulo-tren-TEM-PR-07-00.jpg	media/production/uploads/2021/01/modulo-tren-TEM-PR-07-00.jpg	image/jpeg	24838	featured_image | parented_attachment
+7751	EVA-PR-01-20	Juego ATRACTION	publish	2021/01/EVA-814-9.0.png	media/production/uploads/2021/01/EVA-814-9.0.png	image/png	19188	parented_attachment
+7751	EVA-PR-01-20	Juego ATRACTION	publish	2021/01/juego-para-trepar-Modulo-Atraction-1.jpg	media/production/uploads/2021/01/juego-para-trepar-Modulo-Atraction-1.jpg	image/jpeg	23285	parented_attachment
+7751	EVA-PR-01-20	Juego ATRACTION	publish	2021/01/juego-para-trepar-Modulo-Atraction-2.jpg	media/production/uploads/2021/01/juego-para-trepar-Modulo-Atraction-2.jpg	image/jpeg	23286	parented_attachment
+7751	EVA-PR-01-20	Juego ATRACTION	publish	2021/01/juego-para-trepar-Modulo-Atraction-3.jpg	media/production/uploads/2021/01/juego-para-trepar-Modulo-Atraction-3.jpg	image/jpeg	23287	parented_attachment
+7751	EVA-PR-01-20	Juego ATRACTION	publish	2021/01/juego-para-trepar-Modulo-Atraction-4.jpg	media/production/uploads/2021/01/juego-para-trepar-Modulo-Atraction-4.jpg	image/jpeg	23284	parented_attachment
+7751	EVA-PR-01-20	Juego ATRACTION	publish	2026/03/EVA-PR-01-00-MODULO-ATRACTION.avif	media/production/uploads/2026/03/EVA-PR-01-00-MODULO-ATRACTION.avif	image/avif	32149	parented_attachment
+7751	EVA-PR-01-20	Juego ATRACTION	publish	2026/07/Juego-Atraction-EVA-PR-01-00-top.avif	media/production/uploads/2026/07/Juego-Atraction-EVA-PR-01-00-top.avif	image/avif	32543	gallery_image
+7751	EVA-PR-01-20	Juego ATRACTION	publish	2026/07/Juego-Atraction-EVA-PR-01-00.avif	media/production/uploads/2026/07/Juego-Atraction-EVA-PR-01-00.avif	image/avif	32544	featured_image
+7780	COL-AB-01-00	COLUMPIO PP EN A CON 2 ASIENTOS DE BANDA	publish	2021/01/CP-102-2.0-Columpio-1.png	media/production/uploads/2021/01/CP-102-2.0-Columpio-1.png	image/png	7873	featured_image | parented_attachment
+7781	COL-AS-01-00	COLUMPIO PP EN A CON 2 ASIENTOS DE SEGURIDAD	publish	2021/01/CP-102A-2.0-1-Columpio-1.png	media/production/uploads/2021/01/CP-102A-2.0-1-Columpio-1.png	image/png	7874	featured_image | parented_attachment
+7783	COL-AB-03-00	COLUMPIO PP EN U CON 3 ASIENTOS DE BANDA	publish	2021/01/CP-103-U21-2.0-columpio-3-canastillas-1.jpg	media/production/uploads/2021/01/CP-103-U21-2.0-columpio-3-canastillas-1.jpg	image/jpeg	22526	gallery_image | parented_attachment
+7783	COL-AB-03-00	COLUMPIO PP EN U CON 3 ASIENTOS DE BANDA	publish	2021/01/columpio-3-canastillas-productos-jumbo.jpg	media/production/uploads/2021/01/columpio-3-canastillas-productos-jumbo.jpg	image/jpeg	25966	featured_image | parented_attachment
+7789	COL-BS-01-00	COLUMPIO CANGURO	publish	2021/01/CP-216.png	media/production/uploads/2021/01/CP-216.png	image/png	7885	featured_image | parented_attachment
+7789	COL-BS-01-00	COLUMPIO CANGURO	publish	2021/01/Columpio-Canguro-CP-216-web.jpg	media/production/uploads/2021/01/Columpio-Canguro-CP-216-web.jpg	image/jpeg	22534	gallery_image | parented_attachment
+7791	COL-AB-06-00	COLUMPIO KRONE	publish	2021/01/CP-118-columpio-krone.jpg	media/production/uploads/2021/01/CP-118-columpio-krone.jpg	image/jpeg	22529	gallery_image | parented_attachment
+7791	COL-AB-06-00	COLUMPIO KRONE	publish	2021/01/CP-118-columpio-krone2.jpg	media/production/uploads/2021/01/CP-118-columpio-krone2.jpg	image/jpeg	22530	gallery_image | parented_attachment
+7791	COL-AB-06-00	COLUMPIO KRONE	publish	2021/01/CP-118-columpio-krone3.jpg	media/production/uploads/2021/01/CP-118-columpio-krone3.jpg	image/jpeg	22531	gallery_image | parented_attachment
+7791	COL-AB-06-00	COLUMPIO KRONE	publish	2021/01/columpio-krone-productos-jumbo.jpg	media/production/uploads/2021/01/columpio-krone-productos-jumbo.jpg	image/jpeg	25969	featured_image | parented_attachment
+7794	CON-CR-02-00	COLUMPIO MULTIJUEGO	publish	2021/01/CPP-216-COLUMPIO-MULTIJUEGO-web.jpg	media/production/uploads/2021/01/CPP-216-COLUMPIO-MULTIJUEGO-web.jpg	image/jpeg	22535	gallery_image | parented_attachment
+7794	CON-CR-02-00	COLUMPIO MULTIJUEGO	publish	2021/01/CPP-216.png	media/production/uploads/2021/01/CPP-216.png	image/png	7887	featured_image | parented_attachment
+7819	IRE-PL-04-00	MONTABLE CABALLITO	publish	2021/01/juego-para-ninos.jpg	media/production/uploads/2021/01/juego-para-ninos.jpg	image/jpeg	25023	gallery_image | parented_attachment
+7819	IRE-PL-04-00	MONTABLE CABALLITO	publish	2021/01/montable-caballito-juego-infantil.png	media/production/uploads/2021/01/montable-caballito-juego-infantil.png	image/png	25022	featured_image | parented_attachment
+7824	INT-PL-05-00	MURO SENSORIAL	publish	2021/01/muro-sensorial-productos-jumbo.jpg	media/production/uploads/2021/01/muro-sensorial-productos-jumbo.jpg	image/jpeg	25955	featured_image | parented_attachment
+7828	INT-00-03-00	TUBO DIDACTICO GRANDE	publish	2021/01/tubo-didactico-grande.jpg	media/production/uploads/2021/01/tubo-didactico-grande.jpg	image/jpeg	25064	featured_image | parented_attachment
+7831	TEM-PM-01-00	TIPPIE	publish	2021/01/tippie.jumbo_.jpg	media/production/uploads/2021/01/tippie.jumbo_.jpg	image/jpeg	25062	featured_image | parented_attachment
+7834	PIL-PT-01-00	Bubble Pillar (PTJ-620 C)	draft	2021/01/bubble-pillar-productos-jumbo.png	media/production/uploads/2021/01/bubble-pillar-productos-jumbo.png	image/png	22617	featured_image | parented_attachment
+8007	DEP-00-07-00	PORTERIA CON TABLERO DE BÁSQUETBOL	publish	2020/12/PCT-113.png	media/production/uploads/2020/12/PCT-113.png	image/png	6659	gallery_image
+8007	DEP-00-07-00	PORTERIA CON TABLERO DE BÁSQUETBOL	publish	2021/01/PCT-0113-e1632160134444.jpg	media/production/uploads/2021/01/PCT-0113-e1632160134444.jpg	image/jpeg	20907	parented_attachment
+8007	DEP-00-07-00	PORTERIA CON TABLERO DE BÁSQUETBOL	publish	2026/03/DEP-00-07-00-PORTERIA-CON-TABLERO-DE-BASQUETBOL.avif	media/production/uploads/2026/03/DEP-00-07-00-PORTERIA-CON-TABLERO-DE-BASQUETBOL.avif	image/avif	32180	featured_image | parented_attachment
+8009	DEP-MO-04-00	GRADAS 5 ASIENTOS Y 4 DESCANSA PIES	publish	2020/12/MUD-216.png	media/production/uploads/2020/12/MUD-216.png	image/png	6667	featured_image
+8012	CAN-PP-01-00	POSTE DE BOLSAS CON BASURERO CANINO	publish	2021/01/AEC-320.png	media/production/uploads/2021/01/AEC-320.png	image/png	19183	featured_image | parented_attachment
+8012	CAN-PP-01-00	POSTE DE BOLSAS CON BASURERO CANINO	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+8012	CAN-PP-01-00	POSTE DE BOLSAS CON BASURERO CANINO	publish	2021/01/bote-de-basura-con-bolsas-para-perros.jpg	media/production/uploads/2021/01/bote-de-basura-con-bolsas-para-perros.jpg	image/jpeg	23386	gallery_image | parented_attachment
+8314	BAN-PV-02-00	BANCA PMP PVC	publish	2021/01/Banca-PMP-PVC-BF-165-A.jpg	media/production/uploads/2021/01/Banca-PMP-PVC-BF-165-A.jpg	image/jpeg	22628	featured_image | parented_attachment
+8316	BAN-PP-04-00	BANCA KIRO	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+8316	BAN-PP-04-00	BANCA KIRO	publish	2021/01/MUA-420-Temp0050.png	media/production/uploads/2021/01/MUA-420-Temp0050.png	image/png	20842	featured_image | parented_attachment
+8328	BAN-IN-02-00	BANCA LOGAN INCLUSIVA PVC	publish	2021/01/banca-inclusiva-logan-pvc-productos-jumbo.jpg	media/production/uploads/2021/01/banca-inclusiva-logan-pvc-productos-jumbo.jpg	image/jpeg	25948	featured_image | parented_attachment
+8328	BAN-IN-02-00	BANCA LOGAN INCLUSIVA PVC	publish	2021/01/banca-para-silla-de-ruedas-MUA-1015-A-DC-web.jpg	media/production/uploads/2021/01/banca-para-silla-de-ruedas-MUA-1015-A-DC-web.jpg	image/jpeg	22627	gallery_image | parented_attachment
+8336	BAN-PV-01-00	BANCA PUMORI PVC	publish	2020/12/MUA-915.png	media/production/uploads/2020/12/MUA-915.png	image/png	6375	featured_image
+8345	MES-PV-01-00	MESA DE PICNIC PVC	publish	2021/01/MPVC-1-Perspectiva.png	media/production/uploads/2021/01/MPVC-1-Perspectiva.png	image/png	20841	featured_image | parented_attachment
+8350	APA-00-04-00	APARCABICICLETAS ONE MARCO	publish	2021/01/Aparcabicicletas-One-Marco-MUB-320.jpg	media/production/uploads/2021/01/Aparcabicicletas-One-Marco-MUB-320.jpg	image/jpeg	22642	featured_image | parented_attachment
+8359	BAN-IX-01-00	BANCA LOA INOX	publish	2021/01/INOX-MUA-517-A.png	media/production/uploads/2021/01/INOX-MUA-517-A.png	image/png	20905	featured_image | parented_attachment
+8361	BOT-IX-01-00	BOTE GANGES	publish	2020/12/INOX-718R.png	media/production/uploads/2020/12/INOX-718R.png	image/png	6519	featured_image
+8363	BOL-IX-01-00	BOLARDO 5 INOX	publish	2020/12/INOX-118P.png	media/production/uploads/2020/12/INOX-118P.png	image/png	6523	featured_image
+8364	BOL-IX-02-00	BOLARDO 3 INOX	publish	2020/12/INOX-618P.png	media/production/uploads/2020/12/INOX-618P.png	image/png	6525	featured_image
+8367	BOL-00-04-00	BOLARDO METALICO 4″ 60 CM ALTURA	publish	2021/01/Bolardo-metalico-BOL-1-3.png	media/production/uploads/2021/01/Bolardo-metalico-BOL-1-3.png	image/png	20823	parented_attachment
+8367	BOL-00-04-00	BOLARDO METALICO 4″ 60 CM ALTURA	publish	2021/01/bolardos-productos-jumbo.png	media/production/uploads/2021/01/bolardos-productos-jumbo.png	image/png	20824	featured_image | parented_attachment
+8370	BUS-TP-01-00	PARABUS BASIC	publish	2020/12/PB-111.png	media/production/uploads/2020/12/PB-111.png	image/png	6574	featured_image
+19063	COL-AB-02-00	COLUMPIO PP EN A 3 ASIENTOS DE BANDA	publish	2021/01/CP-103-2.0.png	media/production/uploads/2021/01/CP-103-2.0.png	image/png	19197	featured_image | parented_attachment
+19111	CMT-120P	BANCA COMPLETA	publish	2021/01/Banca-completa-CMT-120P.png	media/production/uploads/2021/01/Banca-completa-CMT-120P.png	image/png	20822	featured_image | parented_attachment
+21148	MEC-CR-03-00	Juego CHARLOTTE	publish	2021/10/juego-infantil-charlestone-jumbo.jpg	media/production/uploads/2021/10/juego-infantil-charlestone-jumbo.jpg	image/jpeg	25100	parented_attachment
+21148	MEC-CR-03-00	Juego CHARLOTTE	publish	2021/10/juego-para-escuelas-2.jpg	media/production/uploads/2021/10/juego-para-escuelas-2.jpg	image/jpeg	24992	parented_attachment
+21148	MEC-CR-03-00	Juego CHARLOTTE	publish	2021/10/juego-para-escuelas1.jpg	media/production/uploads/2021/10/juego-para-escuelas1.jpg	image/jpeg	24994	parented_attachment
+21148	MEC-CR-03-00	Juego CHARLOTTE	publish	2021/10/juego-para-escuelas3.jpg	media/production/uploads/2021/10/juego-para-escuelas3.jpg	image/jpeg	24993	parented_attachment
+21148	MEC-CR-03-00	Juego CHARLOTTE	publish	2026/03/EOS-PR-26-00-MODULO-CHARLOTTE.avif	media/production/uploads/2026/03/EOS-PR-26-00-MODULO-CHARLOTTE.avif	image/avif	32138	parented_attachment
+21148	MEC-CR-03-00	Juego CHARLOTTE	publish	2026/07/Juego-Charlotte-EOS-PR-26-00-2.avif	media/production/uploads/2026/07/Juego-Charlotte-EOS-PR-26-00-2.avif	image/avif	32677	featured_image
+21148	MEC-CR-03-00	Juego CHARLOTTE	publish	2026/07/Juego-Charlotte-EOS-PR-26-00-im.avif	media/production/uploads/2026/07/Juego-Charlotte-EOS-PR-26-00-im.avif	image/avif	32558	gallery_image
+21148	MEC-CR-03-00	Juego CHARLOTTE	publish	2026/07/Juego-Charlotte-EOS-PR-26-00-top.avif	media/production/uploads/2026/07/Juego-Charlotte-EOS-PR-26-00-top.avif	image/avif	32559	gallery_image
+22130	EJE-ID-23-00	EJERCITADOR PARED SUECA Y 2 POSTES	publish	2022/02/pared-sueca-ejercicio.jpg	media/production/uploads/2022/02/pared-sueca-ejercicio.jpg	image/jpeg	22138	gallery_image | parented_attachment
+22130	EJE-ID-23-00	EJERCITADOR PARED SUECA Y 2 POSTES	publish	2026/03/EJE-ID-23-00-EJERCITADOR-PARED-SUECA-Y-2-POSTES.avif	media/production/uploads/2026/03/EJE-ID-23-00-EJERCITADOR-PARED-SUECA-Y-2-POSTES.avif	image/avif	32173	featured_image | parented_attachment
+22188	DEP-MO-01-00	2 BANCAS DE ARBITROS CON TECHUMBRE	publish	2022/02/MUD-212-techo-Temp0045.png	media/production/uploads/2022/02/MUD-212-techo-Temp0045.png	image/png	22189	parented_attachment
+22188	DEP-MO-01-00	2 BANCAS DE ARBITROS CON TECHUMBRE	publish	2026/03/DEP-MO-01-00-2-BANCAS-DE-ARBITROS-CON-TECHUMBRE.avif	media/production/uploads/2026/03/DEP-MO-01-00-2-BANCAS-DE-ARBITROS-CON-TECHUMBRE.avif	image/avif	32184	featured_image | parented_attachment
+22209	CAN-PL-03-00	SALTO ARO CANINO	publish	2022/02/AEC-214-A-salto-aro-canino.png	media/production/uploads/2022/02/AEC-214-A-salto-aro-canino.png	image/png	22611	featured_image | parented_attachment
+22313	TEM-IX-02-00	Juego HEXAGON	publish	2022/03/modulo-hexagon-juego-infantil-gigante.jpg	media/production/uploads/2022/03/modulo-hexagon-juego-infantil-gigante.jpg	image/jpeg	25018	featured_image | parented_attachment
+22315	TEM-IX-03-00	Juego ATALAYA	publish	2022/03/juego-gigante-infantil-atalaya.jpg	media/production/uploads/2022/03/juego-gigante-infantil-atalaya.jpg	image/jpeg	25092	featured_image | parented_attachment
+22323	CON-CR-01-00	CONJUNTO DE MEDIA LUNA	publish	2022/03/conjunto-media-luna-juego-residencial.jpg	media/production/uploads/2022/03/conjunto-media-luna-juego-residencial.jpg	image/jpeg	25053	parented_attachment
+22323	CON-CR-01-00	CONJUNTO DE MEDIA LUNA	publish	2026/03/CON-CR-01-00-CONJUNTO-DE-MEDIA-LUNA.avif	media/production/uploads/2026/03/CON-CR-01-00-CONJUNTO-DE-MEDIA-LUNA.avif	image/avif	32158	featured_image | parented_attachment
+22329	SUB-IN-02-00	SUBE Y BAJA PARA SILLA DE RUEDAS	publish	2022/03/sube-y-baja-para-silla-de-ruedas.jpg	media/production/uploads/2022/03/sube-y-baja-para-silla-de-ruedas.jpg	image/jpeg	25048	featured_image | parented_attachment
+22330	EOS-IN-03-00	Juego CASTILLO INCLUSIVO	publish	2022/03/PE-MTIC-121-DC-1.png	media/production/uploads/2022/03/PE-MTIC-121-DC-1.png	image/png	22331	featured_image | parented_attachment
+22332	MMB-120	Juego BARCO WOOD	publish	2022/03/barco-de-madera-jumbo.jpg	media/production/uploads/2022/03/barco-de-madera-jumbo.jpg	image/jpeg	25093	featured_image | parented_attachment
+22334	MMW-122	Juego WOOD	publish	2022/03/juego-infantil-de-madera.jpg	media/production/uploads/2022/03/juego-infantil-de-madera.jpg	image/jpeg	25095	featured_image | parented_attachment
+22335	MMR-122	Juego RETOS BAJOS	publish	2022/03/obstaculos-de-madera-paraninios.jpg	media/production/uploads/2022/03/obstaculos-de-madera-paraninios.jpg	image/jpeg	25094	featured_image | parented_attachment
+22344	BOT-PM-02-00	BOTE OKA PLASTIMADERA	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+22344	BOT-PM-02-00	BOTE OKA PLASTIMADERA	publish	2022/03/Bote-Oka-Plastimadera-MUO-117A.jpg	media/production/uploads/2022/03/Bote-Oka-Plastimadera-MUO-117A.jpg	image/jpeg	22599	featured_image | parented_attachment
+22346	BOT-LP-02-02	BOTE OKA PERFORADA	publish	2022/03/Bote-Oka-Perforada-MUO-117B.jpg	media/production/uploads/2022/03/Bote-Oka-Perforada-MUO-117B.jpg	image/jpeg	22601	parented_attachment
+22346	BOT-LP-02-02	BOTE OKA PERFORADA	publish	2026/03/BOT-LP-02-02-BOTE-OKA-PERFORADA.avif	media/production/uploads/2026/03/BOT-LP-02-02-BOTE-OKA-PERFORADA.avif	image/avif	32163	featured_image | parented_attachment
+22348	BOT-00-04-00	BOTE TRIANGULAR	publish	2022/03/bote-triangular-MUO-521.jpg	media/production/uploads/2022/03/bote-triangular-MUO-521.jpg	image/jpeg	22602	featured_image | parented_attachment
+22359	BAN-MA-01-00	BANCA CIRCULAR JUNKO	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+22359	BAN-MA-01-00	BANCA CIRCULAR JUNKO	publish	2022/03/MUP-321-banca-junko-web.jpg	media/production/uploads/2022/03/MUP-321-banca-junko-web.jpg	image/jpeg	22377	featured_image | parented_attachment
+22365	BAN-00-10-00	BANCA CIRCULAR CON ASIENTO	publish	2022/03/BANCA-circular.png	media/production/uploads/2022/03/BANCA-circular.png	image/png	22376	featured_image | parented_attachment
+22370	COL-00-01-00	2 COLUMPIOS ARIA	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+22370	COL-00-01-00	2 COLUMPIOS ARIA	publish	2022/03/SET-Columpio-ARIA.png	media/production/uploads/2022/03/SET-Columpio-ARIA.png	image/png	22371	featured_image | parented_attachment
+22386	BAN-CR-05-00	BANCA VINSONS B	publish	2022/03/MUA-1717.png	media/production/uploads/2022/03/MUA-1717.png	image/png	22387	featured_image | parented_attachment
+22393	MES-LP-04-00	4 MESAS PICNIC CON PERGOLA	publish	2022/03/MGM-120-1A-mesa-con-pergola-web.jpg	media/production/uploads/2022/03/MGM-120-1A-mesa-con-pergola-web.jpg	image/jpeg	22394	featured_image | parented_attachment
+22396	SEÑ-00-14-00	MESA MAPA	publish	2022/03/MUPI-121-web-mapa.jpg	media/production/uploads/2022/03/MUPI-121-web-mapa.jpg	image/jpeg	22397	featured_image | parented_attachment
+22401	SEÑ-PT-02-00	TOTEM CON LUZ	publish	2022/03/PTJ-ESI-221-A-totem-con-luz.jpg	media/production/uploads/2022/03/PTJ-ESI-221-A-totem-con-luz.jpg	image/jpeg	22402	parented_attachment
+22401	SEÑ-PT-02-00	TOTEM CON LUZ	publish	2022/03/TOTEM-CON-LUZ-SEN-PT-02-00.png	media/production/uploads/2022/03/TOTEM-CON-LUZ-SEN-PT-02-00.png	image/png	29241	parented_attachment
+22401	SEÑ-PT-02-00	TOTEM CON LUZ	publish	2022/03/TOTEM-CON-LUZ-SEN-PT-02-00500x-700-px.webp	media/production/uploads/2022/03/TOTEM-CON-LUZ-SEN-PT-02-00500x-700-px.webp	image/webp	29242	featured_image | parented_attachment
+22403	SEÑ-00-15-00	SEÑALETICA TOTEM	publish	2022/03/ESI-620-totem.jpg	media/production/uploads/2022/03/ESI-620-totem.jpg	image/jpeg	22404	featured_image | parented_attachment
+22405	SEÑ-PL-01-00	SEÑALETICA PLASTIPANEL 50 X 25 CM	publish	2022/03/colores-plastipanel.jpg	media/production/uploads/2022/03/colores-plastipanel.jpg	image/jpeg	22407	content_url
+22405	SEÑ-PL-01-00	SEÑALETICA PLASTIPANEL 50 X 25 CM	publish	2022/03/senaletica-plastipanel-web.jpg	media/production/uploads/2022/03/senaletica-plastipanel-web.jpg	image/jpeg	22406	featured_image | parented_attachment
+22413	TER-PP-01-00	TERRAZA	publish	2021/01/Eco-Jumbo-2022-logo-300x292.png	media/production/uploads/2021/01/Eco-Jumbo-2022-logo-300x292.png	image/png	21944	content_url
+22413	TER-PP-01-00	TERRAZA	publish	2022/03/MUP-131-Terraza-render.jpg	media/production/uploads/2022/03/MUP-131-Terraza-render.jpg	image/jpeg	22414	featured_image | parented_attachment
+22415	MES-PP-02-00	MESA PICNIC 3/3	publish	2022/03/MUP-331-Mesa-Picnic-3-3-Plastimadera-Premium-RENDER.jpg	media/production/uploads/2022/03/MUP-331-Mesa-Picnic-3-3-Plastimadera-Premium-RENDER.jpg	image/jpeg	22416	featured_image | parented_attachment
+22417	MES-PP-01-00	MESA CUBI	publish	2022/03/MUP-231-Cubi-Mesa-Plastimadera-Premium.jpg	media/production/uploads/2022/03/MUP-231-Cubi-Mesa-Plastimadera-Premium.jpg	image/jpeg	22418	parented_attachment
+22417	MES-PP-01-00	MESA CUBI	publish	2026/03/MES-PP-01-00MESA-CUBI.avif	media/production/uploads/2026/03/MES-PP-01-00MESA-CUBI.avif	image/avif	32167	featured_image | parented_attachment
+22419	CMT-520P	JARDINERA BAJA	publish	2023/01/maceta-de-concreto-CMT-520P.jpg	media/production/uploads/2023/01/maceta-de-concreto-CMT-520P.jpg	image/jpeg	24673	featured_image
+22421	CMT-320P	MACETA TRAPECIO	publish	2023/01/maceta-de-concreto-CMT-520P.jpg	media/production/uploads/2023/01/maceta-de-concreto-CMT-520P.jpg	image/jpeg	24673	featured_image
+22422	CMT-420P	MACETA ALTA	publish	2022/03/CMT-320P-maceta-concreto-web.jpg	media/production/uploads/2022/03/CMT-320P-maceta-concreto-web.jpg	image/jpeg	22423	featured_image | parented_attachment
+22424	CMT-220P	MACETA REDONDA	publish	2022/03/CMT-220P-maceta-concreto-web.jpg	media/production/uploads/2022/03/CMT-220P-maceta-concreto-web.jpg	image/jpeg	22425	featured_image | parented_attachment
+22429	BOL-00-05-00	BOLARDO METALICO 6″ 80CM ALTURA	publish	2022/03/Bolardo-Metalico-6-80-cm-altura-BOL-180.png	media/production/uploads/2022/03/Bolardo-Metalico-6-80-cm-altura-BOL-180.png	image/png	22442	featured_image | parented_attachment
+22431	BOL-PT-01-00	BOLARDO CON LUZ	publish	2022/03/bolardo-luz-PTJ-BOL-220.jpg	media/production/uploads/2022/03/bolardo-luz-PTJ-BOL-220.jpg	image/jpeg	22433	featured_image | parented_attachment
+22667	COL-AB-04-00	COLUMPIO PP EN A CON 4 ASIENTOS DE BANDA	publish	2022/03/CP-104-2.0-Columpio-AJ.png	media/production/uploads/2022/03/CP-104-2.0-Columpio-AJ.png	image/png	22668	featured_image | parented_attachment
+22712	PPM-VET	Piso Plástico Modular Verde Trébol	publish	2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	media/production/uploads/2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	image/png	22714	content_url
+22712	PPM-VET	Piso Plástico Modular Verde Trébol	publish	2022/03/cancha-multiusos-piso-modular.jpg	media/production/uploads/2022/03/cancha-multiusos-piso-modular.jpg	image/jpeg	22723	gallery_image | parented_attachment
+22712	PPM-VET	Piso Plástico Modular Verde Trébol	publish	2022/03/piso-modular-instrucciones.jpg	media/production/uploads/2022/03/piso-modular-instrucciones.jpg	image/jpeg	22724	gallery_image | parented_attachment
+22712	PPM-VET	Piso Plástico Modular Verde Trébol	publish	2022/03/piso-modular-verde-trebol.jpg	media/production/uploads/2022/03/piso-modular-verde-trebol.jpg	image/jpeg	22722	featured_image | parented_attachment
+22725	PPM-TER	Piso Plástico Modular Terracota	publish	2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	media/production/uploads/2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	image/png	22714	content_url
+22725	PPM-TER	Piso Plástico Modular Terracota	publish	2022/03/cancha-multiusos-piso-modular.jpg	media/production/uploads/2022/03/cancha-multiusos-piso-modular.jpg	image/jpeg	22723	gallery_image
+22725	PPM-TER	Piso Plástico Modular Terracota	publish	2022/03/piso-modular-instrucciones.jpg	media/production/uploads/2022/03/piso-modular-instrucciones.jpg	image/jpeg	22724	gallery_image
+22725	PPM-TER	Piso Plástico Modular Terracota	publish	2022/03/piso-modular-terracota.jpg	media/production/uploads/2022/03/piso-modular-terracota.jpg	image/jpeg	22726	featured_image | parented_attachment
+22727	PPM-VEL	Piso Plástico Modular Verde Limón	publish	2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	media/production/uploads/2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	image/png	22714	content_url
+22727	PPM-VEL	Piso Plástico Modular Verde Limón	publish	2022/03/cancha-multiusos-piso-modular.jpg	media/production/uploads/2022/03/cancha-multiusos-piso-modular.jpg	image/jpeg	22723	gallery_image
+22727	PPM-VEL	Piso Plástico Modular Verde Limón	publish	2022/03/piso-modular-instrucciones.jpg	media/production/uploads/2022/03/piso-modular-instrucciones.jpg	image/jpeg	22724	gallery_image
+22727	PPM-VEL	Piso Plástico Modular Verde Limón	publish	2022/03/piso-modular-verde-limon.jpg	media/production/uploads/2022/03/piso-modular-verde-limon.jpg	image/jpeg	22728	featured_image | parented_attachment
+22729	PPM-GRI	Piso Plástico Modular Gris	publish	2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	media/production/uploads/2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	image/png	22714	content_url
+22729	PPM-GRI	Piso Plástico Modular Gris	publish	2022/03/cancha-multiusos-piso-modular.jpg	media/production/uploads/2022/03/cancha-multiusos-piso-modular.jpg	image/jpeg	22723	gallery_image
+22729	PPM-GRI	Piso Plástico Modular Gris	publish	2022/03/piso-modular-gris.jpg	media/production/uploads/2022/03/piso-modular-gris.jpg	image/jpeg	22730	featured_image | parented_attachment
+22729	PPM-GRI	Piso Plástico Modular Gris	publish	2022/03/piso-modular-instrucciones.jpg	media/production/uploads/2022/03/piso-modular-instrucciones.jpg	image/jpeg	22724	gallery_image
+22731	PPM-BEI	Piso Plástico Modular Beige	publish	2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	media/production/uploads/2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	image/png	22714	content_url
+22731	PPM-BEI	Piso Plástico Modular Beige	publish	2022/03/cancha-multiusos-piso-modular.jpg	media/production/uploads/2022/03/cancha-multiusos-piso-modular.jpg	image/jpeg	22723	gallery_image
+22731	PPM-BEI	Piso Plástico Modular Beige	publish	2022/03/piso-modular-beige.jpg	media/production/uploads/2022/03/piso-modular-beige.jpg	image/jpeg	22732	featured_image | parented_attachment
+22731	PPM-BEI	Piso Plástico Modular Beige	publish	2022/03/piso-modular-instrucciones.jpg	media/production/uploads/2022/03/piso-modular-instrucciones.jpg	image/jpeg	22724	gallery_image
+22733	PPM-NEG	Piso Plástico Modular Negro	publish	2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	media/production/uploads/2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	image/png	22714	content_url
+22733	PPM-NEG	Piso Plástico Modular Negro	publish	2022/03/cancha-multiusos-piso-modular.jpg	media/production/uploads/2022/03/cancha-multiusos-piso-modular.jpg	image/jpeg	22723	gallery_image
+22733	PPM-NEG	Piso Plástico Modular Negro	publish	2022/03/piso-modular-instrucciones.jpg	media/production/uploads/2022/03/piso-modular-instrucciones.jpg	image/jpeg	22724	gallery_image
+22733	PPM-NEG	Piso Plástico Modular Negro	publish	2022/03/piso-modular-negro.jpg	media/production/uploads/2022/03/piso-modular-negro.jpg	image/jpeg	22734	featured_image | parented_attachment
+22735	PPM-AZC	Piso Plástico Modular Azul Cobalto	publish	2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	media/production/uploads/2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	image/png	22714	content_url
+22735	PPM-AZC	Piso Plástico Modular Azul Cobalto	publish	2022/03/cancha-multiusos-piso-modular.jpg	media/production/uploads/2022/03/cancha-multiusos-piso-modular.jpg	image/jpeg	22723	gallery_image
+22735	PPM-AZC	Piso Plástico Modular Azul Cobalto	publish	2022/03/piso-modular-azul-cobalto.jpg	media/production/uploads/2022/03/piso-modular-azul-cobalto.jpg	image/jpeg	22736	featured_image | parented_attachment
+22735	PPM-AZC	Piso Plástico Modular Azul Cobalto	publish	2022/03/piso-modular-instrucciones.jpg	media/production/uploads/2022/03/piso-modular-instrucciones.jpg	image/jpeg	22724	gallery_image
+22737	PPM-ROJ	Piso Plástico Modular Rojo	publish	2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	media/production/uploads/2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	image/png	22714	content_url
+22737	PPM-ROJ	Piso Plástico Modular Rojo	publish	2022/03/cancha-multiusos-piso-modular.jpg	media/production/uploads/2022/03/cancha-multiusos-piso-modular.jpg	image/jpeg	22723	gallery_image
+22737	PPM-ROJ	Piso Plástico Modular Rojo	publish	2022/03/piso-modular-instrucciones.jpg	media/production/uploads/2022/03/piso-modular-instrucciones.jpg	image/jpeg	22724	gallery_image
+22737	PPM-ROJ	Piso Plástico Modular Rojo	publish	2022/03/piso-modular-rojo.jpg	media/production/uploads/2022/03/piso-modular-rojo.jpg	image/jpeg	22738	featured_image | parented_attachment
+22739	PPM-AMA	Piso Plástico Modular Amarillo	publish	2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	media/production/uploads/2022/03/ITF_CLASSIFIED-COURT-PACE_5FAST_COLOUR.png	image/png	22714	content_url
+22739	PPM-AMA	Piso Plástico Modular Amarillo	publish	2022/03/cancha-multiusos-piso-modular.jpg	media/production/uploads/2022/03/cancha-multiusos-piso-modular.jpg	image/jpeg	22723	gallery_image
+22739	PPM-AMA	Piso Plástico Modular Amarillo	publish	2022/03/piso-modular-amarillo.jpg	media/production/uploads/2022/03/piso-modular-amarillo.jpg	image/jpeg	22740	featured_image | parented_attachment
+22739	PPM-AMA	Piso Plástico Modular Amarillo	publish	2022/03/piso-modular-instrucciones.jpg	media/production/uploads/2022/03/piso-modular-instrucciones.jpg	image/jpeg	22724	gallery_image
+22897	RAI-CP1-2D	Castle 1 – Rainbow	draft	2022/04/casa-de-madera-jumbo-1.jpg	media/production/uploads/2022/04/casa-de-madera-jumbo-1.jpg	image/jpeg	25096	featured_image | parented_attachment
+22897	RAI-CP1-2D	Castle 1 – Rainbow	draft	2022/04/casa-de-madera-rainbow.jpg	media/production/uploads/2022/04/casa-de-madera-rainbow.jpg	image/jpeg	23275	parented_attachment
+22897	RAI-CP1-2D	Castle 1 – Rainbow	draft	2022/04/casa-madera-para-ninos.jpg	media/production/uploads/2022/04/casa-madera-para-ninos.jpg	image/jpeg	23736	gallery_image | parented_attachment
+22897	RAI-CP1-2D	Castle 1 – Rainbow	draft	2022/04/juego-de-madera-rainbow.jpg	media/production/uploads/2022/04/juego-de-madera-rainbow.jpg	image/jpeg	23276	parented_attachment
+22897	RAI-CP1-2D	Castle 1 – Rainbow	draft	2022/04/juego-rainbow-de-madera.jpg	media/production/uploads/2022/04/juego-rainbow-de-madera.jpg	image/jpeg	23277	parented_attachment
+23738	RAI-CP2-2B	Fiesta Castle 2 – Rainbow	draft	2022/08/casa-de-madera-grande-rainbow.jpg	media/production/uploads/2022/08/casa-de-madera-grande-rainbow.jpg	image/jpeg	23740	parented_attachment
+23738	RAI-CP2-2B	Fiesta Castle 2 – Rainbow	draft	2022/08/casa-de-madera-jumbo-2.jpg	media/production/uploads/2022/08/casa-de-madera-jumbo-2.jpg	image/jpeg	25097	parented_attachment
+23738	RAI-CP2-2B	Fiesta Castle 2 – Rainbow	draft	2022/08/fiesta-castle-2.avif	media/production/uploads/2022/08/fiesta-castle-2.avif	image/avif	31963	featured_image | parented_attachment
+23738	RAI-CP2-2B	Fiesta Castle 2 – Rainbow	draft	2022/08/productos_jumbo_casa_madera_producto_fiesta-castle_-imagen-1.jpg	media/production/uploads/2022/08/productos_jumbo_casa_madera_producto_fiesta-castle_-imagen-1.jpg	image/jpeg	28460	gallery_image | parented_attachment
+23738	RAI-CP2-2B	Fiesta Castle 2 – Rainbow	draft	2022/08/productos_jumbo_casa_madera_producto_fiesta-castle_imagen-2.jpg	media/production/uploads/2022/08/productos_jumbo_casa_madera_producto_fiesta-castle_imagen-2.jpg	image/jpeg	28461	gallery_image | parented_attachment
+24629	BOT-LP-01-01	BOTE PARANA DOBLE	publish	2022/12/Bote-Parana-Doble-BOT-LP-01-01.webp	media/production/uploads/2022/12/Bote-Parana-Doble-BOT-LP-01-01.webp	image/webp	29536	featured_image | parented_attachment
+24629	BOT-LP-01-01	BOTE PARANA DOBLE	publish	2022/12/bote-doble-parana.jpg	media/production/uploads/2022/12/bote-doble-parana.jpg	image/jpeg	24630	parented_attachment
+24631	BOT-00-01-01	BOTE CENTRO HISTORICO DOBLE	publish	2022/12/bote-doble-centro-historico.jpg	media/production/uploads/2022/12/bote-doble-centro-historico.jpg	image/jpeg	24632	featured_image | parented_attachment
+24818	MEL-CR-01-00	Juego Córdoba	publish	2023/02/modulo-cordoba-nuevo-juego-infantil.png	media/production/uploads/2023/02/modulo-cordoba-nuevo-juego-infantil.png	image/png	24975	parented_attachment
+24818	MEL-CR-01-00	Juego Córdoba	publish	2026/03/TDF-00-03-01-MODULO-CORDOBA.avif	media/production/uploads/2026/03/TDF-00-03-01-MODULO-CORDOBA.avif	image/avif	32135	parented_attachment
+24818	MEL-CR-01-00	Juego Córdoba	publish	2026/07/Juego-Cordoba-TDF-00-03-01-im.avif	media/production/uploads/2026/07/Juego-Cordoba-TDF-00-03-01-im.avif	image/avif	32561	gallery_image
+24818	MEL-CR-01-00	Juego Córdoba	publish	2026/07/Juego-Cordoba-TDF-00-03-01-top.avif	media/production/uploads/2026/07/Juego-Cordoba-TDF-00-03-01-top.avif	image/avif	32562	gallery_image
+24818	MEL-CR-01-00	Juego Córdoba	publish	2026/07/Juego-Cordoba-TDF-00-03-01.avif	media/production/uploads/2026/07/Juego-Cordoba-TDF-00-03-01.avif	image/avif	32563	featured_image
+24820	MEL-CR-02-00	Juego VIZCAYA	publish	2023/02/modulo-vizcaya-nuevo-juego-en-parques.png	media/production/uploads/2023/02/modulo-vizcaya-nuevo-juego-en-parques.png	image/png	24976	parented_attachment
+24820	MEL-CR-02-00	Juego VIZCAYA	publish	2026/07/Juego-Vizcaya-TDF-00-01-00-im.avif	media/production/uploads/2026/07/Juego-Vizcaya-TDF-00-01-00-im.avif	image/avif	32532	gallery_image
+24820	MEL-CR-02-00	Juego VIZCAYA	publish	2026/07/Juego-Vizcaya-TDF-00-01-00-top.avif	media/production/uploads/2026/07/Juego-Vizcaya-TDF-00-01-00-top.avif	image/avif	32533	gallery_image
+24820	MEL-CR-02-00	Juego VIZCAYA	publish	2026/07/Juego-Vizcaya-TDF-00-01-00.avif	media/production/uploads/2026/07/Juego-Vizcaya-TDF-00-01-00.avif	image/avif	32534	featured_image
+24822	MEL-CR-03-00	Juego VALLADOLID	publish	2023/02/modulo-valladolid-TDF-00-02-00.jpg	media/production/uploads/2023/02/modulo-valladolid-TDF-00-02-00.jpg	image/jpeg	24823	parented_attachment
+24822	MEL-CR-03-00	Juego VALLADOLID	publish	2026/07/Juego-Valladolid-TDF-00-02-02-im.avif	media/production/uploads/2026/07/Juego-Valladolid-TDF-00-02-02-im.avif	image/avif	32527	gallery_image
+24822	MEL-CR-03-00	Juego VALLADOLID	publish	2026/07/Juego-Valladolid-TDF-00-02-02-top.avif	media/production/uploads/2026/07/Juego-Valladolid-TDF-00-02-02-top.avif	image/avif	32528	gallery_image
+24822	MEL-CR-03-00	Juego VALLADOLID	publish	2026/07/Juego-Valladolid-TDF-00-02-02.avif	media/production/uploads/2026/07/Juego-Valladolid-TDF-00-02-02.avif	image/avif	32529	featured_image
+24851	EOS-00-04-00	Juego Iggy	publish	2023/02/modulo-iggy-EOS-00-04-00.jpg	media/production/uploads/2023/02/modulo-iggy-EOS-00-04-00.jpg	image/jpeg	24852	parented_attachment
+24851	EOS-00-04-00	Juego Iggy	publish	2026/03/EOS-00-04-00-MODULO-IGGY.avif	media/production/uploads/2026/03/EOS-00-04-00-MODULO-IGGY.avif	image/avif	32139	featured_image | parented_attachment
+24856	EOS-00-05-00	Juego Yety	publish	2023/02/modulo-yety-EOS-00-05-00.jpg	media/production/uploads/2023/02/modulo-yety-EOS-00-05-00.jpg	image/jpeg	24857	parented_attachment
+24856	EOS-00-05-00	Juego Yety	publish	2026/03/EOS-00-05-00-MODULO-YETY.avif	media/production/uploads/2026/03/EOS-00-05-00-MODULO-YETY.avif	image/avif	32140	featured_image | parented_attachment
+24871	SUB-MA-01-00	SUBE Y BAJA DE MADERA NATURAL	publish	2023/02/sube-y-baja-de-madera-SUB-MA-01-00.jpg	media/production/uploads/2023/02/sube-y-baja-de-madera-SUB-MA-01-00.jpg	image/jpeg	24872	featured_image | parented_attachment
+24883	EJE-EM-01-00	EJERCITADOR DE PIERNAS MEDIUM	publish	2023/02/EJERCITADOR-DE-PIERNAS-MEDIUM-EJE-EM-01-00.jpg	media/production/uploads/2023/02/EJERCITADOR-DE-PIERNAS-MEDIUM-EJE-EM-01-00.jpg	image/jpeg	24884	featured_image | parented_attachment
+24885	EJE-EM-02-00	EJERCITADOR ABDOMINALES MEDIUM	publish	2023/02/Ejercitador-Abdominales-Medium-EJE-EM-02-00.jpg	media/production/uploads/2023/02/Ejercitador-Abdominales-Medium-EJE-EM-02-00.jpg	image/jpeg	24886	featured_image | parented_attachment
+24887	EJE-EM-03-00	EJERCITADOR ELIPTICA MEDIUM	publish	2023/02/Ejercitador-Eliptica-Medium-EJE-EM-03-00.jpg	media/production/uploads/2023/02/Ejercitador-Eliptica-Medium-EJE-EM-03-00.jpg	image/jpeg	24888	featured_image | parented_attachment
+24889	EJE-EM-04-00	EJERCITADOR CAMINADORA MEDIUM	publish	2023/02/Ejercitador-Caminadora-Medium-EJE-EM-04-00.jpg	media/production/uploads/2023/02/Ejercitador-Caminadora-Medium-EJE-EM-04-00.jpg	image/jpeg	24890	featured_image | parented_attachment
+24891	EJE-EM-05-00	EJERCITADOR POTRO MEDIUM	publish	2023/02/Ejercitador-Potro-Medium-EJE-EM-05-00.jpg	media/production/uploads/2023/02/Ejercitador-Potro-Medium-EJE-EM-05-00.jpg	image/jpeg	24892	featured_image | parented_attachment
+24893	EJE-EM-06-00	EJERCITADOR BARRAS PARALELAS MEDIUM	publish	2023/02/Ejercitador-Barras-Paralelas-Medium-EJE-EM-06-00.jpg	media/production/uploads/2023/02/Ejercitador-Barras-Paralelas-Medium-EJE-EM-06-00.jpg	image/jpeg	24894	featured_image | parented_attachment
+24895	EJE-EM-07-00	EJERCITADOR BRAZOS Y MUÑECAS MEDIUM	publish	2023/02/Ejercitador-Brazos-y-Munecas-Medium-EJE-EM-07-00.jpg	media/production/uploads/2023/02/Ejercitador-Brazos-y-Munecas-Medium-EJE-EM-07-00.jpg	image/jpeg	24896	featured_image | parented_attachment
+24897	EJE-EM-08-00	EJERCITADOR MOVIMIENTO DE CINTURA MEDIUM	publish	2023/02/Ejercitador-Movimiento-de-Cintura-Medium-EJE-EM-08-00.jpg	media/production/uploads/2023/02/Ejercitador-Movimiento-de-Cintura-Medium-EJE-EM-08-00.jpg	image/jpeg	24898	featured_image | parented_attachment
+24899	EJE-EM-09-00	EJERCITADOR SURFER MEDIUM	publish	2023/02/Ejercitador-Surfer-Medium-EJE-EM-09-00.jpg	media/production/uploads/2023/02/Ejercitador-Surfer-Medium-EJE-EM-09-00.jpg	image/jpeg	24900	featured_image | parented_attachment
+24901	EJE-EM-10-00	EJERCITADOR DE BRAZO MEDIUM	publish	2023/02/Ejercitador-de-Brazo-Medium-EJE-EM-10-00.jpg	media/production/uploads/2023/02/Ejercitador-de-Brazo-Medium-EJE-EM-10-00.jpg	image/jpeg	24902	featured_image | parented_attachment
+25233	EOS-MA-01-00	Juego MADERA A	publish	2023/03/juego-de-madera-modulo-a-2.jpg	media/production/uploads/2023/03/juego-de-madera-modulo-a-2.jpg	image/jpeg	25235	gallery_image | parented_attachment
+25233	EOS-MA-01-00	Juego MADERA A	publish	2023/03/juego-de-madera-modulo-a.jpg	media/production/uploads/2023/03/juego-de-madera-modulo-a.jpg	image/jpeg	25234	featured_image | parented_attachment
+25243	BOA-PT-01-00	Private: Pixel Board	private	2023/03/pizarron-interactivo-con-luces.jpg	media/production/uploads/2023/03/pizarron-interactivo-con-luces.jpg	image/jpeg	25245	gallery_image | parented_attachment
+25243	BOA-PT-01-00	Private: Pixel Board	private	2023/03/pizarron-interactivo.jpg	media/production/uploads/2023/03/pizarron-interactivo.jpg	image/jpeg	25244	featured_image | parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_arco_multifuncional_retos_bajos_juegos_infantiles_juegos_para_exteriores.jpg	media/production/uploads/2024/02/Productos_jumbo_arco_multifuncional_retos_bajos_juegos_infantiles_juegos_para_exteriores.jpg	image/jpeg	28364	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_barco_modulo_tematico_zebra_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_barco_modulo_tematico_zebra_juegos_infantiles.jpg	image/jpeg	28344	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_barco_vikingo_juego_tematico_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_barco_vikingo_juego_tematico_juegos_infantiles.jpg	image/jpeg	28345	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_casa_interactiva_juegos_para_jardin_juegos_para_exteriores.jpg	media/production/uploads/2024/02/Productos_jumbo_casa_interactiva_juegos_para_jardin_juegos_para_exteriores.jpg	image/jpeg	28346	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_columpio_columpios_juegos_infantiles_juegos_para_jardin.jpg	media/production/uploads/2024/02/Productos_jumbo_columpio_columpios_juegos_infantiles_juegos_para_jardin.jpg	image/jpeg	28347	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_columpio_de_madera_juegos_de_madera_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_columpio_de_madera_juegos_de_madera_juegos_infantiles.jpg	image/jpeg	28348	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_columpio_tematico_columpios_juegos_infantiles_juegos_para_exteriores.jpg	media/production/uploads/2024/02/Productos_jumbo_columpio_tematico_columpios_juegos_infantiles_juegos_para_exteriores.jpg	image/jpeg	28349	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_cubo_de_retos_bajos_juegos_de_retos_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_cubo_de_retos_bajos_juegos_de_retos_juegos_infantiles.jpg	image/jpeg	28350	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_ensueno_juegos_modulares_para_exterior_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_ensueno_juegos_modulares_para_exterior_juegos_infantiles.jpg	image/jpeg	28351	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_modulo_tematico_jirafa_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_modulo_tematico_jirafa_juegos_infantiles.jpg	image/jpeg	28352	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_montable_dino_verde_montables_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_montable_dino_verde_montables_juegos_infantiles.jpg	image/jpeg	28353	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_montable_nessy_azul_montables_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_montable_nessy_azul_montables_juegos_infantiles.jpg	image/jpeg	28354	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_pasapies_juegos_de_retos_bajos_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_pasapies_juegos_de_retos_bajos_juegos_infantiles.jpg	image/jpeg	28355	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_puente_colgante_retos_bajos_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_puente_colgante_retos_bajos_juegos_infantiles.jpg	image/jpeg	28356	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_trepadero_T-rex_juegos_trepaderos_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_trepadero_T-rex_juegos_trepaderos_juegos_infantiles.jpg	image/jpeg	28361	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_trepadero_chico_juegos_infantiles_para_interiores.jpg	media/production/uploads/2024/02/Productos_jumbo_trepadero_chico_juegos_infantiles_para_interiores.jpg	image/jpeg	28357	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_trepadero_cubo_de_red_juegos_trepaderos_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_trepadero_cubo_de_red_juegos_trepaderos_juegos_infantiles.jpg	image/jpeg	28358	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_trepadero_gr_juegos_infantiles_modulares_para_interiores.jpg	media/production/uploads/2024/02/Productos_jumbo_trepadero_gr_juegos_infantiles_modulares_para_interiores.jpg	image/jpeg	28359	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_trepadero_m_juegos_infantiles_modulares_para_interiores.jpg	media/production/uploads/2024/02/Productos_jumbo_trepadero_m_juegos_infantiles_modulares_para_interiores.jpg	image/jpeg	28360	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_trepadero_triceraptop_juegos_tematicos_juegos_trepaderos.jpg	media/production/uploads/2024/02/Productos_jumbo_trepadero_triceraptop_juegos_tematicos_juegos_trepaderos.jpg	image/jpeg	28362	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2024/02/Productos_jumbo_tunel_infantil_azul_juegos_para_jardin_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_tunel_infantil_azul_juegos_para_jardin_juegos_infantiles.jpg	image/jpeg	28363	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2026/03/EOS-PR-34-00-MODULO-ENSUENO.avif	media/production/uploads/2026/03/EOS-PR-34-00-MODULO-ENSUENO.avif	image/avif	32141	parented_attachment
+28342	EOS-PR-34-20	Ensueño	publish	2026/07/Ensueno-EOS-PR-34-00-1.avif	media/production/uploads/2026/07/Ensueno-EOS-PR-34-00-1.avif	image/avif	32685	featured_image
+28342	EOS-PR-34-20	Ensueño	publish	2026/07/Ensueno-EOS-PR-34-00-top.avif	media/production/uploads/2026/07/Ensueno-EOS-PR-34-00-top.avif	image/avif	32537	gallery_image
+28365	TEM-PL-15-20	Juego temático jirafa	publish	2026/03/TEM-PL-15-00-MODULO-TEMATICO-JIRAFA.avif	media/production/uploads/2026/03/TEM-PL-15-00-MODULO-TEMATICO-JIRAFA.avif	image/avif	32146	parented_attachment
+28365	TEM-PL-15-20	Juego temático jirafa	publish	2026/07/Juego-Tematico-Jirafa-TEM-PL-15-00-im.avif	media/production/uploads/2026/07/Juego-Tematico-Jirafa-TEM-PL-15-00-im.avif	image/avif	32518	gallery_image
+28365	TEM-PL-15-20	Juego temático jirafa	publish	2026/07/Juego-Tematico-Jirafa-TEM-PL-15-00-top.avif	media/production/uploads/2026/07/Juego-Tematico-Jirafa-TEM-PL-15-00-top.avif	image/avif	32519	gallery_image
+28365	TEM-PL-15-20	Juego temático jirafa	publish	2026/07/Juego-Tematico-Jirafa-TEM-PL-15-00.avif	media/production/uploads/2026/07/Juego-Tematico-Jirafa-TEM-PL-15-00.avif	image/avif	32520	featured_image
+28369	TEM-PL-16-20	Juego temático Zebra	publish	2026/03/TEM-PL-16-00-MODULO-TEMATICO-ZEBRA.avif	media/production/uploads/2026/03/TEM-PL-16-00-MODULO-TEMATICO-ZEBRA.avif	image/avif	32145	parented_attachment
+28369	TEM-PL-16-20	Juego temático Zebra	publish	2026/07/Juego-Tematico-Zebra-TEM-PL-16-00-1.avif	media/production/uploads/2026/07/Juego-Tematico-Zebra-TEM-PL-16-00-1.avif	image/avif	32683	featured_image
+28369	TEM-PL-16-20	Juego temático Zebra	publish	2026/07/Juego-Tematico-Zebra-TEM-PL-16-00-im.avif	media/production/uploads/2026/07/Juego-Tematico-Zebra-TEM-PL-16-00-im.avif	image/avif	32521	gallery_image
+28369	TEM-PL-16-20	Juego temático Zebra	publish	2026/07/Juego-Tematico-Zebra-TEM-PL-16-00-top.avif	media/production/uploads/2026/07/Juego-Tematico-Zebra-TEM-PL-16-00-top.avif	image/avif	32522	gallery_image
+28398	TRE-CU-12-00	CUBO DE RETOS BAJOS	publish	2024/02/Productos_jumbo_cubo_de_retos_bajos_juegos_de_retos_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_cubo_de_retos_bajos_juegos_de_retos_juegos_infantiles.jpg	image/jpeg	28350	featured_image
+28399	PAS-PL-01-00	Pasapies	publish	2026/03/PAS-PL-01-00-PASAPIES.avif	media/production/uploads/2026/03/PAS-PL-01-00-PASAPIES.avif	image/avif	32155	featured_image | parented_attachment
+28409	IRE-PL-11-00	MONTABLE NESSY	publish	2024/02/Productos_jumbo_montable_nessy_azul_montables_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_montable_nessy_azul_montables_juegos_infantiles.jpg	image/jpeg	28354	featured_image
+28410	IRE-PL-10-00	MONTABLE DINO	publish	2024/02/Productos_jumbo_montable_dino_verde_montables_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_montable_dino_verde_montables_juegos_infantiles.jpg	image/jpeg	28353	featured_image
+28412	COL-MA-01-00	COLUMPIO DE MADERA	publish	2024/02/Productos_jumbo_columpio_de_madera_juegos_de_madera_juegos_infantiles.jpg	media/production/uploads/2024/02/Productos_jumbo_columpio_de_madera_juegos_de_madera_juegos_infantiles.jpg	image/jpeg	28348	featured_image
+28647	EJE-BA-21-00	Private: Ejercitador barras paralelas	private	2024/03/productos_jumbo_ejercitador_barras-paralelas_doble.png	media/production/uploads/2024/03/productos_jumbo_ejercitador_barras-paralelas_doble.png	image/png	28648	featured_image | parented_attachment
+28651	EJE-ID-49-00	GIMNASIO GRANDE DE BARRAS AL AIRE LIBRE	publish	2024/03/gimnasio_grande_de-barras_al-aire_libre_productos_jumbo.png	media/production/uploads/2024/03/gimnasio_grande_de-barras_al-aire_libre_productos_jumbo.png	image/png	28652	featured_image | parented_attachment
+28654	EJE-ID-50-00	Gimnasio mediano de barras al aire libre	publish	2024/03/gimnasio_mediano-de-barras_al-aire_libre_productos_jumbo.png	media/production/uploads/2024/03/gimnasio_mediano-de-barras_al-aire_libre_productos_jumbo.png	image/png	28655	parented_attachment
+28654	EJE-ID-50-00	Gimnasio mediano de barras al aire libre	publish	2026/03/EJE-ID-50-00-GIMNASIO-MEDIANO-DE-BARRAS-AL-AIRE-LIBRE.avif	media/production/uploads/2026/03/EJE-ID-50-00-GIMNASIO-MEDIANO-DE-BARRAS-AL-AIRE-LIBRE.avif	image/avif	32176	featured_image | parented_attachment
+28664	EJE-ID-52-00	PARED MILITAR	publish	2024/03/pared_militar_para_obstaculos_productos_jumbo.png	media/production/uploads/2024/03/pared_militar_para_obstaculos_productos_jumbo.png	image/png	28665	featured_image | parented_attachment
+28674	EJE-ID-05-01	EJERCITADOR BANCO ABDOMINAL HORIZONTAL	publish	2024/03/ejercitador_banco_abdominal_horizontal_productos_jumbo.png	media/production/uploads/2024/03/ejercitador_banco_abdominal_horizontal_productos_jumbo.png	image/png	28675	featured_image | parented_attachment
+28676	EJE-ID-06-00	Ejercitador Banco Abdominal Inclinado	publish	2024/03/EJE-EST-06-00-EJERCITADOR-BANCO-ABDOMINAL-INCLINADO.avif	media/production/uploads/2024/03/EJE-EST-06-00-EJERCITADOR-BANCO-ABDOMINAL-INCLINADO.avif	image/avif	32422	featured_image | parented_attachment
+28676	EJE-ID-06-00	Ejercitador Banco Abdominal Inclinado	publish	2024/03/ejercitador_banco_abdominal-inclinado_productos_jumbo.jpg	media/production/uploads/2024/03/ejercitador_banco_abdominal-inclinado_productos_jumbo.jpg	image/jpeg	28677	parented_attachment
+28678	CAN-00-03-00	Grua Canina	publish	2024/03/grua_canina_productos_jumbo.png	media/production/uploads/2024/03/grua_canina_productos_jumbo.png	image/png	28679	parented_attachment
+28678	CAN-00-03-00	Grua Canina	publish	2026/03/CAN-00-03-00-GRUA-CANINA.avif	media/production/uploads/2026/03/CAN-00-03-00-GRUA-CANINA.avif	image/avif	32183	featured_image | parented_attachment
+29276	ARC-6472	Pista de Skate ARC-6472	publish	2024/07/Pista-de-Skate-ARC-6472.webp	media/production/uploads/2024/07/Pista-de-Skate-ARC-6472.webp	image/webp	29277	featured_image | parented_attachment
+29280	ARC-5911	Pista de Skate ARC-5911	publish	2024/07/Pista-de-Skate-ARC-5911.webp	media/production/uploads/2024/07/Pista-de-Skate-ARC-5911.webp	image/webp	29287	featured_image | parented_attachment
+29281	ARCPT-01	Speed ring	publish	2024/07/Speed-Ring.webp	media/production/uploads/2024/07/Speed-Ring.webp	image/webp	29282	featured_image | parented_attachment
+29284	ARCPT-02	Triple Threat	publish	2024/07/Triple-Treat.webp	media/production/uploads/2024/07/Triple-Treat.webp	image/webp	29285	featured_image | parented_attachment
+29373	CPL-124	BANCA GRAPA	publish	2024/08/Banca-Grapa-CPL-124.webp	media/production/uploads/2024/08/Banca-Grapa-CPL-124.webp	image/webp	29374	featured_image | parented_attachment
+29377	CPL-224	BANCA CUBO	publish	2024/08/Banco-Cubo-CPL-224-copia.webp	media/production/uploads/2024/08/Banco-Cubo-CPL-224-copia.webp	image/webp	29378	featured_image | parented_attachment
+29380	CPL-324	BANCA LINGOTE	publish	2024/08/Banca-Lingote-CPL-324.webp	media/production/uploads/2024/08/Banca-Lingote-CPL-324.webp	image/webp	29381	featured_image | parented_attachment
+29383	CPL-424	MESA DE AJEDREZ DE CONCRETO	publish	2024/08/Mesa-de-Ajedrez-de-Concreto-CPL-424.webp	media/production/uploads/2024/08/Mesa-de-Ajedrez-de-Concreto-CPL-424.webp	image/webp	29384	featured_image | parented_attachment
+29757	CIR-00-14-00	GIMNASIO CALISTENIA C	publish	2024/11/gimnasio-calistenia-c.jpg	media/production/uploads/2024/11/gimnasio-calistenia-c.jpg	image/jpeg	29758	featured_image | parented_attachment
+30487	KOM-COR203301-1101	Twister inclusivo	publish	2025/05/KOM-COR203301-1101.png	media/production/uploads/2025/05/KOM-COR203301-1101.png	image/png	30488	featured_image | parented_attachment
+30490	KOM-ELE400024-3717F	Spinner bowl	publish	2025/05/KOM-ELE400024-3717F.png	media/production/uploads/2025/05/KOM-ELE400024-3717F.png	image/png	30491	featured_image | parented_attachment
+30492	KOM-PCM157-0205	Carrusel inclusivo	publish	2025/05/KOM-PCM157-0205.png	media/production/uploads/2025/05/KOM-PCM157-0205.png	image/png	30493	featured_image | parented_attachment
+30494	KOM-PCM153-0902	Carrusel 3 asientos	publish	2025/05/KOM-PCM153-0902.png	media/production/uploads/2025/05/KOM-PCM153-0902.png	image/png	30495	featured_image | parented_attachment
+30496	KOM-PCM159-1001	Wehopper	publish	2025/05/KOM-PCM159-1001.png	media/production/uploads/2025/05/KOM-PCM159-1001.png	image/png	30497	featured_image | parented_attachment
+30498	KOM-M98401-1011	Columpio péndulo	publish	2025/05/KOM-M98401-1011.png	media/production/uploads/2025/05/KOM-M98401-1011.png	image/png	30499	featured_image | parented_attachment
+30500	KOM-BLX410501-3717	Bloqx 5	publish	2025/05/KOM-BLX410501-3717.png	media/production/uploads/2025/05/KOM-BLX410501-3717.png	image/png	30501	featured_image | parented_attachment
+30502	KOM-GXY916021-3417	Supernova	publish	2025/05/KOM-GXY916021-3417.png	media/production/uploads/2025/05/KOM-GXY916021-3417.png	image/png	30503	featured_image | parented_attachment
+30504	KOM-PCM200432-0901	Mega deck doble con torre	publish	2025/05/KOM-PCM200432-0901.png	media/production/uploads/2025/05/KOM-PCM200432-0901.png	image/png	30505	featured_image | parented_attachment
+30506	KOM-CRP812001-0404	Domo sensorial	publish	2025/05/KOM-CRP812001-0404.png	media/production/uploads/2025/05/KOM-CRP812001-0404.png	image/png	30507	featured_image | parented_attachment
+30508	KOM-COR175101-0403	Mariposa, physical	publish	2025/05/KOM-COR175101-0403.png	media/production/uploads/2025/05/KOM-COR175101-0403.png	image/png	30509	featured_image | parented_attachment
+30510	KOM-CRP812501-0404	Domo explorer	publish	2025/05/KOM-CRP812501-0404.png	media/production/uploads/2025/05/KOM-CRP812501-0404.png	image/png	30511	featured_image | parented_attachment
+30513	KOM-CRP810201-0903	Mini cúpula con tobogan	publish	2025/05/KOM-CRP810201-0903.png	media/production/uploads/2025/05/KOM-CRP810201-0903.png	image/png	30514	featured_image | parented_attachment
+30515	KOM-PCT310321-0901	Giant palacio l+xl & torre mediana	publish	2025/05/KOM-PCT310321-0901.png	media/production/uploads/2025/05/KOM-PCT310321-0901.png	image/png	30516	featured_image | parented_attachment
+30517	KOM-NRO2008-1001	El castillo de la bruja	publish	2025/05/KOM-NRO200801-1001.png	media/production/uploads/2025/05/KOM-NRO200801-1001.png	image/png	30518	featured_image | parented_attachment
+30519	KOM-NRO836-1201	Cupula jungla	publish	2025/05/KOM-NRO836-1201.png	media/production/uploads/2025/05/KOM-NRO836-1201.png	image/png	30520	featured_image | parented_attachment
+30521	KOM-PCM112821-0901	Castillo con torre de vigía	publish	2025/05/KOM-PCM112821-0901.png	media/production/uploads/2025/05/KOM-PCM112821-0901.png	image/png	30522	featured_image | parented_attachment
+30523	KOM-PCM113221-0901	Barco man-o-war	publish	2025/05/KOM-PCM113221-0901.png	media/production/uploads/2025/05/KOM-PCM113221-0901.png	image/png	30524	featured_image | parented_attachment
+30525	KOM-KPL400722-0902	Cuatro torres con tobogan de tubo	publish	2025/05/KOM-KPL400722-0902.png	media/production/uploads/2025/05/KOM-KPL400722-0902.png	image/png	30526	featured_image | parented_attachment
+30527	KOM-PCM103031-0901	Torre de juego con rampa	publish	2025/05/KOM-PCM103031-0901.png	media/production/uploads/2025/05/KOM-PCM103031-0901.png	image/png	30528	featured_image | parented_attachment
+30529	KOM-PCM81121-0950	Duo climber	publish	2025/05/KOM-PCM81121-0950.png	media/production/uploads/2025/05/KOM-PCM81121-0950.png	image/png	30530	featured_image | parented_attachment
+30532	KOM-NRO2005-1001	Torre de los magos doble	publish	2025/05/KOM-NRO200501-1001.png	media/production/uploads/2025/05/KOM-NRO200501-1001.png	image/png	30533	featured_image | parented_attachment
+30534	KOM-NRO542-1021	Barco explorador mediano	publish	2025/05/KOM-NRO542-1021.png	media/production/uploads/2025/05/KOM-NRO542-1021.png	image/png	30535	featured_image | parented_attachment
+30536	KOM-NRO854-1001	Parcour 9	publish	2025/05/KOM-NRO854-1001.png	media/production/uploads/2025/05/KOM-NRO854-1001.png	image/png	30538	featured_image | parented_attachment
+30539	KOM-NRO865-1001	Parcour 6	publish	2025/05/KOM-NRO865-1001.png	media/production/uploads/2025/05/KOM-NRO865-1001.png	image/png	30540	featured_image | parented_attachment
+30541	KOM-PCE305121-0603	Buscacaminos	publish	2025/05/KOM-PCE305121-0603.png	media/production/uploads/2025/05/KOM-PCE305121-0603.png	image/png	30542	featured_image | parented_attachment
+30543	KOM-M98301-1009	Columpio nido 360	publish	2025/05/KOM-M98301-1009.png	media/production/uploads/2025/05/KOM-M98301-1009.png	image/png	30544	featured_image | parented_attachment
+30545	KOM-FAZ20100-0900	Combi 1 cross training	publish	2025/05/KOM-FAZ20100-0900.png	media/production/uploads/2025/05/KOM-FAZ20100-0900.png	image/png	30546	featured_image | parented_attachment
+30547	KOM-FAZ60300-0001	Prensa de piernas	publish	2025/05/KOM-FAZ60300-0001.png	media/production/uploads/2025/05/KOM-FAZ60300-0001.png	image/png	30549	featured_image | parented_attachment
+30550	KOM-FAZ60100-0001	Prensa de pecho	publish	2025/05/KOM-FAZ60100-0001.png	media/production/uploads/2025/05/KOM-FAZ60100-0001.png	image/png	30551	featured_image | parented_attachment
+30552	KOM-FAZ60600-0001	Banco de abdominales	publish	2025/05/KOM-FAZ60600-0001.png	media/production/uploads/2025/05/KOM-FAZ60600-0001.png	image/png	30553	featured_image | parented_attachment
+30554	KOM-FAZ52100-0801	Bicicleta elíptica	publish	2025/05/KOM-FAZ52100-0801.png	media/production/uploads/2025/05/KOM-FAZ52100-0801.png	image/png	30555	featured_image | parented_attachment
+30556	KOM-FAZ60200-0001	Jalón para espalda	publish	2025/05/KOM-FAZ60200-0001.png	media/production/uploads/2025/05/KOM-FAZ60200-0001.png	image/png	30557	featured_image | parented_attachment
+30558	KOM-FAZ60400-0001	Prensa de hombros	publish	2025/05/KOM-FAZ60400-0001.png	media/production/uploads/2025/05/KOM-FAZ60400-0001.png	image/png	30559	featured_image | parented_attachment
+30560	KOM-FAZ60500-0001	Remo horizontal	publish	2025/05/KOM-FAZ60500-0001.png	media/production/uploads/2025/05/KOM-FAZ60500-0001.png	image/png	30561	featured_image | parented_attachment
+30562	KOM-FAZ60700-0001	Hiperextensor lumbar	publish	2025/05/KOM-FAZ60700-0001.png	media/production/uploads/2025/05/KOM-FAZ60700-0001.png	image/png	30563	featured_image | parented_attachment
+30564	KOM-FAZ50100-0801	Bicicleta de ciudad	publish	2025/05/KOM-FAZ50100-0801.png	media/production/uploads/2025/05/KOM-FAZ50100-0801.png	image/png	30565	featured_image | parented_attachment
+30731	MDA-PL-01-00	Juego Freya	publish	2025/07/freya-01.png	media/production/uploads/2025/07/freya-01.png	image/png	30732	parented_attachment
+30731	MDA-PL-01-00	Juego Freya	publish	2025/07/freya-02.png	media/production/uploads/2025/07/freya-02.png	image/png	30733	gallery_image | parented_attachment
+30731	MDA-PL-01-00	Juego Freya	publish	2026/03/MDA-PL-01-00-MODULO-FREYA.avif	media/production/uploads/2026/03/MDA-PL-01-00-MODULO-FREYA.avif	image/avif	32157	featured_image | parented_attachment
+30734	MDA-PL-02-00	Juego Magni	publish	2025/07/MAGNI-1.png	media/production/uploads/2025/07/MAGNI-1.png	image/png	30735	parented_attachment
+30734	MDA-PL-02-00	Juego Magni	publish	2025/07/MAGNI-2.png	media/production/uploads/2025/07/MAGNI-2.png	image/png	30736	gallery_image | parented_attachment
+30734	MDA-PL-02-00	Juego Magni	publish	2026/03/MDA-PL-02-00-MODULO-MAGNI.avif	media/production/uploads/2026/03/MDA-PL-02-00-MODULO-MAGNI.avif	image/avif	32156	featured_image | parented_attachment
+31943	MUS-CV-03-00	Juego Musical B01	publish	2026/02/juego-musical-b01.avif	media/production/uploads/2026/02/juego-musical-b01.avif	image/avif	31944	featured_image | parented_attachment
+31946	MUS-CV-02-00	Juego Musical PE-D01-A	publish	2026/02/juego-musical-pe-d01-a.avif	media/production/uploads/2026/02/juego-musical-pe-d01-a.avif	image/avif	31947	featured_image | parented_attachment
+31948	ZHEJU-047A	Juego 047A	publish	2026/02/modulo-047a.avif	media/production/uploads/2026/02/modulo-047a.avif	image/avif	31950	featured_image | parented_attachment
+31951	WH-BRITANIA-G	Juego BRITANIA GRIS	publish	2026/02/modulo-britania-gris.avif	media/production/uploads/2026/02/modulo-britania-gris.avif	image/avif	31952	featured_image | parented_attachment
+31953	WH-BARCOP	Juego BARCO PIRATA	publish	2026/02/modulo-barco-pirata.avif	media/production/uploads/2026/02/modulo-barco-pirata.avif	image/avif	31955	featured_image | parented_attachment
+31956	WH-PARMA	Juego PARMA	publish	2026/02/modulo-parma.avif	media/production/uploads/2026/02/modulo-parma.avif	image/avif	31957	featured_image | parented_attachment
+31958	WH-BARCELONA-GR	Juego BARCELONA	publish	2026/02/modulo-barcelona-wh.avif	media/production/uploads/2026/02/modulo-barcelona-wh.avif	image/avif	31959	featured_image | parented_attachment
+31960	ZHEJU-125A	Juego 125A	publish	2026/02/modulo-125a.avif	media/production/uploads/2026/02/modulo-125a.avif	image/avif	31961	featured_image | parented_attachment
+32083	WH-TAN	Juego Tan	publish	2026/03/modulo-tan.avif	media/production/uploads/2026/03/modulo-tan.avif	image/avif	32084	featured_image
+32088	WH-IRE07	Montable Surfboard	publish	2026/03/montable-surfboard-scaled.avif	media/production/uploads/2026/03/montable-surfboard-scaled.avif	image/avif	32085	featured_image
+32089	OKOK-N01	EJERCITADOR CINTURA Y ESCALERAS OK	publish	2026/03/productos_jumbo_ejercitador_cintura_y_escalera_exterior_okstar.avif	media/production/uploads/2026/03/productos_jumbo_ejercitador_cintura_y_escalera_exterior_okstar.avif	image/avif	32086	featured_image
+32090	OKST-T01X	Taiji Pushing	publish	2026/03/taiji-pushing.avif	media/production/uploads/2026/03/taiji-pushing.avif	image/avif	32087	featured_image
+32097	GIR-PL-03-00	GIRATORIO ODÍN	publish	2026/03/GIR-PL-03-00-GIRATORIO-ODIN.avif	media/production/uploads/2026/03/GIR-PL-03-00-GIRATORIO-ODIN.avif	image/avif	32098	featured_image | parented_attachment
+32099	GIR-PL-04-00	GIRATORIO SAGA	publish	2026/03/GIR-PL-04-00-GIRATORIO-SAGA.avif	media/production/uploads/2026/03/GIR-PL-04-00-GIRATORIO-SAGA.avif	image/avif	32100	featured_image | parented_attachment
+32101	MES-MA-01-00	MESA CIRCULAR PARA ARBOL	publish	2026/03/MES-MA-01-00-MESA-CIRCULAR-PARA-ARBOL.avif	media/production/uploads/2026/03/MES-MA-01-00-MESA-CIRCULAR-PARA-ARBOL.avif	image/avif	32102	featured_image | parented_attachment
+32103	MES-PM-03-00	MESAPICNIC CHESTER	publish	2026/03/MES-PM-03-00-MESAPICNIC-CHESTER.avif	media/production/uploads/2026/03/MES-PM-03-00-MESAPICNIC-CHESTER.avif	image/avif	32104	featured_image | parented_attachment
+32105	MES-LP-07-00	MESA PICNIC TRIX	publish	2026/03/MES-LP-07-00-MESA-PICNIC-TRIX.avif	media/production/uploads/2026/03/MES-LP-07-00-MESA-PICNIC-TRIX.avif	image/avif	32106	featured_image | parented_attachment
+32107	MES-LP-04-01	MESA MOEBIUS CON COLUMPIOS EN PLASTIMADERA	publish	2026/03/MES-LP-04-01-MESA-MOEBIUS-CON-COLUMPIOS-EN-PLASTIMADERA.avif	media/production/uploads/2026/03/MES-LP-04-01-MESA-MOEBIUS-CON-COLUMPIOS-EN-PLASTIMADERA.avif	image/avif	32108	featured_image | parented_attachment
+32109	APA-00-13-00	APARCABICICLETAS RUDY	publish	2026/03/APA-00-13-00-APARCABICICLETAS-RUDY.avif	media/production/uploads/2026/03/APA-00-13-00-APARCABICICLETAS-RUDY.avif	image/avif	32110	featured_image | parented_attachment
+32111	BUS-00-02-00	PARABUS ZAMBA	publish	2026/03/BUS-00-02-00-PARABUS-ZAMBA.avif	media/production/uploads/2026/03/BUS-00-02-00-PARABUS-ZAMBA.avif	image/avif	32112	featured_image | parented_attachment
+32113	MOB-CV-12	LUMINARIA NAVAL 2.20	publish	2026/03/MOB-CV-12-LUMINARIA-NAVAL-2.20.avif	media/production/uploads/2026/03/MOB-CV-12-LUMINARIA-NAVAL-2.20.avif	image/avif	32114	featured_image | parented_attachment
+32115	PIL-CV-01-00	LUMINARIA VELA 2.20	publish	2026/03/PIL-CV-01-00-LUMINARIA-VELA-2.20.avif	media/production/uploads/2026/03/PIL-CV-01-00-LUMINARIA-VELA-2.20.avif	image/avif	32116	featured_image | parented_attachment
+32117	PIL-CV-02-00	LUMINARIA VELA 2.60	publish	2026/03/PIL-CV-02-00-LUMINARIA-VELA-2.60.avif	media/production/uploads/2026/03/PIL-CV-02-00-LUMINARIA-VELA-2.60.avif	image/avif	32118	featured_image | parented_attachment
+32119	TIR-00-01-00	TIROLESA	publish	2026/03/TIR-00-01-00-TIROLESA.avif	media/production/uploads/2026/03/TIR-00-01-00-TIROLESA.avif	image/avif	32120	featured_image | parented_attachment
+32121	EOS-MA-03-00	Juego DE MADERA BASICO	publish	2026/03/EOS-MA-03-00-MODULO-DE-MADERA-BASICO.avif	media/production/uploads/2026/03/EOS-MA-03-00-MODULO-DE-MADERA-BASICO.avif	image/avif	32122	featured_image | parented_attachment
+32123	JAI-219	CAÑON DE AGUA	publish	2026/03/JAI-219-CANON-DE-AGUA.avif	media/production/uploads/2026/03/JAI-219-CANON-DE-AGUA.avif	image/avif	32124	featured_image | parented_attachment
+32125	JAI-319	CUBETAS DE VOLTEO	publish	2026/03/JAI-319-CUBETAS-DE-VOLTEO.avif	media/production/uploads/2026/03/JAI-319-CUBETAS-DE-VOLTEO.avif	image/avif	32126	featured_image | parented_attachment
+32127	LEPDM-AMA	TOP-IT-TOPE DE CONTENSION	publish	2026/03/LEPDM-AMA-TOP-IT-TOPE-DE-CONTENSION.avif	media/production/uploads/2026/03/LEPDM-AMA-TOP-IT-TOPE-DE-CONTENSION.avif	image/avif	32128	featured_image | parented_attachment
+32129	LETDM-AMA	TARDO MODULAR	publish	2026/03/LETDM-AMA-TARDO-MODULAR.avif	media/production/uploads/2026/03/LETDM-AMA-TARDO-MODULAR.avif	image/avif	32130	featured_image | parented_attachment
+32131	LEPDM-MAC	TARDO CABECERO MACHO	publish	2026/03/LEPDM-MAC-TARDO-CABECERO-MACHO.avif	media/production/uploads/2026/03/LEPDM-MAC-TARDO-CABECERO-MACHO.avif	image/avif	32132	featured_image | parented_attachment
+32133	LEPDM-HEM	TARDO CABECERO HEMBRA	publish	2026/03/LEPDM-HEM-TARDO-CABECERO-HEMBRA.avif	media/production/uploads/2026/03/LEPDM-HEM-TARDO-CABECERO-HEMBRA.avif	image/avif	32134	featured_image | parented_attachment
+32204	OKST-J02X	EJERCITADOR POTRO	publish	2026/03/ejercitador_de_brazos_okstar_gimnasio_parques.avif	media/production/uploads/2026/03/ejercitador_de_brazos_okstar_gimnasio_parques.avif	image/avif	32205	parented_attachment
+32204	OKST-J02X	EJERCITADOR POTRO	publish	2026/03/ejercitador_pecho_okstar_gimnasios_exterior.avif	media/production/uploads/2026/03/ejercitador_pecho_okstar_gimnasios_exterior.avif	image/avif	32206	parented_attachment
+32204	OKST-J02X	EJERCITADOR POTRO	publish	2026/03/ejercitador_potro_exterior_okstar.avif	media/production/uploads/2026/03/ejercitador_potro_exterior_okstar.avif	image/avif	32207	featured_image | parented_attachment
+32204	OKST-J02X	EJERCITADOR POTRO	publish	2026/03/ejercitador_surfeadora_exterior_okstar.avif	media/production/uploads/2026/03/ejercitador_surfeadora_exterior_okstar.avif	image/avif	32208	parented_attachment
+32209	OKST-C01X	EJERCITADOR SURFER OK DOBLE	publish	2026/03/ejercitador_surfeadora_exterior_okstar.avif	media/production/uploads/2026/03/ejercitador_surfeadora_exterior_okstar.avif	image/avif	32208	featured_image
+32210	OKST-Z04X	EJERCITADOR BRAZOS OK DOBLE	publish	2026/03/ejercitador_de_brazos_okstar_gimnasio_parques.avif	media/production/uploads/2026/03/ejercitador_de_brazos_okstar_gimnasio_parques.avif	image/avif	32205	featured_image
+32212	OKST-Z03X	EJERCITADOR DE PECHO OK DOBLE	publish	2026/03/ejercitador_pecho_okstar_gimnasios_exterior.avif	media/production/uploads/2026/03/ejercitador_pecho_okstar_gimnasios_exterior.avif	image/avif	32206	featured_image
+32216	OKST-S03X-VI	BARRAS PARALELAS	publish	2025/02/ST-S03X-IS.png	media/production/uploads/2025/02/ST-S03X-IS.png	image/png	30093	featured_image
+32224	OKST-M04X-VI	CAMINADORA	publish	2025/02/ST-M04X-IS.png	media/production/uploads/2025/02/ST-M04X-IS.png	image/png	30085	featured_image
+32225	OKST-C01X-VI	SURFEANDO	publish	2025/02/ST-C01X-IS.png	media/production/uploads/2025/02/ST-C01X-IS.png	image/png	30090	featured_image
+32226	OKST-Z03X-VI	EJERCITADOR DE PECHO	publish	2025/02/ST-Z03X-IS.png	media/production/uploads/2025/02/ST-Z03X-IS.png	image/png	30087	featured_image
+32263	OKST-M04X	EJERCITADOR CAMINADORA OK	publish	2026/04/OKST-M04X-1.avif	media/production/uploads/2026/04/OKST-M04X-1.avif	image/avif	32361	featured_image
+32264	OKOK-H01	EJERCITADO REMADORA OK	publish	2026/04/OKOK-H01-1.avif	media/production/uploads/2026/04/OKOK-H01-1.avif	image/avif	32358	featured_image
+32265	OKST-T08X	EJERCITADOR ELIPTICA OK	publish	2026/04/OKST-T08X-1.avif	media/production/uploads/2026/04/OKST-T08X-1.avif	image/avif	32363	featured_image
+32266	OKOK-Z08A	EJERCITADOR BICICLETA OK	publish	2026/04/OKOK-Z08A-1.avif	media/production/uploads/2026/04/OKOK-Z08A-1.avif	image/avif	32359	featured_image
+32267	OKST-F01X	EJERCITADOR ABDOMINALES OK DOBLE	publish	2026/04/OKST-F01X-1.avif	media/production/uploads/2026/04/OKST-F01X-1.avif	image/avif	32360	featured_image
+32268	OKST-Z05X	EJERCITADOR MOVIMIENTO DE CINTURA TRIPLE	publish	2026/04/OKST-Z05X-1.avif	media/production/uploads/2026/04/OKST-Z05X-1.avif	image/avif	32365	featured_image
+32269	OKST-Z01X	EJERCITADOR DE PIERNAS OK DOBLE	publish	2026/04/OKST-Z01X-1.avif	media/production/uploads/2026/04/OKST-Z01X-1.avif	image/avif	32364	featured_image
+32270	OKST-S03X	EJERCITADOR BARRAS PARALELAS OK DOBLE	publish	2026/04/OKST-S03X-1.avif	media/production/uploads/2026/04/OKST-S03X-1.avif	image/avif	32362	featured_image
+32271	EDU-PL-01-00	PANEL CUENTA CONMIGO	publish	2026/04/EDU-PL-01-00-1.avif	media/production/uploads/2026/04/EDU-PL-01-00-1.avif	image/avif	32345	featured_image
+32272	EDU-PL-02-00	PANEL CUENTA FICHAS (1-5)	publish	2026/04/EDU-PL-02-00-1.avif	media/production/uploads/2026/04/EDU-PL-02-00-1.avif	image/avif	32346	featured_image
+32273	EDU-PL-03-00	PANEL CUENTA FICHA (6-10)	publish	2026/04/EDU-PL-03-00-1.avif	media/production/uploads/2026/04/EDU-PL-03-00-1.avif	image/avif	32347	featured_image
+32274	EDU-PL-04-00	PANEL CUENTA FICHA (0-5)	publish	2026/04/EDU-PL-04-00-1.avif	media/production/uploads/2026/04/EDU-PL-04-00-1.avif	image/avif	32348	featured_image
+32275	EDU-PL-06-00	PANEL DELETREA	publish	2026/04/EDU-PL-06-00-1.avif	media/production/uploads/2026/04/EDU-PL-06-00-1.avif	image/avif	32350	featured_image
+32276	EDU-PL-07-00	PANEL CREA PALABRAS	publish	2026/04/EDU-PL-07-00-1.avif	media/production/uploads/2026/04/EDU-PL-07-00-1.avif	image/avif	32351	featured_image
+32277	EDU-PL-08-00	Juego D_LETREA	publish	2026/04/EDU-PL-08-00-1.avif	media/production/uploads/2026/04/EDU-PL-08-00-1.avif	image/avif	32352	featured_image
+32278	EDU-PL-05-00	Juego OPERACIONES	publish	2026/04/EDU-PL-05-00-1.avif	media/production/uploads/2026/04/EDU-PL-05-00-1.avif	image/avif	32349	featured_image
+32279	EDU-PL-09-00	TOTEM CUADRADO	publish	2026/04/EDU-PL-09-00-1.avif	media/production/uploads/2026/04/EDU-PL-09-00-1.avif	image/avif	32353	featured_image
+32280	EDU-PL-10-00	TOTEM HEXAGONAL	publish	2026/04/EDU-PL-10-00-1.avif	media/production/uploads/2026/04/EDU-PL-10-00-1.avif	image/avif	32354	featured_image
+32296	BAN-PM-01-00	BANCA FUJI A	publish	2026/04/BAN-PM-01-00-BANCA-FUJI-A-1-1.avif	media/production/uploads/2026/04/BAN-PM-01-00-BANCA-FUJI-A-1-1.avif	image/avif	32294	featured_image
+32297	MEC-CR-06-00	VERONA	publish	2026/07/Juego-Verona-EOS-PR-01-02-top.avif	media/production/uploads/2026/07/Juego-Verona-EOS-PR-01-02-top.avif	image/avif	32530	gallery_image
+32297	MEC-CR-06-00	VERONA	publish	2026/07/Juego-Verona-EOS-PR-01-02.avif	media/production/uploads/2026/07/Juego-Verona-EOS-PR-01-02.avif	image/avif	32531	featured_image
+32302	BAN-PM-01-01	BANCA FUJI B	publish	2026/04/BAN-PM-01-01-BANCA-FUJI-B-1-1.avif	media/production/uploads/2026/04/BAN-PM-01-01-BANCA-FUJI-B-1-1.avif	image/avif	32298	featured_image
+32303	MER-PR-05-00	Juego BRITANIA	publish	2026/07/Juego-Britania-EOS-CR-02-03-1.avif	media/production/uploads/2026/07/Juego-Britania-EOS-CR-02-03-1.avif	image/avif	32719	featured_image
+32303	MER-PR-05-00	Juego BRITANIA	publish	2026/07/Juego-Britania-EOS-CR-02-03-im.avif	media/production/uploads/2026/07/Juego-Britania-EOS-CR-02-03-im.avif	image/avif	32553	gallery_image
+32303	MER-PR-05-00	Juego BRITANIA	publish	2026/07/Juego-Britania-EOS-CR-02-03-top.avif	media/production/uploads/2026/07/Juego-Britania-EOS-CR-02-03-top.avif	image/avif	32554	gallery_image
+32304	MEC-CR-02-00	Juego ESPAÑA	publish	2026/07/Juego-Espana-EOS-CR-03-03-1.avif	media/production/uploads/2026/07/Juego-Espana-EOS-CR-03-03-1.avif	image/avif	32715	featured_image
+32304	MEC-CR-02-00	Juego ESPAÑA	publish	2026/07/Juego-Espana-EOS-CR-03-03-top.avif	media/production/uploads/2026/07/Juego-Espana-EOS-CR-03-03-top.avif	image/avif	32564	gallery_image
+32305	MEV-CR-01-00	Juego IBIZA	publish	2026/07/Juego-Ibiza-IOS-PR-01-04-top.avif	media/production/uploads/2026/07/Juego-Ibiza-IOS-PR-01-04-top.avif	image/avif	32568	gallery_image
+32305	MEV-CR-01-00	Juego IBIZA	publish	2026/07/Juego-Ibiza-IOS-PR-01-04.avif	media/production/uploads/2026/07/Juego-Ibiza-IOS-PR-01-04.avif	image/avif	32569	featured_image
+32318	EJE-EST-05-00	EJERCITADOR AROS CORTO Y 2 POSTES	publish	2026/04/EJE-EST-05-00-EJERCITADOR-AROS-CORTO-Y-2-POSTES-1-1.avif	media/production/uploads/2026/04/EJE-EST-05-00-EJERCITADOR-AROS-CORTO-Y-2-POSTES-1-1.avif	image/avif	32306	featured_image
+32319	EJE-EST-09-00	EJERCITADOR BARRAS DOMINADAS Y DOS POSTES	publish	2026/04/EJE-ID-22-00.png	media/production/uploads/2026/04/EJE-ID-22-00.png	image/png	32418	featured_image | parented_attachment
+32320	EJE-EST-10-00	EJERCITADOR BARRAS DE ESTIRAMIENTO	publish	2026/04/EJE-EST-10-00-EJERCITADOR-BARRAS-DE-ESTIRAMIENTO-1-1.avif	media/production/uploads/2026/04/EJE-EST-10-00-EJERCITADOR-BARRAS-DE-ESTIRAMIENTO-1-1.avif	image/avif	32308	featured_image
+32321	EOS-IN-04-01	Juego INDIANA INCLUSIVO	publish	2026/07/Juego-Indiana-Inclusivo-EOS-IN-04-00-1.avif	media/production/uploads/2026/07/Juego-Indiana-Inclusivo-EOS-IN-04-00-1.avif	image/avif	32681	featured_image
+32322	MEC-CR-08-00	Juego MAINE INCLUSIVO	publish	2026/07/Juego-Maine-Inclusivo-EOS-IN-05-02-Top.avif	media/production/uploads/2026/07/Juego-Maine-Inclusivo-EOS-IN-05-02-Top.avif	image/avif	32574	gallery_image
+32322	MEC-CR-08-00	Juego MAINE INCLUSIVO	publish	2026/07/Juego-Maine-Inclusivo-EOS-IN-05-02.avif	media/production/uploads/2026/07/Juego-Maine-Inclusivo-EOS-IN-05-02.avif	image/avif	32575	featured_image
+32323	MER-PR-03-00	Juego CALIFORNIA	publish	2026/07/Juego-California-EOS-PR-08-02-top.avif	media/production/uploads/2026/07/Juego-California-EOS-PR-08-02-top.avif	image/avif	32556	gallery_image
+32323	MER-PR-03-00	Juego CALIFORNIA	publish	2026/07/Juego-California-EOS-PR-08-02.avif	media/production/uploads/2026/07/Juego-California-EOS-PR-08-02.avif	image/avif	32557	featured_image
+32324	MER-PR-04-00	Juego PARIS	publish	2026/07/Juego-Paris-MER-PR-04-00-top.png	media/production/uploads/2026/07/Juego-Paris-MER-PR-04-00-top.png	image/png	32689	gallery_image
+32324	MER-PR-04-00	Juego PARIS	publish	2026/07/Juego-Paris-MER-PR-04-00.avif	media/production/uploads/2026/07/Juego-Paris-MER-PR-04-00.avif	image/avif	32717	featured_image
+32325	MER-PR-08-00	Juego RANDOLPH	publish	2026/07/Juego-Randolph-EOS-PR-11-02-1.avif	media/production/uploads/2026/07/Juego-Randolph-EOS-PR-11-02-1.avif	image/avif	32674	featured_image
+32325	MER-PR-08-00	Juego RANDOLPH	publish	2026/07/Juego-Randolph-EOS-PR-11-02-TOP.avif	media/production/uploads/2026/07/Juego-Randolph-EOS-PR-11-02-TOP.avif	image/avif	32591	gallery_image
+32326	MER-PR-01-00	Juego ARKANSAS	publish	2026/07/Juego-Arkansas-EOS-PR-15-03-1.avif	media/production/uploads/2026/07/Juego-Arkansas-EOS-PR-15-03-1.avif	image/avif	32676	featured_image
+32326	MER-PR-01-00	Juego ARKANSAS	publish	2026/07/Juego-Arkansas-EOS-PR-15-03-top.avif	media/production/uploads/2026/07/Juego-Arkansas-EOS-PR-15-03-top.avif	image/avif	32539	gallery_image
+32327	MEV-CR-02-00	Juego PARMA	publish	2026/07/Juego-Parma-EOS-PR-19-02-im.avif	media/production/uploads/2026/07/Juego-Parma-EOS-PR-19-02-im.avif	image/avif	32588	gallery_image
+32327	MEV-CR-02-00	Juego PARMA	publish	2026/07/Juego-Parma-EOS-PR-19-02-top.avif	media/production/uploads/2026/07/Juego-Parma-EOS-PR-19-02-top.avif	image/avif	32589	gallery_image
+32327	MEV-CR-02-00	Juego PARMA	publish	2026/07/Juego-Parma-EOS-PR-19-02.avif	media/production/uploads/2026/07/Juego-Parma-EOS-PR-19-02.avif	image/avif	32590	featured_image
+32328	MEC-CR-07-00	Juego IMPERIO	publish	2026/07/Juego-Imperio-TEM-PR-06-05-1.avif	media/production/uploads/2026/07/Juego-Imperio-TEM-PR-06-05-1.avif	image/avif	32673	featured_image
+32328	MEC-CR-07-00	Juego IMPERIO	publish	2026/07/Juego-Imperio-TEM-PR-06-05-top.avif	media/production/uploads/2026/07/Juego-Imperio-TEM-PR-06-05-top.avif	image/avif	32570	gallery_image
+32329	TEM-PR-07-20	Juego TREN	publish	2026/07/Juego-Tren-TEM-PR-07-01-1.avif	media/production/uploads/2026/07/Juego-Tren-TEM-PR-07-01-1.avif	image/avif	32675	featured_image
+32329	TEM-PR-07-20	Juego TREN	publish	2026/07/Juego-Tren-TEM-PR-07-01-im.avif	media/production/uploads/2026/07/Juego-Tren-TEM-PR-07-01-im.avif	image/avif	32524	gallery_image
+32329	TEM-PR-07-20	Juego TREN	publish	2026/07/Juego-Tren-TEM-PR-07-01-top.avif	media/production/uploads/2026/07/Juego-Tren-TEM-PR-07-01-top.avif	image/avif	32525	gallery_image
+32334	APA-00-10-00	APARCABICICLETAS ANGULAR	publish	2026/05/APA-00-10-00-1.avif	media/production/uploads/2026/05/APA-00-10-00-1.avif	image/avif	32389	featured_image
+32337	EJE-EST-07-00	EJERCITADOR BARRAS PARALELAS Y 2 POSTES	publish	2026/04/EJE-EST-07-00-2.avif	media/production/uploads/2026/04/EJE-EST-07-00-2.avif	image/avif	32355	featured_image
+32338	EJE-IN-01-00	EJERCITADOR DOMINADAS BARRAS DOBLE INCLUSIVO	publish	2026/04/EJE-IN-01-00-2.avif	media/production/uploads/2026/04/EJE-IN-01-00-2.avif	image/avif	32356	featured_image
+32423	EJE-EST-10-00	EJERCITADOR BARRAS DE ESTIRAMIENTO	publish	2026/05/EJE-EST-10-00-EJERCITADOR-BARRAS-DE-ESTIRAMIENTO.avif	media/production/uploads/2026/05/EJE-EST-10-00-EJERCITADOR-BARRAS-DE-ESTIRAMIENTO.avif	image/avif	32424	featured_image | parented_attachment
+32713	EVA-PR-02-00	Juego Atraction Basic	publish	2026/07/Juego-Atraction-Basic-EVA-PR-02-00.avif	media/production/uploads/2026/07/Juego-Atraction-Basic-EVA-PR-02-00.avif	image/avif	32542	featured_image
+32728	EOS-CR-01-00	Juego BARCELONA (EOS-CR-01-00)	publish	2026/07/EOS-CR-01-00-scaled.jpg	media/production/uploads/2026/07/EOS-CR-01-00-scaled.jpg	image/jpeg	32729	featured_image | parented_attachment
+32728	EOS-CR-01-00	Juego BARCELONA (EOS-CR-01-00)	publish	2026/07/EOS-PR-01-02.png	media/production/uploads/2026/07/EOS-PR-01-02.png	image/png	32731	parented_attachment
+32728	EOS-CR-01-00	Juego BARCELONA (EOS-CR-01-00)	publish	2026/07/EOS-PR-10-01.png	media/production/uploads/2026/07/EOS-PR-10-01.png	image/png	32730	parented_attachment
+32728	EOS-CR-01-00	Juego BARCELONA (EOS-CR-01-00)	publish	2026/07/TDF-00-01-00.png	media/production/uploads/2026/07/TDF-00-01-00.png	image/png	32732	parented_attachment
+32733	TDF-00-01-00	Juego VIZCAYA (TDF-00-01-00)	publish	2026/07/TDF-00-01-00.png	media/production/uploads/2026/07/TDF-00-01-00.png	image/png	32732	featured_image

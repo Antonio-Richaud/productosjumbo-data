@@ -1,0 +1,31 @@
+{
+    "generated_at": "2026-07-23 17:44:03",
+    "source_environment": "production",
+    "source_url": "https://www.productosjumbo.com",
+    "products_scanned": 542,
+    "products_with_media": 539,
+    "products_without_media": 3,
+    "relation_rows": 1913,
+    "unique_media": 1241,
+    "existing_unique_files": 1235,
+    "missing_unique_files": 6,
+    "total_existing_bytes": 379613694,
+    "total_existing_megabytes": 362.03,
+    "relations_by_type": {
+        "content_url": 365,
+        "featured_image": 537,
+        "gallery_image": 185,
+        "meta_url:_pj_dibujo_2d_url": 22,
+        "meta_url:_pj_ficha_tecnica_url": 22,
+        "parented_attachment": 782
+    },
+    "media_by_mime_type": {
+        "[unknown]": 1,
+        "application/pdf": 185,
+        "application/zip": 175,
+        "image/avif": 199,
+        "image/jpeg": 329,
+        "image/png": 335,
+        "image/webp": 17
+    }
+}

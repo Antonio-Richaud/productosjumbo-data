@@ -1,0 +1,12 @@
+{
+  "generated_at_utc": "2026-07-23T18:10:13.171047+00:00",
+  "staged_lfs_image_paths": 880,
+  "unique_lfs_objects": 872,
+  "duplicate_content_groups": 8,
+  "paths_in_duplicate_content_groups": 16,
+  "validated_bytes": 214676192,
+  "validated_megabytes": 204.73,
+  "products_with_images": 539,
+  "unique_product_image_pairs": 960,
+  "lfs_pointer_errors": 0
+}

@@ -1,0 +1,241 @@
+{
+  "unique_media_total": 1241,
+  "unique_images": 880,
+  "unique_non_images": 361,
+  "image_relation_rows": 1505,
+  "existing_images": 880,
+  "missing_images": 0,
+  "image_bytes": 214676192,
+  "image_megabytes": 204.73,
+  "non_image_bytes": 164937502,
+  "non_image_megabytes": 157.3,
+  "images_over_5_mb": 0,
+  "images_over_10_mb": 0,
+  "images_over_25_mb": 0,
+  "images_over_50_mb": 0,
+  "images_over_100_mb": 0,
+  "suspicious_rows": 0,
+  "all_media_by_mime": {
+    "[unknown]": 1,
+    "application/pdf": 185,
+    "application/zip": 175,
+    "image/avif": 199,
+    "image/jpeg": 329,
+    "image/png": 335,
+    "image/webp": 17
+  },
+  "images_by_mime": {
+    "image/avif": 199,
+    "image/jpeg": 329,
+    "image/png": 335,
+    "image/webp": 17
+  },
+  "image_relations_by_type": {
+    "content_url": 46,
+    "featured_image": 537,
+    "gallery_image": 185,
+    "parented_attachment": 737
+  },
+  "largest_images": [
+    {
+      "relative_path": "2025/05/KOM-CRP812001-0404.png",
+      "mime_type": "image/png",
+      "bytes": 3858609,
+      "megabytes": 3.68,
+      "product_skus": "KOM-CRP812001-0404",
+      "product_names": "Domo sensorial"
+    },
+    {
+      "relative_path": "2025/05/KOM-PCM157-0205.png",
+      "mime_type": "image/png",
+      "bytes": 2645968,
+      "megabytes": 2.52,
+      "product_skus": "KOM-PCM157-0205",
+      "product_names": "Carrusel inclusivo"
+    },
+    {
+      "relative_path": "2025/05/KOM-CRP812501-0404.png",
+      "mime_type": "image/png",
+      "bytes": 2524592,
+      "megabytes": 2.41,
+      "product_skus": "KOM-CRP812501-0404",
+      "product_names": "Domo explorer"
+    },
+    {
+      "relative_path": "2025/05/KOM-BLX410501-3717.png",
+      "mime_type": "image/png",
+      "bytes": 2523740,
+      "megabytes": 2.41,
+      "product_skus": "KOM-BLX410501-3717",
+      "product_names": "Bloqx 5"
+    },
+    {
+      "relative_path": "2025/05/KOM-PCM200432-0901.png",
+      "mime_type": "image/png",
+      "bytes": 2445888,
+      "megabytes": 2.33,
+      "product_skus": "KOM-PCM200432-0901",
+      "product_names": "Mega deck doble con torre"
+    },
+    {
+      "relative_path": "2025/05/KOM-FAZ60300-0001.png",
+      "mime_type": "image/png",
+      "bytes": 2410261,
+      "megabytes": 2.3,
+      "product_skus": "KOM-FAZ60300-0001",
+      "product_names": "Prensa de piernas"
+    },
+    {
+      "relative_path": "2025/05/KOM-PCM81121-0950.png",
+      "mime_type": "image/png",
+      "bytes": 2388601,
+      "megabytes": 2.28,
+      "product_skus": "KOM-PCM81121-0950",
+      "product_names": "Duo climber"
+    },
+    {
+      "relative_path": "2025/05/KOM-PCE305121-0603.png",
+      "mime_type": "image/png",
+      "bytes": 2195721,
+      "megabytes": 2.09,
+      "product_skus": "KOM-PCE305121-0603",
+      "product_names": "Buscacaminos"
+    },
+    {
+      "relative_path": "2025/05/KOM-NRO542-1021.png",
+      "mime_type": "image/png",
+      "bytes": 2180249,
+      "megabytes": 2.08,
+      "product_skus": "KOM-NRO542-1021",
+      "product_names": "Barco explorador mediano"
+    },
+    {
+      "relative_path": "2025/05/KOM-CRP810201-0903.png",
+      "mime_type": "image/png",
+      "bytes": 2099651,
+      "megabytes": 2.0,
+      "product_skus": "KOM-CRP810201-0903",
+      "product_names": "Mini cúpula con tobogan"
+    },
+    {
+      "relative_path": "2021/01/Banca-completa-CMT-120P.png",
+      "mime_type": "image/png",
+      "bytes": 2021831,
+      "megabytes": 1.93,
+      "product_skus": "CMT-120P",
+      "product_names": "BANCA COMPLETA"
+    },
+    {
+      "relative_path": "2025/05/KOM-GXY916021-3417.png",
+      "mime_type": "image/png",
+      "bytes": 1870374,
+      "megabytes": 1.78,
+      "product_skus": "KOM-GXY916021-3417",
+      "product_names": "Supernova"
+    },
+    {
+      "relative_path": "2025/05/KOM-KPL400722-0902.png",
+      "mime_type": "image/png",
+      "bytes": 1846178,
+      "megabytes": 1.76,
+      "product_skus": "KOM-KPL400722-0902",
+      "product_names": "Cuatro torres con tobogan de tubo"
+    },
+    {
+      "relative_path": "2025/05/KOM-FAZ60400-0001.png",
+      "mime_type": "image/png",
+      "bytes": 1828115,
+      "megabytes": 1.74,
+      "product_skus": "KOM-FAZ60400-0001",
+      "product_names": "Prensa de hombros"
+    },
+    {
+      "relative_path": "2025/05/KOM-M98301-1009.png",
+      "mime_type": "image/png",
+      "bytes": 1826568,
+      "megabytes": 1.74,
+      "product_skus": "KOM-M98301-1009",
+      "product_names": "Columpio nido 360"
+    },
+    {
+      "relative_path": "2025/05/KOM-FAZ60100-0001.png",
+      "mime_type": "image/png",
+      "bytes": 1767873,
+      "megabytes": 1.69,
+      "product_skus": "KOM-FAZ60100-0001",
+      "product_names": "Prensa de pecho"
+    },
+    {
+      "relative_path": "2025/05/KOM-NRO836-1201.png",
+      "mime_type": "image/png",
+      "bytes": 1756268,
+      "megabytes": 1.67,
+      "product_skus": "KOM-NRO836-1201",
+      "product_names": "Cupula jungla"
+    },
+    {
+      "relative_path": "2025/05/KOM-FAZ60200-0001.png",
+      "mime_type": "image/png",
+      "bytes": 1753625,
+      "megabytes": 1.67,
+      "product_skus": "KOM-FAZ60200-0001",
+      "product_names": "Jalón para espalda"
+    },
+    {
+      "relative_path": "2025/05/KOM-NRO200501-1001.png",
+      "mime_type": "image/png",
+      "bytes": 1726824,
+      "megabytes": 1.65,
+      "product_skus": "KOM-NRO2005-1001",
+      "product_names": "Torre de los magos doble"
+    },
+    {
+      "relative_path": "2025/05/KOM-FAZ52100-0801.png",
+      "mime_type": "image/png",
+      "bytes": 1669428,
+      "megabytes": 1.59,
+      "product_skus": "KOM-FAZ52100-0801",
+      "product_names": "Bicicleta elíptica"
+    },
+    {
+      "relative_path": "2025/05/KOM-FAZ60500-0001.png",
+      "mime_type": "image/png",
+      "bytes": 1654339,
+      "megabytes": 1.58,
+      "product_skus": "KOM-FAZ60500-0001",
+      "product_names": "Remo horizontal"
+    },
+    {
+      "relative_path": "2020/12/mobiliario_jumbo_banca_pumori.png",
+      "mime_type": "image/png",
+      "bytes": 1642742,
+      "megabytes": 1.57,
+      "product_skus": "BAN-PP-03-00",
+      "product_names": "BANCA PUMORI PLASTIMADERA"
+    },
+    {
+      "relative_path": "2021/01/rubber-5.png",
+      "mime_type": "image/png",
+      "bytes": 1585442,
+      "megabytes": 1.51,
+      "product_skus": "PPG1-1",
+      "product_names": "Private: JUMBO RUBBER PG1 A 1 CM"
+    },
+    {
+      "relative_path": "2025/05/KOM-PCM153-0902.png",
+      "mime_type": "image/png",
+      "bytes": 1547031,
+      "megabytes": 1.48,
+      "product_skus": "KOM-PCM153-0902",
+      "product_names": "Carrusel 3 asientos"
+    },
+    {
+      "relative_path": "2025/05/KOM-PCM103031-0901.png",
+      "mime_type": "image/png",
+      "bytes": 1504794,
+      "megabytes": 1.44,
+      "product_skus": "KOM-PCM103031-0901",
+      "product_names": "Torre de juego con rampa"
+    }
+  ]
+}
