@@ -1,0 +1,93 @@
+{
+  "generated_at_utc": "2026-07-23T19:41:00+00:00",
+  "source_environment": "production",
+  "source_url": "https://www.productosjumbo.com/",
+  "catalog_snapshot_reference": "2026-07-22",
+  "content_extraction_date": "2026-07-23",
+  "products_total": 542,
+  "products_with_description": 178,
+  "products_without_description": 364,
+  "products_with_excerpt": 438,
+  "products_with_specifications": 443,
+  "products_without_specifications": 99,
+  "ambiguous_specification_candidates": 32,
+  "products_with_shortcodes": 101,
+  "field_layout": {
+    "content_and_excerpt": 130,
+    "content_only": 45,
+    "excerpt_only": 308,
+    "without_content_or_excerpt": 59
+  },
+  "specification_sources": {
+    "none": 96,
+    "post_content_split": 10,
+    "post_excerpt": 433,
+    "reclassified_as_description": 3
+  },
+  "specification_confidence": {
+    "high": 418,
+    "medium": 25,
+    "none": 99
+  },
+  "woocommerce_native_fields": {
+    "products_with_dimensions": 0,
+    "products_with_attributes": 0
+  },
+  "semantics": {
+    "description": "WordPress post_content",
+    "excerpt": "WordPress post_excerpt",
+    "specifications": "Texto clasificado desde post_excerpt o desde una sección marcada dentro de post_content"
+  },
+  "validation": {
+    "catalog_ids_match": true,
+    "catalog_skus_match": true,
+    "catalog_statuses_match": true,
+    "raw_records": 542,
+    "normalized_records": 542
+  },
+  "standardization": {
+    "schema_version": "1.1.1",
+    "products_total": 542,
+    "products_with_standardized_description": 178,
+    "products_without_standardized_description": 364,
+    "products_with_structured_specifications": 443,
+    "products_without_structured_specifications": 99,
+    "specification_rows": 1910,
+    "specification_status": {
+      "missing": 99,
+      "structured": 443
+    },
+    "content_completeness": {
+      "complete": 139,
+      "missing_both": 60,
+      "missing_description": 304,
+      "missing_specifications": 39
+    },
+    "products_needing_manual_review": 32,
+    "products_with_content_gaps": 403,
+    "manual_review_reasons": {
+      "multiple_values_for_length": 1,
+      "multiple_values_for_minimum_area": 1,
+      "possible_unit_inconsistency": 7,
+      "technical_content_without_clear_boundary": 23
+    },
+    "unparsed_fragments": 0,
+    "duplicate_specification_keys": 2,
+    "source_data_issues": 7,
+    "canonical_files": {
+      "product_content": "data/current/product-content.tsv",
+      "product_specifications": "data/current/product-specifications.tsv",
+      "specification_dictionary": "data/current/specification-dictionary.tsv"
+    },
+    "rules": {
+      "missing_values_are_not_invented": true,
+      "original_content_is_preserved": true,
+      "units_are_normalized": true,
+      "labels_use_canonical_keys": true,
+      "prose_is_not_forced_into_specifications": true,
+      "source_inconsistencies_are_reported": true
+    },
+    "electrical_fields_separated": 6,
+    "word_cross_corruption_repaired": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "generated_at_utc": "2026-07-23T19:41:00+00:00",
+  "source_environment": "production",
+  "source_url": "https://www.productosjumbo.com/",
+  "catalog_snapshot_reference": "2026-07-22",
+  "content_extraction_date": "2026-07-23",
+  "products_total": 542,
+  "products_with_description": 175,
+  "products_without_description": 367,
+  "products_with_excerpt": 438,
+  "products_with_specifications": 446,
+  "products_without_specifications": 96,
+  "ambiguous_specification_candidates": 23,
+  "products_with_shortcodes": 101,
+  "field_layout": {
+    "content_and_excerpt": 130,
+    "content_only": 45,
+    "excerpt_only": 308,
+    "without_content_or_excerpt": 59
+  },
+  "specification_sources": {
+    "none": 96,
+    "post_content_split": 10,
+    "post_excerpt": 436
+  },
+  "specification_confidence": {
+    "high": 421,
+    "medium": 25,
+    "none": 96
+  },
+  "woocommerce_native_fields": {
+    "products_with_dimensions": 0,
+    "products_with_attributes": 0
+  },
+  "semantics": {
+    "description": "WordPress post_content",
+    "excerpt": "WordPress post_excerpt",
+    "specifications": "Texto clasificado desde post_excerpt o desde una sección marcada dentro de post_content"
+  },
+  "validation": {
+    "catalog_ids_match": true,
+    "catalog_skus_match": true,
+    "catalog_statuses_match": true,
+    "raw_records": 542,
+    "normalized_records": 542
+  }
+}
